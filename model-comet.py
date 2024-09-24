@@ -45,7 +45,7 @@ def map_labels(row):
     return row['Difference Type']
 
 # Authenticate with Hugging Face 
-login(token="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")
+login(token="REPLACE WITH YOUR TOKEN")
 
 comet_model_path = download_model('Unbabel/wmt22-cometkiwi-da')
 comet_model = load_from_checkpoint(comet_model_path, strict=False)
