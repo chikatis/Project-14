@@ -81,7 +81,7 @@ def generate_embeddings(national_df, pt_df, model_name):
         for batch_start in range(0, m, batch_size):
             batch_pt_sentences = pt_sentences[batch_start:batch_start+batch_size]
             data = [{"src": s1, "mt": s2} for s2 in batch_pt_sentences]
-            outputs = comet_model.predict(data, progress_bar=False)
+            outputs = comet_model.predict(data, gpus=1, progress_bar=False)
             seg_scores.extend(outputs['scores'])
         
         # Store the scores in the scores_matrix
