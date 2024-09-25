@@ -53,11 +53,12 @@ comet_model = load_from_checkpoint(comet_model_path, strict=False)
 # Function to generate embeddings and compute cosine similarity
 def generate_embeddings(national_df, pt_df, model_name):
 
-    national_sentences = national_df['FRAG_DOCUMENT'][0:2].tolist()
-    pt_sentences = pt_df['PT Sentence Text'][0:1].tolist()
+    national_sentences = national_df['FRAG_DOCUMENT'].tolist()
+    pt_sentences = pt_df['PT Sentence Text'].tolist()
 
     n = len(national_sentences)
     m = len(pt_sentences)
+    scores_matrix = np.zeros((n, m))
 
     ### Case with enough resources to handle all the data at once
     # # Create the data for the model
