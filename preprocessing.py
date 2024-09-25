@@ -65,9 +65,7 @@ sk_building_df = read_data(sk_building, 'Building')
 # print(bc_buildingB_df.columns == pei_building_df.columns)
 # print(pei_building_df.columns == sk_building_df.columns)
 
- 
 # All the dataframes with 34 columns are the same.
-
  
 # ##### Dataframes with 27 columns
 # print(bc_buildingA_df.columns == energy_df.columns)
