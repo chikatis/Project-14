@@ -45,7 +45,7 @@ def map_labels(row):
     return row['Difference Type']
 
 # Authenticate with Hugging Face 
-login(token="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")
+login(token="REPLACE WITH HUGGING FACE TOKEN")
 
 comet_model_path = download_model('Unbabel/wmt22-cometkiwi-da')
 comet_model = load_from_checkpoint(comet_model_path, strict=False)
@@ -53,14 +53,27 @@ comet_model = load_from_checkpoint(comet_model_path, strict=False)
 # Function to generate embeddings and compute cosine similarity
 def generate_embeddings(national_df, pt_df, model_name):
 
-    national_sentences = national_df['FRAG_DOCUMENT'][0:8].tolist()
-    pt_sentences = pt_df['PT Sentence Text'][0:8].tolist()
+    national_sentences = national_df['FRAG_DOCUMENT'].tolist()
+    pt_sentences = pt_df['PT Sentence Text'].tolist()
 
     n = len(national_sentences)
     m = len(pt_sentences)
     scores_matrix = np.zeros((n, m))
+
+    ### Case with enough resources to handle all the data at once
+    # # Create the data for the model
+    # data = [{"src": s1, "mt": s2} for s1, s2 in product(national_sentences, pt_sentences)]
+
+    # # Predict the scores
+    # outputs = comet_model.predict(data, progress_bar=False)
+    # seg_scores = outputs['scores']
+    # scores_matrix = np.array(seg_scores).reshape(n, m)
+
+
+    ### Case with limited resources
+    scores_matrix = np.zeros((n, m))
     
-    batch_size = 2
+    batch_size = 512
     
     for i, s1 in enumerate(national_sentences):
         seg_scores = []
