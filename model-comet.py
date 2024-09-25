@@ -65,7 +65,7 @@ def generate_embeddings(national_df, pt_df, model_name):
     # data = [{"src": s1, "mt": s2} for s1, s2 in product(national_sentences, pt_sentences)]
 
     # # Predict the scores
-    # outputs = comet_model.predict(data, progress_bar=False)
+    # outputs = comet_model.predict(data, gpus=1, progress_bar=False)
     # seg_scores = outputs['scores']
     # scores_matrix = np.array(seg_scores).reshape(n, m)
 
