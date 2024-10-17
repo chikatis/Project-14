@@ -1,0 +1,78 @@
+{
+    "Total AER": 0.14258095698405027,
+    "AB Building": {
+        "Train AER": 0.04099821746880572,
+        "Threshold": 0.66,
+        "Test AER": 0.08532423208191131
+    },
+    "BC Building": {
+        "Train AER": 0.21739130434782605,
+        "Threshold": 0.5700000000000001,
+        "Test AER": 0.22499999999999998
+    },
+    "NS Building": {
+        "Train AER": "Infinity",
+        "Threshold": 1.0,
+        "Test AER": "Infinity"
+    },
+    "NU Building": {
+        "Train AER": "Infinity",
+        "Threshold": 1.0,
+        "Test AER": "Infinity"
+    },
+    "PE Building": {
+        "Train AER": 0.0,
+        "Threshold": 1.0,
+        "Test AER": 0.0
+    },
+    "SK Building": {
+        "Train AER": 0.40625,
+        "Threshold": 0.73,
+        "Test AER": 0.23076923076923073
+    },
+    "ON Combined": {
+        "Train AER": 0.10800426894343651,
+        "Threshold": 0.58,
+        "Test AER": 0.12451861360718874
+    },
+    "AB Fire": {
+        "Train AER": 0.06334841628959276,
+        "Threshold": 0.44,
+        "Test AER": 0.0
+    },
+    "BC Fire": {
+        "Train AER": 0.024630541871921152,
+        "Threshold": 0.45,
+        "Test AER": 0.054545454545454564
+    },
+    "NS Fire": {
+        "Train AER": 0.06779661016949157,
+        "Threshold": 1.0,
+        "Test AER": 0.10344827586206895
+    },
+    "ON Fire": {
+        "Train AER": 0.1907175246732462,
+        "Threshold": 0.59,
+        "Test AER": 0.19957983193277307
+    },
+    "SK Fire": {
+        "Train AER": 0.16666666666666663,
+        "Threshold": 0.93,
+        "Test AER": 0.4285714285714286
+    },
+    "BC Plumbing": {
+        "Train AER": 0.16129032258064513,
+        "Threshold": 0.6,
+        "Test AER": 0.0
+    },
+    "NU Plumbing": {
+        "Train AER": 0.23076923076923073,
+        "Threshold": 1.0,
+        "Test AER": 0.0
+    },
+    "PE Plumbing": {
+        "Train AER": 0.6666666666666667,
+        "Threshold": 1.0,
+        "Test AER": "Infinity"
+    }
+}
