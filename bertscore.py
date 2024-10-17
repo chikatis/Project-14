@@ -48,37 +48,39 @@ def map_labels(row):
 # Function to generate embeddings and compute cosine similarity
 def generate_embeddings(national_df, pt_df, model_name):
 
-    national_sentences = national_df['FRAG_DOCUMENT'][0:8].tolist()
-    pt_sentences = pt_df['PT Sentence Text'][0:8].tolist()
+    national_sentences = national_df['FRAG_DOCUMENT'].tolist()
+    pt_sentences = pt_df['PT Sentence Text'].tolist()
 
     n = len(national_sentences)
     m = len(pt_sentences)
-    print(n, m)
     scores_matrix = np.zeros((n, m))
 
-    batch_size = 2
-
-    # Compute BERTScore F1 in batches
+    ### Case where there are sufficient resources to compute all the embeddings at once
     for i, s1 in enumerate(national_sentences):
         seg_scores = []
-        
-        # Process pt_sentences in batches
-        for batch_start in range(0, m, batch_size):
-            batch_pt_sentences = pt_sentences[batch_start:batch_start+batch_size]
-            
-            # BERTScore requires two lists: one for source and one for reference sentences
-            batch_national_sentences = [s1] * len(batch_pt_sentences)
-            
-            # Compute BERTScore for the batch, using only F1 score
-            P, R, F1 = bert_score.score(batch_national_sentences, batch_pt_sentences, lang='en', verbose=False)
-            
-            # Extend the F1 scores to the list of segment scores
-            seg_scores.extend(F1.tolist())
-        
-        # Store the scores in the scores_matrix
+        P, R, F1 = bert_score.score([s1] * len(pt_sentences), pt_sentences, lang='en', verbose=False)
+        seg_scores.extend(F1.tolist())
+
         scores_matrix[i, :] = seg_scores
 
-    print(scores_matrix)
+
+    ### Case where there are not sufficient resources to compute all the embeddings at once
+    # batch_size = 512
+
+    # # Compute BERTScore F1 in batches
+    # for i, s1 in enumerate(national_sentences):
+    #     seg_scores = []
+        
+    #     # Process pt_sentences in batches
+    #     for batch_start in range(0, m, batch_size):
+    #         batch_pt_sentences = pt_sentences[batch_start:batch_start+batch_size]
+    #         batch_national_sentences = [s1] * len(batch_pt_sentences)
+            
+    #         P, R, F1 = bert_score.score(batch_national_sentences, batch_pt_sentences, lang='en', verbose=False)
+            
+    #         seg_scores.extend(F1.tolist())
+        
+    #     scores_matrix[i, :] = seg_scores
     
     return scores_matrix
 
