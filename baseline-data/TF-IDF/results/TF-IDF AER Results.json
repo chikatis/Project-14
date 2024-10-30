@@ -1,4 +1,6 @@
-{
+{   
+    "Total Test AER": 0.13718848294217278,
+    "Total Train AER": 0.12334587835376953,
     "AB Building": {
         "Train AER": 0.03306523681858797,
         "Threshold": 0.55,
@@ -10,14 +12,14 @@
         "Test AER": 0.26543209876543206
     },
     "NS Building": {
-        "Train AER": Infinity,
+        "Train AER": "Infinity",
         "Threshold": 1.0,
-        "Test AER": Infinity
+        "Test AER": "Infinity"
     },
     "NU Building": {
-        "Train AER": Infinity,
+        "Train AER": "Infinity",
         "Threshold": 1.0,
-        "Test AER": Infinity
+        "Test AER": "Infinity"
     },
     "PE Building": {
         "Train AER": 0.0,
@@ -72,6 +74,6 @@
     "PE Plumbing": {
         "Train AER": 0.6666666666666667,
         "Threshold": 1.0,
-        "Test AER": Infinity
+        "Test AER": "Infinity"
     }
 }
