@@ -1,0 +1,938 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="XF62F6BE0_0" xml:lang="null"><title>unknown</title><conbody>
+<p  outputclass="01Part">Part 10</p>
+<p  outputclass="01Part">Energy Efficiency</p>
+<p  outputclass="02Section"><b>Section&#x00A0;&#x00A0;10.1.&#x00A0;&#x00A0; General</b></p>
+<p  outputclass="03Subsection"><b>10.1.1.&#x00A0;Application</b></p>
+<p  outputclass="04Article"><b><ph  outputclass="f101">10.1.1.1.&#x00A0;Scope</ph></b></p>
+<p  outputclass="05Sentence"><ph  outputclass="f101">1)&#x00A0;&#x00A0;&#x00A0;</ph>The scope of this Part shall be as described in Subsection 1.3.3. of Division A.</p>
+<p  outputclass="04Article"><b><ph  outputclass="f101">10.1.1.2.&#x00A0;Application</ph></b></p>
+<p  outputclass="05Sentence"><ph  outputclass="f101">1)&#x00A0;&#x00A0;&#x00A0;</ph>The application of this Part shall be as described in Subsection 1.3.3. of Division A.</p>
+<p  outputclass="03Subsection"><b>10.1.2.&#x00A0;Definitions</b></p>
+<p  outputclass="04Article"><b><ph  outputclass="f101">10.1.1.1.&#x00A0;Defined Terms</ph></b></p>
+<p  outputclass="05Sentence">1)   Words that appear in italics are defined in Article 1.4.1.2.</p>
+<p  outputclass="02Section"><b>Section&#x00A0;&#x00A0;10.2.&#x00A0;&#x00A0; Energy Efficiency</b></p>
+<p  outputclass="03Subsection"><b>10.2.1.&#x00A0;General</b></p>
+<p  outputclass="04Article"><b><ph  outputclass="f101">10.2.1.1.&#x00A0;Application</ph></b></p>
+<p  outputclass="05Sentence">1)   This Section does not apply to <i>buildings</i> described in Sentence 1.3.3.3.(1) of Division A.</p>
+<p  outputclass="03Subsection"><b>10.2.2.&#x00A0;Design and Construction</b></p>
+<p  outputclass="04Article"><b><ph  outputclass="f101">10.2.2.1.&#x00A0;Design and Construction</ph></b></p>
+<p  outputclass="05Sentence">1)   Except as permitted in Article 10.2.2.2., <i>buildings</i> shall be designed and constructed to conform to</p>
+<p  outputclass="05Sentence">a)   ANSI/ASHRAE/IES 90.1, &#x201C;Energy Standard for Buildings Except Low-Rise Residential Buildings&#x201D; (except Subsection 8.4.2.),</p>
+<p  outputclass="05Sentence">b)   the NECB, or</p>
+<p  outputclass="05Sentence">c)   Subsection 10.2.3.</p>
+<p  outputclass="05Sentence">2)   Where a <i>building</i> contains one or more <i>major occupancies</i> listed in Subsection 10.2.3., those <i>major occupancies</i> shall conform to the requirements of any of Steps 2 to 4, as described in Sentence 10.2.3.2.(3), and where the <i>building</i> contains <i>major occupancies</i> not listed in Subsection 10.2.3., those remaining <i>major occupancies</i> shall comply with Clause (1)(a) or (b).</p>
+<p  outputclass="04Article"><b><ph  outputclass="f101">10.2.2.2.&#x00A0;Application to Existing Buildings</ph></b></p>
+<p  outputclass="05Sentence">(See Note A-10.2.2.2.)</p>
+<p  outputclass="05Sentence">1)   Where a <i>building</i> or <i>major occupancy</i> designed and constructed to conform to any version of ANSI/ASHRAE/IES 90.1, &#x201C;Energy Standard for Buildings Except Low-Rise Residential Buildings&#x201D; is altered, rehabilitated, or renovated, or there is a change in <i>occupancy</i>, the energy performance of the <i>alteration</i>, rehabilitation, renovation, or change in <i>occupancy</i> shall comply with Clause 10.2.2.1.(1)(a) or (c).</p>
+<p  outputclass="05Sentence">2)   Notwithstanding Article 1.1.1.1. of Division A of the NECB, where a <i>building</i> or <i>major occupancy</i> designed and constructed to conform to any version of the NECB is altered, rehabilitated, or renovated, or there is a change in <i>occupancy</i>, the energy performance of the <i>alteration</i>, rehabilitation, renovation or change in <i>occupancy</i>, shall comply with Clause 10.2.2.1.(1)(b) or (c).</p>
+<p  outputclass="05Sentence">3)   Notwithstanding Article 1.1.1.1. of Division A of the NECB, where a <i>building</i> or <i>major occupancy</i> designed and constructed to conform to any version of Subsection 10.2.3. is altered, rehabilitated, renovated, or there is a change in <i>occupancy</i>, the energy performance of the <i>alteration</i>, rehabilitation, renovation, or change in <i>occupancy</i>, shall comply Clauses 10.2.2.1.(1)(b) or (c).</p>
+<p  outputclass="05Sentence">4)   Notwithstanding Article 1.1.1.1. of Division A of the NECB, where a <i>building</i> or <i>major occupancy</i> that is not described in Sentences (1) through (3) is altered, rehabilitated, renovated, or there is a change in <i>occupancy</i>, the energy performance of the <i>alteration</i>, rehabilitation, renovation, or change in <i>occupancy</i> shall comply with Sentence 10.2.2.1.(1).</p>
+<p  outputclass="03Subsection"><b>10.2.3.&#x00A0;Energy Step Code</b></p>
+<p  outputclass="04Article"><b><ph  outputclass="f101">10.2.3.1.&#x00A0;Application</ph></b></p>
+<p  outputclass="05Sentence">1)   This Subsection applies to <i>buildings</i> containing any of the following <i>major occupancies</i>:</p>
+<p  outputclass="05Sentence">a)   <i>assembly</i>, as described in Tables 10.2.3.3.-A, 10.2.3.3.-B, 10.2.3.3.-C and 10.2.3.3.-D,</p>
+<p  outputclass="05Sentence">b)   <i>treatment</i>, as described in Table 10.2.3.3.-E,</p>
+<p  outputclass="05Sentence">c)   <i>care</i>, as described in Table 10.2.3.3.-F,</p>
+<p  outputclass="05Sentence">d)   <i>residential</i>,</p>
+<p  outputclass="05Sentence">e)   <i>business and personal service, </i>or</p>
+<p  outputclass="05Sentence">f)   <i>mercantile</i>.</p>
+<p  outputclass="05Sentence">(See Sentence 1.1.3.1.(1) and Table C-2 in Appendix C.)</p>
+<p  outputclass="04Article"><b><ph  outputclass="f101">10.2.3.2.&#x00A0;Definitions</ph></b></p>
+<p  outputclass="05Sentence">(See Note A-9.36.6.2.)</p>
+<p  outputclass="05Sentence">1)   For the purpose of this Subsection, the term &#x201C;total energy use intensity&#x201D; shall mean a metric of the energy used over a year by the <i>building</i>, estimated by using an energy model in accordance with Article 10.2.3.4., normalized per square metre of floor area of <i>conditioned space</i> and expressed in kWh/(m<sup>2</sup> &#x2022;year), for all of the following combined:</p>
+<p  outputclass="05Sentence">a)   space-heating equipment,</p>
+<p  outputclass="05Sentence">b)   space-cooling equipment,</p>
+<p  outputclass="05Sentence">c)   fans,</p>
+<p  outputclass="05Sentence">d)   interior and exterior lighting devices,</p>
+<p  outputclass="05Sentence">e)   service water heating equipment,</p>
+<p  outputclass="05Sentence">f)   pumps,</p>
+<p  outputclass="05Sentence">g)   auxiliary HVAC equipment (see A-9.36.6.2.(1)(f) in Appendix A),</p>
+<p  outputclass="05Sentence">h)   receptacle loads and miscellaneous equipment,</p>
+<p  outputclass="05Sentence">i)   appliances, and</p>
+<p  outputclass="05Sentence">j)   elevators and escalators.</p>
+<p  outputclass="05Sentence">2)   For the purpose of this Subsection, the term &#x201C;thermal energy demand intensity&#x201D; shall mean a metric of the annual heating required by the <i>building</i> for space conditioning and for conditioning of ventilation air, estimated by using an energy model in accordance with Article 10.2.3.4., normalized per square metre of floor area of <i>conditioned space</i> and expressed in kWh/(m<sup>2</sup> &#x2022;year), taking into account all of the following:</p>
+<p  outputclass="05Sentence">a)   thermal transmittance of above-ground walls and roof-ceiling assemblies,</p>
+<p  outputclass="05Sentence">b)   thermal transmittance of floors and walls in contact with the ground, or space that is not <i>conditioned space</i>,</p>
+<p  outputclass="05Sentence">c)   thermal transmittance and solar heat gain of windows, doors and skylights,</p>
+<p  outputclass="05Sentence">d)   air leakage through the <i>air barrier system</i>,</p>
+<p  outputclass="05Sentence">e)   internal heat gains from occupants and equipment, and</p>
+<p  outputclass="05Sentence">f)   heat recovery from exhaust ventilation.</p>
+<p  outputclass="05Sentence">(See Note A-10.2.3.2.(2).)</p>
+<p  outputclass="05Sentence">3)   For the purpose of this Subsection, the term &#x201C;Step&#x201D; shall mean a Step referred to in Tables 10.2.3.3.-A to 10.2.3.3.-J.</p>
+<p  outputclass="04Article"><b><ph  outputclass="f101">10.2.3.3.&#x00A0;Compliance Requirements</ph></b></p>
+<p  outputclass="05Sentence">1)   <i>Buildings</i> and <i>major occupancies</i> conforming to the requirements of any of Steps 2 to 4 shall be designed and constructed to conform to the applicable energy performance requirements in Tables 10.2.3.3.-A to 10.2.3.3.-J</p>
+<p  outputclass="10Tabtitle"><b>Table 10.2.3.3.-A</b></p>
+<p  outputclass="10Tabtitle"><b>Energy Performance Requirements for Schools Other than Colleges</b></p>
+<p  outputclass="10Tabtitle"><b>Forming part of Sentences 10.2.3.3.(1) and (2)</b></p>
+<table  frame="all">
+<title>
+</title>
+<tgroup  cols="3">
+<colspec  colname="C1" colnum="1" colwidth="19.677*"></colspec>
+<colspec  colname="C2" colnum="2" colwidth="79.834*"></colspec>
+<colspec  colname="C3" colnum="3" colwidth="82.333*"></colspec>
+<tbody><row>
+<entry  colname="C1" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">Step</p>
+</entry>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">Equipment and Systems &#x2013; Maximum Total Energy Use Intensity, kWh/(m<sup>2</sup>&#x00B7;year)</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal"><i>Building</i> Envelope &#x2013; Maximum Thermal Energy Demand Intensity, kWh/(m<sup>2</sup>&#x00B7;year)</p>
+</entry>
+</row><row>
+<entry  colname="C1" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">1</p>
+</entry>
+<entry  colsep="1" nameend="C3" namest="C2" rowsep="1" valign="middle"><p  outputclass="Normal">Reserved</p>
+</entry>
+</row><row>
+<entry  colname="C1" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">2</p>
+</entry>
+<entry  colsep="1" nameend="C3" namest="C2" rowsep="1" valign="middle"><p  outputclass="Normal">Conform to Part 8 of the NECB</p>
+</entry>
+</row></tbody></tgroup></table>
+<p  outputclass="10Tabtitle"><b>Table 10.2.3.3.-B</b></p>
+<p  outputclass="10Tabtitle"><b>Energy Performance Requirements for Libraries</b></p>
+<p  outputclass="10Tabtitle"><b>Forming part of Sentences 10.2.3.3.(1) and (2)</b></p>
+<table  frame="all">
+<title>
+</title>
+<tgroup  cols="3">
+<colspec  colname="C1" colnum="1" colwidth="19.677*"></colspec>
+<colspec  colname="C2" colnum="2" colwidth="79.834*"></colspec>
+<colspec  colname="C3" colnum="3" colwidth="82.333*"></colspec>
+<tbody><row>
+<entry  colname="C1" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">Step</p>
+</entry>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">Equipment and Systems &#x2013; Maximum Total Energy Use Intensity, kWh/(m<sup>2</sup>&#x00B7;year)</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal"><i>Building</i> Envelope &#x2013; Maximum Thermal Energy Demand Intensity, kWh/(m<sup>2</sup>&#x00B7;year)</p>
+</entry>
+</row><row>
+<entry  colname="C1" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">1</p>
+</entry>
+<entry  colsep="1" nameend="C3" namest="C2" rowsep="1" valign="middle"><p  outputclass="Normal">Reserved</p>
+</entry>
+</row><row>
+<entry  colname="C1" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">2</p>
+</entry>
+<entry  colsep="1" nameend="C3" namest="C2" rowsep="1" valign="middle"><p  outputclass="Normal">Conform to Part 8 of the NECB</p>
+</entry>
+</row></tbody></tgroup></table>
+<p  outputclass="10Tabtitle"><b>Table 10.2.3.3.-C</b></p>
+<p  outputclass="10Tabtitle"><b>Energy Performance Requirements for Colleges</b></p>
+<p  outputclass="10Tabtitle"><b>Forming part of Sentences 10.2.3.3.(1) and (2)</b></p>
+<table  frame="all">
+<title>
+</title>
+<tgroup  cols="3">
+<colspec  colname="C1" colnum="1" colwidth="19.677*"></colspec>
+<colspec  colname="C2" colnum="2" colwidth="79.834*"></colspec>
+<colspec  colname="C3" colnum="3" colwidth="82.333*"></colspec>
+<tbody><row>
+<entry  colname="C1" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">Step</p>
+</entry>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">Equipment and Systems &#x2013; Maximum Total Energy Use Intensity, kWh/(m<sup>2</sup>&#x00B7;year)</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal"><i>Building</i> Envelope &#x2013; Maximum Thermal Energy Demand Intensity, kWh/(m<sup>2</sup>&#x00B7;year)</p>
+</entry>
+</row><row>
+<entry  colname="C1" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">1</p>
+</entry>
+<entry  colsep="1" nameend="C3" namest="C2" rowsep="1" valign="middle"><p  outputclass="Normal">Reserved</p>
+</entry>
+</row><row>
+<entry  colname="C1" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">2</p>
+</entry>
+<entry  colsep="1" nameend="C3" namest="C2" rowsep="1" valign="middle"><p  outputclass="Normal">Conform to Part 8 of the NECB</p>
+</entry>
+</row></tbody></tgroup></table>
+<p  outputclass="10Tabtitle"><b>Table 10.2.3.3.-D</b></p>
+<p  outputclass="10Tabtitle"><b>Energy Performance Requirements for Recreation Centres</b></p>
+<p  outputclass="10Tabtitle"><b>Forming part of Sentences 10.2.3.3.(1) and (2)</b></p>
+<table  frame="all">
+<title>
+</title>
+<tgroup  cols="3">
+<colspec  colname="C1" colnum="1" colwidth="19.677*"></colspec>
+<colspec  colname="C2" colnum="2" colwidth="79.834*"></colspec>
+<colspec  colname="C3" colnum="3" colwidth="82.333*"></colspec>
+<tbody><row>
+<entry  colname="C1" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">Step</p>
+</entry>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">Equipment and Systems &#x2013; Maximum Total Energy Use Intensity, kWh/(m<sup>2</sup>&#x00B7;year)</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal"><i>Building</i> Envelope &#x2013; Maximum Thermal Energy Demand Intensity, kWh/(m<sup>2</sup>&#x00B7;year)</p>
+</entry>
+</row><row>
+<entry  colname="C1" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">1</p>
+</entry>
+<entry  colsep="1" nameend="C3" namest="C2" rowsep="1" valign="middle"><p  outputclass="Normal">Reserved</p>
+</entry>
+</row><row>
+<entry  colname="C1" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">2</p>
+</entry>
+<entry  colsep="1" nameend="C3" namest="C2" rowsep="1" valign="middle"><p  outputclass="Normal">Conform to Part 8 of the NECB</p>
+</entry>
+</row></tbody></tgroup></table>
+<p  outputclass="10Tabtitle"><b>Table 10.2.3.3.-E</b></p>
+<p  outputclass="10Tabtitle"><b>Energy Performance Requirements for Hospitals</b></p>
+<p  outputclass="10Tabtitle"><b>Forming part of Sentences 10.2.3.3.(1) and (2)</b></p>
+<table  frame="all">
+<title>
+</title>
+<tgroup  cols="3">
+<colspec  colname="C1" colnum="1" colwidth="19.677*"></colspec>
+<colspec  colname="C2" colnum="2" colwidth="79.834*"></colspec>
+<colspec  colname="C3" colnum="3" colwidth="82.333*"></colspec>
+<tbody><row>
+<entry  colname="C1" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">Step</p>
+</entry>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">Equipment and Systems &#x2013; Maximum Total Energy Use Intensity, kWh/(m<sup>2</sup>&#x00B7;year)</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal"><i>Building</i> Envelope &#x2013; Maximum Thermal Energy Demand Intensity, kWh/(m<sup>2</sup>&#x00B7;year)</p>
+</entry>
+</row><row>
+<entry  colname="C1" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">1</p>
+</entry>
+<entry  colsep="1" nameend="C3" namest="C2" rowsep="1" valign="middle"><p  outputclass="Normal">Reserved</p>
+</entry>
+</row><row>
+<entry  colname="C1" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal"><u>2</u></p>
+</entry>
+<entry  colsep="1" nameend="C3" namest="C2" rowsep="1" valign="middle"><p  outputclass="Normal">Conform to Part 8 of the NECB</p>
+</entry>
+</row></tbody></tgroup></table>
+<p  outputclass="10Tabtitle"><b>Table 10.2.3.3.-F</b></p>
+<p  outputclass="10Tabtitle"><b>Energy Performance Requirements for Care Centres</b></p>
+<p  outputclass="10Tabtitle"><b>Forming part of Sentences 10.2.3.3.(1) and (2)</b></p>
+<table  frame="all">
+<title>
+</title>
+<tgroup  cols="3">
+<colspec  colname="C1" colnum="1" colwidth="19.677*"></colspec>
+<colspec  colname="C2" colnum="2" colwidth="79.834*"></colspec>
+<colspec  colname="C3" colnum="3" colwidth="82.333*"></colspec>
+<tbody><row>
+<entry  colname="C1" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">Step</p>
+</entry>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">Equipment and Systems &#x2013; Maximum Total Energy Use Intensity, kWh/(m<sup>2</sup>&#x00B7;year)</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal"><i>Building</i> Envelope &#x2013; Maximum Thermal Energy Demand Intensity, kWh/(m<sup>2</sup>&#x00B7;year)</p>
+</entry>
+</row><row>
+<entry  colname="C1" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">1</p>
+</entry>
+<entry  colsep="1" nameend="C3" namest="C2" rowsep="1" valign="middle"><p  outputclass="Normal">Reserved</p>
+</entry>
+</row><row>
+<entry  colname="C1" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">2</p>
+</entry>
+<entry  colsep="1" nameend="C3" namest="C2" rowsep="1" valign="middle"><p  outputclass="Normal">Conform to Part 8 of the NECB</p>
+</entry>
+</row></tbody></tgroup></table>
+<p  outputclass="10Tabtitle"><b>Table 10.2.3.3.-G</b></p>
+<p  outputclass="10Tabtitle"><b>Energy Performance Requirements for Hotels and Motels</b></p>
+<p  outputclass="10Tabtitle"><b>Forming part of Sentences 10.2.3.3.(1) and (2)</b></p>
+<table  frame="all">
+<title>
+</title>
+<tgroup  cols="4">
+<colspec  colname="C1" colnum="1" colwidth="44.299*"></colspec>
+<colspec  colname="C2" colnum="2" colwidth="44.299*"></colspec>
+<colspec  colname="C3" colnum="3" colwidth="44.317*"></colspec>
+<colspec  colname="C4" colnum="4" colwidth="48.928*"></colspec>
+<tbody><row>
+<entry  colname="C1" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">Degree-Days Below 18&#x00B0;C</p>
+</entry>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">Step</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">Equipment and Systems &#x2013; Maximum Total Energy Use Intensity, kWh/(m<sup>2</sup>&#x00B7;year)</p>
+</entry>
+<entry  colname="C4" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal"><i>Building</i> Envelope &#x2013; Maximum Thermal Energy Demand Intensity, kWh/(m<sup>2</sup>&#x00B7;year)</p>
+</entry>
+</row><row>
+<entry  colname="C1" colsep="1" morerows="3" rowsep="1" valign="middle"><p  outputclass="Normal">Less than 3000</p>
+</entry>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">1</p>
+</entry>
+<entry  colsep="1" nameend="C4" namest="C3" rowsep="1" valign="middle"><p  outputclass="Normal">Reserved</p>
+</entry>
+</row><row>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">2</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">170</p>
+</entry>
+<entry  colname="C4" colsep="0" rowsep="1" valign="middle"><p  outputclass="Normal">30</p>
+</entry>
+</row><row>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">3</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">140</p>
+</entry>
+<entry  colname="C4" colsep="0" rowsep="1" valign="middle"><p  outputclass="Normal">20</p>
+</entry>
+</row><row>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">4</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">120</p>
+</entry>
+<entry  colname="C4" colsep="0" rowsep="1" valign="middle"><p  outputclass="Normal">15</p>
+</entry>
+</row><row>
+<entry  colname="C1" colsep="1" morerows="3" rowsep="1" valign="middle"><p  outputclass="Normal">3000 to 3999</p>
+</entry>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">1</p>
+</entry>
+<entry  colsep="1" nameend="C4" namest="C3" rowsep="1" valign="middle"><p  outputclass="Normal">Reserved</p>
+</entry>
+</row><row>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">2</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">170</p>
+</entry>
+<entry  colname="C4" colsep="0" rowsep="1" valign="middle"><p  outputclass="Normal">30</p>
+</entry>
+</row><row>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">3</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">145</p>
+</entry>
+<entry  colname="C4" colsep="0" rowsep="1" valign="middle"><p  outputclass="Normal">21</p>
+</entry>
+</row><row>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">4</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">130</p>
+</entry>
+<entry  colname="C4" colsep="0" rowsep="1" valign="middle"><p  outputclass="Normal">16</p>
+</entry>
+</row><row>
+<entry  colname="C1" colsep="1" morerows="3" rowsep="1" valign="middle"><p  outputclass="Normal">4000 to 4999</p>
+</entry>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">1</p>
+</entry>
+<entry  colsep="1" nameend="C4" namest="C3" rowsep="1" valign="middle"><p  outputclass="Normal">Reserved</p>
+</entry>
+</row><row>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">2</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">170</p>
+</entry>
+<entry  colname="C4" colsep="0" rowsep="1" valign="middle"><p  outputclass="Normal">30</p>
+</entry>
+</row><row>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">3</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">145</p>
+</entry>
+<entry  colname="C4" colsep="0" rowsep="1" valign="middle"><p  outputclass="Normal">25</p>
+</entry>
+</row><row>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">4</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">130</p>
+</entry>
+<entry  colname="C4" colsep="0" rowsep="1" valign="middle"><p  outputclass="Normal">18</p>
+</entry>
+</row><row>
+<entry  colname="C1" colsep="1" morerows="3" rowsep="1" valign="middle"><p  outputclass="Normal">Greater than 4999</p>
+</entry>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">1</p>
+</entry>
+<entry  colsep="1" nameend="C4" namest="C3" rowsep="1" valign="middle"><p  outputclass="Normal">Reserved</p>
+</entry>
+</row><row>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">2</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">170</p>
+</entry>
+<entry  colname="C4" colsep="0" rowsep="1" valign="middle"><p  outputclass="Normal">32</p>
+</entry>
+</row><row>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">3</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">150</p>
+</entry>
+<entry  colname="C4" colsep="0" rowsep="1" valign="middle"><p  outputclass="Normal">28</p>
+</entry>
+</row><row>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">4</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">145</p>
+</entry>
+<entry  colname="C4" colsep="0" rowsep="1" valign="middle"><p  outputclass="Normal">20</p>
+</entry>
+</row></tbody></tgroup></table>
+<p  outputclass="10Tabtitle"><b>Table 10.2.3.3.-H</b></p>
+<p  outputclass="10Tabtitle"><b>Energy Performance Requirements for Other Residential Occupancies</b></p>
+<p  outputclass="10Tabtitle"><b>Forming part of Sentences 10.2.3.3.(1) and (2)</b></p>
+<table  frame="all">
+<title>
+</title>
+<tgroup  cols="4">
+<colspec  colname="C1" colnum="1" colwidth="44.299*"></colspec>
+<colspec  colname="C2" colnum="2" colwidth="44.299*"></colspec>
+<colspec  colname="C3" colnum="3" colwidth="44.317*"></colspec>
+<colspec  colname="C4" colnum="4" colwidth="48.928*"></colspec>
+<tbody><row>
+<entry  colname="C1" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">Degree-Days Below 18&#x00B0;C</p>
+</entry>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">Step</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">Equipment and Systems &#x2013; Maximum Total Energy Use Intensity, kWh/(m<sup>2</sup>&#x00B7;year)</p>
+</entry>
+<entry  colname="C4" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal"><i>Building</i> Envelope &#x2013; Maximum Thermal Energy Demand Intensity, kWh/(m<sup>2</sup>&#x00B7;year)</p>
+</entry>
+</row><row>
+<entry  colname="C1" colsep="1" morerows="3" rowsep="1" valign="middle"><p  outputclass="Normal">Less than 3000</p>
+</entry>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">1</p>
+</entry>
+<entry  colsep="1" nameend="C4" namest="C3" rowsep="1" valign="middle"><p  outputclass="Normal">Reserved</p>
+</entry>
+</row><row>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">2</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">130</p>
+</entry>
+<entry  colname="C4" colsep="0" rowsep="1" valign="middle"><p  outputclass="Normal">45</p>
+</entry>
+</row><row>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">3</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">120</p>
+</entry>
+<entry  colname="C4" colsep="0" rowsep="1" valign="middle"><p  outputclass="Normal">30</p>
+</entry>
+</row><row>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">4</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">100</p>
+</entry>
+<entry  colname="C4" colsep="0" rowsep="1" valign="middle"><p  outputclass="Normal">15</p>
+</entry>
+</row><row>
+<entry  colname="C1" colsep="1" morerows="3" rowsep="1" valign="middle"><p  outputclass="Normal">3000 to 3999</p>
+</entry>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">1</p>
+</entry>
+<entry  colsep="1" nameend="C4" namest="C3" rowsep="1" valign="middle"><p  outputclass="Normal">Reserved</p>
+</entry>
+</row><row>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">2</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">130</p>
+</entry>
+<entry  colname="C4" colsep="0" rowsep="1" valign="middle"><p  outputclass="Normal">45</p>
+</entry>
+</row><row>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">3</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">120</p>
+</entry>
+<entry  colname="C4" colsep="0" rowsep="1" valign="middle"><p  outputclass="Normal">35</p>
+</entry>
+</row><row>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">4</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">110</p>
+</entry>
+<entry  colname="C4" colsep="0" rowsep="1" valign="middle"><p  outputclass="Normal">22</p>
+</entry>
+</row><row>
+<entry  colname="C1" colsep="1" morerows="3" rowsep="1" valign="middle"><p  outputclass="Normal">4000 to 4999</p>
+</entry>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">1</p>
+</entry>
+<entry  colsep="1" nameend="C4" namest="C3" rowsep="1" valign="middle"><p  outputclass="Normal">Reserved</p>
+</entry>
+</row><row>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">2</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">135</p>
+</entry>
+<entry  colname="C4" colsep="0" rowsep="1" valign="middle"><p  outputclass="Normal">50</p>
+</entry>
+</row><row>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">3</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">120</p>
+</entry>
+<entry  colname="C4" colsep="0" rowsep="1" valign="middle"><p  outputclass="Normal">35</p>
+</entry>
+</row><row>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">4</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">110</p>
+</entry>
+<entry  colname="C4" colsep="0" rowsep="1" valign="middle"><p  outputclass="Normal">22</p>
+</entry>
+</row><row>
+<entry  colname="C1" colsep="1" morerows="3" rowsep="1" valign="middle"><p  outputclass="Normal">5000 to 5999</p>
+</entry>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">1</p>
+</entry>
+<entry  colsep="1" nameend="C4" namest="C3" rowsep="1" valign="middle"><p  outputclass="Normal">Reserved</p>
+</entry>
+</row><row>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">2</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">135</p>
+</entry>
+<entry  colname="C4" colsep="0" rowsep="1" valign="middle"><p  outputclass="Normal">55</p>
+</entry>
+</row><row>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">3</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">120</p>
+</entry>
+<entry  colname="C4" colsep="0" rowsep="1" valign="middle"><p  outputclass="Normal">40</p>
+</entry>
+</row><row>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">4</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">110</p>
+</entry>
+<entry  colname="C4" colsep="0" rowsep="1" valign="middle"><p  outputclass="Normal">22</p>
+</entry>
+</row><row>
+<entry  colname="C1" colsep="1" morerows="3" rowsep="1" valign="middle"><p  outputclass="Normal">6000 to 6999</p>
+</entry>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">1</p>
+</entry>
+<entry  colsep="1" nameend="C4" namest="C3" rowsep="1" valign="middle"><p  outputclass="Normal">Reserved</p>
+</entry>
+</row><row>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">2</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">150</p>
+</entry>
+<entry  colname="C4" colsep="0" rowsep="1" valign="middle"><p  outputclass="Normal">60</p>
+</entry>
+</row><row>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">3</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">140</p>
+</entry>
+<entry  colname="C4" colsep="0" rowsep="1" valign="middle"><p  outputclass="Normal">50</p>
+</entry>
+</row><row>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">4</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">125</p>
+</entry>
+<entry  colname="C4" colsep="0" rowsep="1" valign="middle"><p  outputclass="Normal">35</p>
+</entry>
+</row><row>
+<entry  colname="C1" colsep="1" morerows="3" rowsep="1" valign="middle"><p  outputclass="Normal">Greater than 6999</p>
+</entry>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">1</p>
+</entry>
+<entry  colsep="1" nameend="C4" namest="C3" rowsep="1" valign="middle"><p  outputclass="Normal">Reserved</p>
+</entry>
+</row><row>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">2</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">180</p>
+</entry>
+<entry  colname="C4" colsep="0" rowsep="1" valign="middle"><p  outputclass="Normal">90</p>
+</entry>
+</row><row>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">3</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">160</p>
+</entry>
+<entry  colname="C4" colsep="0" rowsep="1" valign="middle"><p  outputclass="Normal">75</p>
+</entry>
+</row><row>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">4</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">140</p>
+</entry>
+<entry  colname="C4" colsep="0" rowsep="1" valign="middle"><p  outputclass="Normal">60</p>
+</entry>
+</row></tbody></tgroup></table>
+<p  outputclass="10Tabtitle"><b>Table 10.2.3.3.-I</b></p>
+<p  outputclass="10Tabtitle"><b>Energy Performance Requirements for Offices</b></p>
+<p  outputclass="10Tabtitle"><b>Forming part of Sentences 10.2.3.3.(1) and (2)</b></p>
+<table  frame="all">
+<title>
+</title>
+<tgroup  cols="4">
+<colspec  colname="C1" colnum="1" colwidth="44.299*"></colspec>
+<colspec  colname="C2" colnum="2" colwidth="44.299*"></colspec>
+<colspec  colname="C3" colnum="3" colwidth="44.317*"></colspec>
+<colspec  colname="C4" colnum="4" colwidth="48.928*"></colspec>
+<tbody><row>
+<entry  colname="C1" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">Degree-Days Below 18&#x00B0;C</p>
+</entry>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">Step</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">Equipment and Systems &#x2013; Maximum Total Energy Use Intensity, kWh/(m<sup>2</sup>&#x00B7;year)</p>
+</entry>
+<entry  colname="C4" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal"><i>Building</i> Envelope &#x2013; Maximum Thermal Energy Demand Intensity, kWh/(m<sup>2</sup>&#x00B7;year)</p>
+</entry>
+</row><row>
+<entry  colname="C1" colsep="1" morerows="2" rowsep="1" valign="middle"><p  outputclass="Normal">Less than 3000</p>
+</entry>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">1</p>
+</entry>
+<entry  colsep="1" nameend="C4" namest="C3" rowsep="1" valign="middle"><p  outputclass="Normal">Reserved</p>
+</entry>
+</row><row>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">2</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">110</p>
+</entry>
+<entry  colname="C4" colsep="0" rowsep="1" valign="middle"><p  outputclass="Normal">30</p>
+</entry>
+</row><row>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">3</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">100</p>
+</entry>
+<entry  colname="C4" colsep="0" rowsep="1" valign="middle"><p  outputclass="Normal">20</p>
+</entry>
+</row><row>
+<entry  colname="C1" colsep="1" morerows="2" rowsep="1" valign="middle"><p  outputclass="Normal">3000 to 3999</p>
+</entry>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">1</p>
+</entry>
+<entry  colsep="1" nameend="C4" namest="C3" rowsep="1" valign="middle"><p  outputclass="Normal">Reserved</p>
+</entry>
+</row><row>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">2</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">110</p>
+</entry>
+<entry  colname="C4" colsep="0" rowsep="1" valign="middle"><p  outputclass="Normal">30</p>
+</entry>
+</row><row>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">3</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">100</p>
+</entry>
+<entry  colname="C4" colsep="0" rowsep="1" valign="middle"><p  outputclass="Normal">20</p>
+</entry>
+</row><row>
+<entry  colname="C1" colsep="1" morerows="2" rowsep="1" valign="middle"><p  outputclass="Normal">4000 to 4999</p>
+</entry>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">1</p>
+</entry>
+<entry  colsep="1" nameend="C4" namest="C3" rowsep="1" valign="middle"><p  outputclass="Normal">Reserved</p>
+</entry>
+</row><row>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">2</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">110</p>
+</entry>
+<entry  colname="C4" colsep="0" rowsep="1" valign="middle"><p  outputclass="Normal">30</p>
+</entry>
+</row><row>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">3</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">100</p>
+</entry>
+<entry  colname="C4" colsep="0" rowsep="1" valign="middle"><p  outputclass="Normal">20</p>
+</entry>
+</row><row>
+<entry  colname="C1" colsep="1" morerows="2" rowsep="1" valign="middle"><p  outputclass="Normal">Greater than 4999</p>
+</entry>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">1</p>
+</entry>
+<entry  colsep="1" nameend="C4" namest="C3" rowsep="1" valign="middle"><p  outputclass="Normal">Reserved</p>
+</entry>
+</row><row>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">2</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">115</p>
+</entry>
+<entry  colname="C4" colsep="0" rowsep="1" valign="middle"><p  outputclass="Normal">30</p>
+</entry>
+</row><row>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">3</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">110</p>
+</entry>
+<entry  colname="C4" colsep="0" rowsep="1" valign="middle"><p  outputclass="Normal">20</p>
+</entry>
+</row></tbody></tgroup></table>
+<p  outputclass="10Tabtitle"><b>Table 10.2.3.3.-J</b></p>
+<p  outputclass="10Tabtitle"><b>Energy Performance Requirements for Other Business and Personal Service or Mercantile Occupancies</b></p>
+<p  outputclass="10Tabtitle"><b>Forming part of Sentences 10.2.3.3.(1) and (2)</b></p>
+<table  frame="all">
+<title>
+</title>
+<tgroup  cols="4">
+<colspec  colname="C1" colnum="1" colwidth="44.299*"></colspec>
+<colspec  colname="C2" colnum="2" colwidth="44.299*"></colspec>
+<colspec  colname="C3" colnum="3" colwidth="44.317*"></colspec>
+<colspec  colname="C4" colnum="4" colwidth="48.928*"></colspec>
+<tbody><row>
+<entry  colname="C1" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">Degree-Days Below 18&#x00B0;C</p>
+</entry>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">Step</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">Equipment and Systems &#x2013; Maximum Total Energy Use Intensity, kWh/(m<sup>2</sup>&#x00B7;year)</p>
+</entry>
+<entry  colname="C4" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal"><i>Building</i> Envelope &#x2013; Maximum Thermal Energy Demand Intensity, kWh/(m<sup>2</sup>&#x00B7;year)</p>
+</entry>
+</row><row>
+<entry  colname="C1" colsep="1" morerows="2" rowsep="1" valign="middle"><p  outputclass="Normal">Less than 3000</p>
+</entry>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">1</p>
+</entry>
+<entry  colsep="1" nameend="C4" namest="C3" rowsep="1" valign="middle"><p  outputclass="Normal">Reserved</p>
+</entry>
+</row><row>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">2</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">145</p>
+</entry>
+<entry  colname="C4" colsep="0" rowsep="1" valign="middle"><p  outputclass="Normal">30</p>
+</entry>
+</row><row>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">3</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">120</p>
+</entry>
+<entry  colname="C4" colsep="0" rowsep="1" valign="middle"><p  outputclass="Normal">20</p>
+</entry>
+</row><row>
+<entry  colname="C1" colsep="1" morerows="2" rowsep="1" valign="middle"><p  outputclass="Normal">3000 to 3999</p>
+</entry>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">1</p>
+</entry>
+<entry  colsep="1" nameend="C4" namest="C3" rowsep="1" valign="middle"><p  outputclass="Normal">Reserved</p>
+</entry>
+</row><row>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">2</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">145</p>
+</entry>
+<entry  colname="C4" colsep="0" rowsep="1" valign="middle"><p  outputclass="Normal">30</p>
+</entry>
+</row><row>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">3</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">125</p>
+</entry>
+<entry  colname="C4" colsep="0" rowsep="1" valign="middle"><p  outputclass="Normal">25</p>
+</entry>
+</row><row>
+<entry  colname="C1" colsep="1" morerows="2" rowsep="1" valign="middle"><p  outputclass="Normal">4000 to 4999</p>
+</entry>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">1</p>
+</entry>
+<entry  colsep="1" nameend="C4" namest="C3" rowsep="1" valign="middle"><p  outputclass="Normal">Reserved</p>
+</entry>
+</row><row>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">2</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">145</p>
+</entry>
+<entry  colname="C4" colsep="0" rowsep="1" valign="middle"><p  outputclass="Normal">45</p>
+</entry>
+</row><row>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">3</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">130</p>
+</entry>
+<entry  colname="C4" colsep="0" rowsep="1" valign="middle"><p  outputclass="Normal">30</p>
+</entry>
+</row><row>
+<entry  colname="C1" colsep="1" morerows="2" rowsep="1" valign="middle"><p  outputclass="Normal">Greater than 4999</p>
+</entry>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">1</p>
+</entry>
+<entry  colsep="1" nameend="C4" namest="C3" rowsep="1" valign="middle"><p  outputclass="Normal">Reserved</p>
+</entry>
+</row><row>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">2</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">170</p>
+</entry>
+<entry  colname="C4" colsep="0" rowsep="1" valign="middle"><p  outputclass="Normal">55</p>
+</entry>
+</row><row>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">3</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">150</p>
+</entry>
+<entry  colname="C4" colsep="0" rowsep="1" valign="middle"><p  outputclass="Normal">40</p>
+</entry>
+</row></tbody></tgroup></table>
+<p  outputclass="05Sentence">2)   Except as permitted by Sentence (3),</p>
+<p  outputclass="05Sentence">a)   energy performance shall be calculated in conformance with Article 10.2.3.4., and</p>
+<p  outputclass="05Sentence">b)   airtightness shall be tested in accordance with Article 10.2.3.5.</p>
+<p  outputclass="05Sentence">(See Note A-10.2.3.3.(2).)</p>
+<p  outputclass="05Sentence">3)   <i>Buildings</i> and <i>major occupancies</i> designed and constructed to conform to Step 4 of Tables 10.2.3.3.- G to 10.2.3.3.-H or to Step 3 in Tables 10.2.3.3.-I and 10.2.3.3.-J, and to the Passive House Planning Package, version 9 or newer, are deemed to comply with this Subsection provided the energy model according to which the <i>building</i> or the <i>major occupancy</i> of the <i>building</i> is designed and constructed is prepared by a Certified Passive House Designer, or Certified Passive House Consultant, who is approved by the Passive House Institute.</p>
+<p  outputclass="05Sentence">(See also Sentence 10.2.2.1.(2).)</p>
+<p  outputclass="04Article"><b><ph  outputclass="f101">10.2.3.4.&#x00A0;Energy Modelling</ph></b></p>
+<p  outputclass="05Sentence">(See Note A-10.2.3.4.)</p>
+<p  outputclass="05Sentence">1)   Except as required by Sentence (2), for <i>buildings</i> and <i>major occupancies</i> conforming to the requirements of any of Steps 2 to 4, energy modelling shall conform to</p>
+<p  outputclass="05Sentence">a)   the applicable requirements of Part 8 of the NECB, and</p>
+<p  outputclass="05Sentence">b)   the City of Vancouver Energy Modelling Guidelines.</p>
+<p  outputclass="05Sentence">2)   Except as permitted by Sentence (3), energy modelling for <i>buildings</i> and <i>major occupancies</i> conforming to the requirements of any of Steps 2 to 4 shall account for the air leakage rate derived in accordance with Article 10.2.3.5.</p>
+<p  outputclass="05Sentence">3)   Until the air leakage rate determined by Sentence (2) is available, an air leakage rate determined in accordance with the City of Vancouver Energy Modelling Guidelines shall be used.</p>
+<p  outputclass="05Sentence">4)   In case of conflict between the provisions of the NECB and the City of Vancouver Energy Modelling Guidelines, the provisions of the City of Vancouver Energy Modelling Guidelines shall govern.</p>
+<p  outputclass="04Article"><b><ph  outputclass="f101">10.2.3.5.&#x00A0;Building Envelope Airtightness Testing</ph></b></p>
+<p  outputclass="05Sentence">1)   Except as required by Sentence (2), <i>buildings</i> and <i>major occupancies</i> shall be tested for airtightness in accordance with</p>
+<p  outputclass="05Sentence">a)   ASTM E 779, &#x201C;Standard Test Method for Determining Air Leakage Rate by Fan Pressurization&#x201D;,</p>
+<p  outputclass="05Sentence">b)   USACE Version 3, &#x201C;Air Leakage Test Protocol for Building Envelopes&#x201D;, or</p>
+<p  outputclass="05Sentence">c)   ASTM E 3158, &#x201C;Standard Test Method for Measuring the Air Leakage Rate of a Large or Multizone Building.&#x201D;</p>
+<p  outputclass="05Sentence">(See Note A-10.2.3.5.(1).)</p>
+<p  outputclass="05Sentence">2)   <i>Buildings</i> and <i>major occupancies</i> shall be tested for airtightness to an induced test pressure of not less than 75 Pa.</p>
+<p  outputclass="02Section"><b>Section&#x00A0;&#x00A0;10.3.&#x00A0;&#x00A0; Greenhouse Gas Emissions</b></p>
+<p  outputclass="03Subsection"><b>10.3.1.&#x00A0;General</b></p>
+<p  outputclass="04Article"><b><ph  outputclass="f101">10.3.1.1.&#x00A0;Application</ph></b></p>
+<p  outputclass="05Sentence"><ph  outputclass="f101">1)&#x00A0;&#x00A0;&#x00A0;</ph>The requirements of this Section apply only to <i>buildings </i>that</p>
+<p  outputclass="05Sentence">a)   contain any of the following major occupancies as described in Table 10.3.1.3.:</p>
+<p  outputclass="05Sentence">i)   <i>residential</i>,</p>
+<p  outputclass="05Sentence">iii)   <i>business and personal services,</i> or</p>
+<p  outputclass="05Sentence">iii)   <i>mercantile,</i> and</p>
+<p  outputclass="05Sentence">b)   are designed to Step 2, 3 or 4 in Tables 10.2.3.3.-G to 10.2.3.3.-J. (See also Sentence 10.2.3.2.(3)).</p>
+<p  outputclass="05Sentence">2)   Modeling of greenhouse gas emissions shall conform to the City of Vancouver Energy Modeling Guidelines.</p>
+<p  outputclass="04Article"><b><ph  outputclass="f101">10.3.1.2.&#x00A0;Definitions and Attributions</ph></b></p>
+<p  outputclass="05Sentence">1)   For the purposes of this Section, the term &#x201C;greenhouse gas&#x201D;, expressed with the abbreviation &#x201C;GHG&#x201D;, shall have the same meaning as defined in the Climate Change Accountability Act.</p>
+<p  outputclass="05Sentence">2)   For the purposes of this Section, the term &#x201C;greenhouse gas intensity&#x201D;, expressed with the abbreviation &#x201C;GHGI&#x201D;, shall mean the total greenhouse gas emissions, expressed as kgCO<sub>2e</sub> per square metre of floor area of <i>conditioned space</i> per year, associated with the energy used by the <i>building&#x27;s</i> systems.</p>
+<p  outputclass="05Sentence">3)   For the purposes of this Section, the symbol &#x201C;CO<sub>2e</sub>&#x201D; shall mean carbon dioxide or carbon dioxide equivalent, with carbon dioxide equivalent meaning one or more greenhouse gases with a global warming potential equivalent to carbon dioxide.</p>
+<p  outputclass="05Sentence">4)   For the purposes of this Section, the term &#x201C;Emissions Level&#x201D; shall mean an Emissions Level referred to in Table 10.3.1.3.</p>
+<p  outputclass="05Sentence">5)   For the purposes of this Section, the term &#x201C;measure only&#x201D; shall mean that the GHGI and the total greenhouse gases are calculated, as applicable, and the values reported in accordance with Subsection 2.2.8. of Division C.</p>
+<p  outputclass="04Article"><b><ph  outputclass="f101">10.3.1.3.&#x00A0;Compliance Requirements</ph></b></p>
+<p  outputclass="05Sentence">1)   <i>Buildings</i> conforming to the requirements of any of GHG Emission Levels EL-1 to EL-4 shall be designed and constructed to conform to Table 10.3.1.3. based on <i>occupancy</i>.</p>
+<table  frame="sides">
+<title>
+</title>
+<tgroup  cols="5">
+<colspec  colname="C1" colnum="1" colwidth="22.704*"></colspec>
+<colspec  colname="C2" colnum="2" colwidth="33.792*"></colspec>
+<colspec  colname="C3" colnum="3" colwidth="43.560*"></colspec>
+<colspec  colname="C4" colnum="4" colwidth="28.512*"></colspec>
+<colspec  colname="C5" colnum="5" colwidth="53.363*"></colspec>
+<tbody><row>
+<entry  colsep="0" nameend="C5" namest="C1" rowsep="1" valign="middle"><p  outputclass="10Tabtitle"><b>Table 10.3.1.3.&#x00A0;</b></p>
+<p  outputclass="10Tabtitle"><b>Greenhouse Gas Emissions&#x00A0;</b></p>
+<p  outputclass="10Tabtitle"><b>Forming Part of Sentence 10.3.1.3.(1)<ph  outputclass="colour-0070C0"><u>&#x00A0;</u></ph></b></p>
+</entry>
+</row><row>
+<entry  colname="C1" colsep="1" morerows="2" rowsep="1" valign="middle"><p  outputclass="Normal">GHG Emission Level&#x00A0;</p>
+</entry>
+<entry  colsep="1" nameend="C5" namest="C2" rowsep="1" valign="middle"><p  outputclass="Normal">Maximum GHGI of the <i>Building</i>, Expressed in kgCO<sub>2e</sub>/m<sup>2</sup>/year&#x00A0;</p>
+</entry>
+</row><row>
+<entry  colsep="1" nameend="C3" namest="C2" rowsep="1" valign="middle"><p  outputclass="Normal"><i>Residential Major Occupancy</i>&#x00A0;</p>
+</entry>
+<entry  colsep="1" nameend="C5" namest="C4" rowsep="1" valign="middle"><p  outputclass="Normal"><i>Business and Personal Service</i> and <i>Mercantile Major Occupancies</i>&#x00A0;</p>
+</entry>
+</row><row>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">Hotels and Motels&#x00A0;&#x00A0;</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">Other <i>Residential Occupancies</i>&#x00A0;</p>
+</entry>
+<entry  colname="C4" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">Offices&#x00A0;</p>
+</entry>
+<entry  colname="C5" colsep="0" rowsep="1" valign="middle"><p  outputclass="Normal">Other<i> Business and Personal Service</i> and <i>Mercantile Occupancies</i>&#x00A0;</p>
+</entry>
+</row><row>
+<entry  colname="C1" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">EL-1&#x00A0;</p>
+</entry>
+<entry  colsep="1" nameend="C5" namest="C2" rowsep="1" valign="middle"><p  outputclass="Normal">measure only&#x00A0;</p>
+</entry>
+</row><row>
+<entry  colname="C1" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">EL-2&#x00A0;</p>
+</entry>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">9.0&#x00A0;</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">7.0&#x00A0;</p>
+</entry>
+<entry  colname="C4" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">5.0&#x00A0;</p>
+</entry>
+<entry  colname="C5" colsep="0" rowsep="1" valign="middle"><p  outputclass="Normal">6.0&#x00A0;</p>
+</entry>
+</row><row>
+<entry  colname="C1" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">EL-3&#x00A0;</p>
+</entry>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">4.0&#x00A0;</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">3.0&#x00A0;</p>
+</entry>
+<entry  colname="C4" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">3.0&#x00A0;</p>
+</entry>
+<entry  colname="C5" colsep="0" rowsep="1" valign="middle"><p  outputclass="Normal">3.0&#x00A0;</p>
+</entry>
+</row><row>
+<entry  colname="C1" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">EL-4&#x00A0;</p>
+</entry>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">2.0&#x00A0;</p>
+</entry>
+<entry  colname="C3" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">1.8&#x00A0;</p>
+</entry>
+<entry  colname="C4" colsep="1" rowsep="1" valign="middle"><p  outputclass="Normal">1.5&#x00A0;</p>
+</entry>
+<entry  colname="C5" colsep="0" rowsep="1" valign="middle"><p  outputclass="Normal">2.0&#x00A0;</p>
+</entry>
+</row></tbody></tgroup></table>
+<p  outputclass="05Sentence">2)   The emissions factors associated with the use of energy utilities consumed by the <i>building&#x2019;s</i> systems shall be</p>
+<p  outputclass="05Sentence">a)   0.011 kg CO<sub>2e</sub>/kWh for electricity,</p>
+<p  outputclass="05Sentence">b)   0.180 kg CO<sub>2e</sub>/kWh for natural gas,</p>
+<p  outputclass="05Sentence">c)   0.2155 kg CO<sub>2e</sub>/kWh for propane,</p>
+<p  outputclass="05Sentence">d)   0.2579 kg CO<sub>2e</sub>/kWh for light fuel oil (standard),</p>
+<p  outputclass="05Sentence">e)   0.2689 kg CO<sub>2e</sub>/kWh for heavy fuel oil,</p>
+<p  outputclass="05Sentence">f)   0.2581 kg CO<sub>2e</sub>/kWh for diesel fuel (standard), and</p>
+<p  outputclass="05Sentence">g)   0.0786 kg CO<sub>2e</sub>/kWh for wood fuel.</p>
+<p  outputclass="02Section"><b>Section&#x00A0;&#x00A0;10.4.&#x00A0;&#x00A0; Objectives and Functional Statements</b></p>
+<p  outputclass="03Subsection"><b>10.4.1.&#x00A0;Objectives and Functional Statements</b></p>
+<p  outputclass="04Article"><b><ph  outputclass="f101">10.4.1.1.&#x00A0;Attributions to Acceptable Solutions</ph></b></p>
+<p  outputclass="05Sentence">1)   For the purpose of compliance with this Code as required in Clause 1.2.1.1.(1)(b) of Division A, the objectives and functional statements attributed to the acceptable solutions in this Part shall be the objectives and functional statements listed in Table 10.4.1.1. (See Note A-1.1.2.1.(1).)</p>
+<p  outputclass="10Tabtitle"><b><ph  outputclass="b1"><b>Table&#x00A0;</b></ph><xref  format="html" href="file:///E:" scope="external"><ph  outputclass="origXrefData">10.4.1.1.</ph></xref></b></p>
+<p  outputclass="10Tabtitle"><b><ph  outputclass="b1"><b>Objectives and Functional Statements Attributed to the Acceptable Solutions in Part 10</b></ph></b></p>
+<p  outputclass="10Tabtitle"><b><ph  outputclass="f101">Forming Part of&#x00A0;</ph><xref  format="html" href="file:///E:" scope="external"><ph  outputclass="origXrefData">Sentence</ph></xref><xref  format="html" href="file:///E:" scope="external"><ph  outputclass="origXrefData">&#x00A0;</ph></xref><xref  format="html" href="file:///E:" scope="external"><ph  outputclass="origXrefData">10.4.1.1.(1)</ph></xref></b></p>
+<table  frame="all">
+<title>
+</title>
+<tgroup  cols="2">
+<colspec  colname="C1" colnum="1" colwidth="25.802*"></colspec>
+<colspec  colname="C2" colnum="2" colwidth="125.981*"></colspec>
+<tbody><row>
+<entry  colname="C1" colsep="1" rowsep="1" valign="middle"><p  outputclass="12TabHeadBody"><ph  outputclass="flts1"><b>Acceptable Solutions</b></ph></p>
+</entry>
+<entry  colname="C2" colsep="1" rowsep="1" valign="middle"><p  outputclass="12TabHeadBody"><ph  outputclass="flts1"><b>Functional Statements and Objectives</b><sup>(1)</sup></ph></p>
+</entry>
+</row><row>
+<entry  colsep="1" nameend="C2" namest="C1" rowsep="1"><p  outputclass="12TabHeadBody">10.2.3.3. Compliance Requirements</p>
+</entry>
+</row><row>
+<entry  colname="C1" colsep="1" rowsep="1"><p  outputclass="12TabHeadBody"><xref  format="html" href="file:///E:" scope="external"><ph  outputclass="origXrefData">(3)</ph></xref></p>
+</entry>
+<entry  colname="C2" colsep="0" rowsep="1"><p  outputclass="12TabHeadBody">[F85, F86, F90, F91, F92, F93, F95, F96, F98, F99, F100-OE1.1]</p>
+</entry>
+</row><row>
+<entry  colsep="1" nameend="C2" namest="C1" rowsep="1"><p  outputclass="12TabHeadBody">10.2.3.5. Building Envelope Airtightness Testing</p>
+</entry>
+</row><row>
+<entry  colname="C1" colsep="1" rowsep="1"><p  outputclass="12TabHeadBody">(1)</p>
+</entry>
+<entry  colname="C2" colsep="0" rowsep="1"><p  outputclass="12TabHeadBody">[F90-OE1.1]</p>
+</entry>
+</row></tbody></tgroup></table>
+<?note s to Table&amp;#x00A0;10.4.1.1.:?>
+<p  outputclass="12bTabnote"><sup>(1)</sup><ph  outputclass="flts1">&#x00A0;See Parts 2 and 3 of Division A.</ph></p>
+<?note s to Part 10?>
+<p  outputclass="01Part">Energy Efficiency</p>
+<p  outputclass="08appnote"><ph  outputclass="f101">A-10.&#x00A0;&#x00A0;&#x00A0;Water Efficiency.   </ph>Water efficiency requirements have been relocated in Book II, Plumbing Services, of the British Columbia Building Code.</p>
+<p  outputclass="08appnote">A-10.2.2.2.   Energy Requirements for Alterations to Buildings and Major Occupancies. Alterations, rehabilitation, renovations and changes of occupancy to existing buildings or major occupancies that were originally designed and constructed to previous editions of the ANSI/ASHRAE/IES 90.1 standard are to comply with the edition of the ANSI/ASHRAE/IES 90.1 standard referenced in this Code, or the requirements of Subsection 10.2.3. Alterations, rehabilitation, renovations and changes of occupancy to existing buildings or major occupancies that were originally designed and constructed to previous editions of the NECB or Subsection 10.2.3. are to comply with the edition of the NECB referenced in this Code, or to Subsection 10.2.3. Existing buildings or major occupancies that were not designed and constructed to any version of the ANSI/ASHRAE/IES 90.1 standard, the NECB or Subsection 10.2.3, may use the edition of the ANSI/ASHRAE/IES 90.1 standard or the NECB referenced in this Code, or Subsection 10.2.3. for alterations, rehabilitation, renovations and changes in occupancy.</p>
+<p  outputclass="08appnote">Sentence 1.1.1.2.(1) of Division A states that the level of building performance shall not be decreased below a level that already exists. For example, a new occupancy may be permitted a higher lighting power density by the ANSI/ASHRAE/IES 90.1 standard or the NECB than the lighting power density that was permitted for a previous occupancy. This does not constitute a decrease in the level of building performance, provided the design meets the minimum requirements of the relevant Code or standard.</p>
+<p  outputclass="08appnote">A-10.2.3.2.(2)   Thermal Energy Demand Intensity (TEDI). TEDI does not include receptacle loads and energy use from unusual uses such as spas and computer server rooms.</p>
+<p  outputclass="08appnote">A-10.2.3.3.(2)   Energy Model Calculations for Step 1. Although the total energy use intensity and thermal energy demand intensity are not required for NECB conformance, they must still be calculated in conformance with Article 10.3.1.4. and reported in accordance with Subsection 2.2.9. of Division C.</p>
+<p  outputclass="08appnote">A-10.2.3.4.   Energy Modelling</p>
+<p  outputclass="08appnote"><ph  outputclass="b1"><b>Energy Model Calculations for Steps 2 to 4 </b></ph></p>
+<p  outputclass="08appnote">Notwithstanding the requirements of Part 8 of the NECB, a reference building and building energy target are not required for compliance with the requirements of Steps 2 to 4 in Article 10.2.3.3. The performance requirements of Tables 10.2.3.3.-A. to 10.2.3.3.-J. are used to determine compliance.</p>
+<p  outputclass="08appnote"><b>Air Leakage Rate in Energy Model Calculations </b></p>
+<p  outputclass="08appnote">The requirement to account for the air leakage rate as tested in all energy model calculations supersedes the NECB air leakage rate requirements. For buildings that must conform to the requirements of any of Steps 2 to 4, higher than expected air leakage may require the building design to be altered and the energy model calculations to be repeated. Alternatively, the air leakage rate could be retested after making alterations to the air barrier system to attain the desired air leakage rate.</p>
+<p  outputclass="08appnote"><b>Air Leakage Rate </b></p>
+<p  outputclass="08appnote">Section 2.4. of the City of Vancouver&#x2019;s Energy Modelling Guidelines provides guidance on determining infiltration/air leakage rates for buildings conforming with Section 10.2.3. at the design stage.</p>
+<p  outputclass="08appnote">A-10.2.3.5.(1)   Building Airtightness Testing Requirements. The intent of this testing is to quantify the airtightness level of the air barrier system, not airtightness of the building at in-service operating conditions.</p>
+</conbody>
+</concept>

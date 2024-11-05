@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="XC38B1CF8_ID1318" xml:lang="null"><title>Change Indication</title><conbody>
+
+<ol>
+<li>
+<p  outputclass="BodyText">As a courtesy to Code users, efforts have been made to identify technical changes relative to the 2015 edition. Where a technical addition or revision has been made, a vertical line has been added in the margin next to the affected provision to indicate the approximate location of the new or revised content. No change indication is provided for editorial revisions or for renumbered or deleted content.</p>
+<table  frame="all">
+<title>
+</title>
+<tgroup  cols="1">
+<colspec  colname="C1" colnum="1" colwidth="159.086*"></colspec>
+<tbody><row>
+<entry  colname="C1" colsep="1" rowsep="1"><p  outputclass="BodyText">In addition to the above noted vertical lines, which indicate a change to the NBC, further unique to British Columbia technical changes, additions, and variations relative to the 2023 edition of the BCBC are identified. These changes are shown by a bold vertical line added in the margin next to the affected provision to indicate the approximate location of the unique to B.C. content, wherever practical. The bold vertical lines are for convenience only and have no legal effect. No change indication is provided for renumbered or deleted provisions.</p>
+<p  outputclass="BodyText">The term &#x201C;reserved&#x201D; is included in place of certain deleted Codes Canada model content which has not been adopted. The term &#x201C;reserved&#x201D; is generally used so that the numbering structure of the model National Codes is maintained, easing comparability and harmonization.</p>
+</entry>
+</row></tbody></tgroup></table>
+</li></ol></conbody>
+</concept>

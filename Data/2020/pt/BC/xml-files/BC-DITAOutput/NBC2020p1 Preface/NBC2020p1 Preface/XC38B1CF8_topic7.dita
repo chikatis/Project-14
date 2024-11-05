@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="XC38B1CF8_ID611" xml:lang="null"><title>Objective-Based Code Format</title><conbody>
+
+<ul>
+<li>
+<ol>
+<li>
+<p  outputclass="BodyText">The NBC has been published in an objective-based code format since 2005.</p>
+<table  frame="all">
+<title>
+</title>
+<tgroup  cols="1">
+<colspec  colname="C1" colnum="1" colwidth="166.566*"></colspec>
+<tbody><row>
+<entry  colname="C1" colsep="1" rowsep="1"><p  outputclass="BodyText">The 2006 BCBC (including plumbing services as Part 7) and the 2006 BCFC were the first objective-based codes adopted by the Province of British Columbia. The following relates also to Book II (Plumbing Systems), of this Code.</p>
+</entry>
+</row></tbody></tgroup></table>
+<p  outputclass="BodyText">As described in more detail in the section entitled Structure of the NBC, the Code comprises three Divisions:</p>
+</li>
+<li>
+<p>Division A, which defines the scope of the Code and contains the objectives, the functional statements and the conditions necessary to achieve compliance;</p>
+</li>
+<li>
+<p>Division B, which contains acceptable solutions (commonly referred to as &#x201C;technical requirements&#x201D;) deemed to satisfy the objectives and functional statements listed in Division A; and</p>
+</li>
+<li>
+<p>Division C, which contains administrative provisions.</p>
+<p  outputclass="BodyText">Most of the requirements in Division B are linked to three types of information:</p>
+</li>
+<li>
+<p>objectives (Code objectives, such as safety or health, which individual requirements help to address),</p>
+</li>
+<li>
+<p>functional statements (statements of the functions of the building that a particular requirement helps to achieve), and</p>
+</li>
+<li>
+<p>intent statements (detailed statements of the specific intent of the requirement).</p>
+</li></ol></li></ul></conbody>
+</concept>

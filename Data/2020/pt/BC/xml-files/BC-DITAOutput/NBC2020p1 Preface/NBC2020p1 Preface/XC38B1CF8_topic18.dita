@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="XC38B1CF8_ID1214" xml:lang="null"><title>Numbering System</title><conbody>
+
+<ol>
+<li>
+<ul>
+<li>
+<p  outputclass="BodyText">A consistent numbering system has been used throughout the National Model Codes. The first number indicates the Part of the Code; the second, the Section in the Part; the third, the Subsection; and the fourth, the Article in the Subsection. The detailed provisions are found at the Sentence level (indicated by numbers in brackets), and Sentences may be broken down into Clauses and Subclauses. This structure is illustrated as follows:</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Part</p>
+</li>
+<li>
+<p>Section</p>
+</li>
+<li>
+<p>Subsection</p>
+</li>
+<li>
+<p>Article</p>
+<p  outputclass="BodyText">3.5.2.1.(2)&#x0009;Sentence</p>
+<p  outputclass="BodyText">3.5.2.1.(2)(a)&#x0009;Clause</p>
+<p  outputclass="BodyText">3.5.2.1.(2)(a)(i)&#x0009;Subclause</p>
+</li></ol></conbody>
+</concept>

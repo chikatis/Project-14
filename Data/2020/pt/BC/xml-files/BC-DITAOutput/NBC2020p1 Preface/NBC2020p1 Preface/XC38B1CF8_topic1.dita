@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="XC38B1CF8_ID7" xml:lang="null"><title>Preface</title><conbody>
+
+<table  frame="all">
+<title>
+</title>
+<tgroup  cols="1">
+<colspec  colname="C1" colnum="1" colwidth="167.147*"></colspec>
+<tbody><row>
+<entry  colname="C1" colsep="1" rowsep="1"><p  outputclass="BodyText">The following preface is reprinted from the model National Building Code of Canada (NBC), on which the British Columbia Building Code (BCBC) is substantially based. As such, this information also pertains to the BCBC. Material that is not relevant to the BCBC has been deleted; minor BCBC-specific edits within the text have been made. Additional information only relevant to the BCBC has been included in text boxes within the document.</p>
+</entry>
+</row></tbody></tgroup></table>
+<p  outputclass="BodyText">The National Building Code of Canada 2020 (NBC), together with the National Plumbing Code of Canada 2020 (NPC), the National Fire Code of Canada 2020 (NFC) and the National Energy Code of Canada for Buildings 2020 (NECB), has been developed by the Canadian Commission on Building and Fire Codes (CCBFC) as an objective-based national model code that can be adopted by provincial and territorial governments.</p>
+<p  outputclass="BodyText">In Canada, provincial and territorial governments have the authority to enact legislation that regulates building design and construction within their jurisdictions. This may involve the adoption of the NBC without change or with modifications to suit local needs, and the enactment of other laws and regulations regarding building design and construction, including requirements for professional involvement.</p>
+<table  frame="all">
+<title>
+</title>
+<tgroup  cols="1">
+<colspec  colname="C1" colnum="1" colwidth="167.147*"></colspec>
+<tbody><row>
+<entry  colname="C1" colsep="1" rowsep="1"><p  outputclass="BodyText">In British Columbia, the NBC, together with the National Plumbing Code of Canada, are adopted, including any variations considered necessary, as Book I (General) and Book II (Plumbing Systems) of the BCBC, pursuant to the Building Act.</p>
+<p  outputclass="BodyText">The National Fire Code of Canada is adopted, including any variations considered necessary, as the British Columbia Fire Code (BCFC), pursuant to the Fire Services Act.</p>
+<p  outputclass="BodyText">The National Energy Code of Canada for Buildings (NECB) is adopted by reference from Book I (General) of the British Columbia Building Code.</p>
+</entry>
+</row></tbody></tgroup></table>
+<p  outputclass="BodyText">The NBC is a model code in the sense that it helps promote consistency among provincial and territorial building codes. Persons involved in the design or construction of a building should consult the provincial or territorial jurisdiction concerned to find out which building code is applicable.</p>
+<p  outputclass="BodyText">This edition of the NBC succeeds the 2015 edition.</p>
+<table  frame="all">
+<title>
+</title>
+<tgroup  cols="1">
+<colspec  colname="C1" colnum="1" colwidth="167.147*"></colspec>
+<tbody><row>
+<entry  colname="C1" colsep="1" rowsep="1"><p  outputclass="BodyText">This edition of the BCBC succeeds the 2018 edition.</p>
+</entry>
+</row></tbody></tgroup></table>
+</conbody>
+</concept>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="XC38B1CF8_ID1657" xml:lang="null"><title>Conformity Assessment</title><conbody>
+
+<ol>
+<li>
+<ul>
+<li>
+<p  outputclass="BodyText">The NBC establishes minimum measures, which are set out within its own text or within referenced standards. However, the NBC does not set out who is responsible for assessing conformity to the measures or how those with this responsibility might carry it out. This responsibility is usually established by the governing legislation of the adopting provinces and territories. Provincial or territorial authorities should be consulted to determine who is responsible for conformity assessment within their jurisdiction.</p>
+<table  frame="all">
+<title>
+</title>
+<tgroup  cols="1">
+<colspec  colname="C1" colnum="1" colwidth="167.147*"></colspec>
+<tbody><row>
+<entry  colname="C1" colsep="1" rowsep="1"><p  outputclass="BodyText">In British Columbia, local authorities are authorized to, by bylaw, regulate construction and to enforce the requirements of the BCBC.</p>
+</entry>
+</row></tbody></tgroup></table>
+<p  outputclass="BodyText">Those persons responsible for ensuring that materials, appliances, systems and equipment meet the requirements of this Code have several means available to assist them, ranging from on-site inspection to the use of certification services provided by accredited third-party organizations. Test reports or mill certificates provided by manufacturers or suppliers can also assist in the acceptance of products. Engineering reports may be required for more complex products.</p>
+<table  frame="all">
+<title>
+</title>
+<tgroup  cols="1">
+<colspec  colname="C1" colnum="1" colwidth="167.147*"></colspec>
+<tbody><row>
+<entry  colname="C1" colsep="1" rowsep="1"><p  outputclass="BodyText">Requirements for Registered Professionals are located in Division C of the BCBC.</p>
+</entry>
+</row></tbody></tgroup></table>
+</li></ul></li></ol></conbody>
+</concept>

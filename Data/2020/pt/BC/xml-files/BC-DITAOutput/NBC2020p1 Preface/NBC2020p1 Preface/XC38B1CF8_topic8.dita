@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="XC38B1CF8_ID681" xml:lang="null"><title>Objectives</title><conbody>
+
+<ul>
+<li>
+<ol>
+<li>
+<p  outputclass="BodyText">The NBC&#x27;s objectives are fully defined in Section 2.2. of Division A.</p>
+<p  outputclass="BodyText">The objectives describe, in broad terms, the overall goals that the NBC&#x27;s requirements are intended to achieve. They serve to define the boundaries of the subject areas the Code addresses. However, the Code does not address all the issues that might be considered to fall within those boundaries.</p>
+<p  outputclass="BodyText">The objectives describe undesirable situations and their consequences, which the Code aims to prevent from occurring in buildings. The wording of most of the definitions of the objectives includes two key phrases: &#x201C;limit the probability&#x201D; and &#x201C;unacceptable risk.&#x201D; The phrase &#x201C;limit the probability&#x201D; is used to acknowledge that the NBC cannot entirely prevent those undesirable situations from happening. The phrase &#x201C;unacceptable risk&#x201D; acknowledges that the NBC cannot eliminate all risk: the &#x201C;acceptable risk&#x201D; is the risk remaining once compliance with the Code has been achieved.</p>
+<p  outputclass="BodyText">The objectives are entirely qualitative and are not intended to be used on their own in the design and approval processes.</p>
+<p  outputclass="BodyText">The objectives attributed to the requirements or portions of requirements in Division B are listed in a table following the provisions in each Part of Division B.</p>
+<table  frame="all">
+<title>
+</title>
+<tgroup  cols="1">
+<colspec  colname="C1" colnum="1" colwidth="167.147*"></colspec>
+<tbody><row>
+<entry  colname="C1" colsep="1" rowsep="1"><p  outputclass="BodyText">Objectives have also been attributed to any requirements specific to British Columbia.</p>
+</entry>
+</row></tbody></tgroup></table>
+</li></ol></li></ul></conbody>
+</concept>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="XC38B1CF8_ID879" xml:lang="null"><title>Structure of the NBC</title><conbody>
+
+<ul>
+<li>
+<ol>
+<li>
+<p  outputclass="BodyText">The NBC is organized into three Divisions, which are distributed across two volumes.</p>
+<table  frame="all">
+<title>
+</title>
+<tgroup  cols="1">
+<colspec  colname="C1" colnum="1" colwidth="164.648*"></colspec>
+<tbody><row>
+<entry  colname="C1" colsep="1" rowsep="1"><p  outputclass="BodyText">The remainder of this section relates also to Book II (Plumbing Systems) of this Code.</p>
+</entry>
+</row></tbody></tgroup></table>
+</li></ol></li></ul></conbody>
+</concept>

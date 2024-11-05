@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="XC38B1CF8_ID807" xml:lang="null"><title>Intent Statements</title><conbody>
+
+<ul>
+<li>
+<ol>
+<li>
+<p  outputclass="BodyText">Intent statements explain the basic thinking behind each Code provision contained in Division B. Intent statements, each of which is unique to the provision with which it is associated, explain how requirements help to achieve their attributed objectives and functional statements. Like the objectives, the intent statements are expressed in terms of risk avoidance and expected performance. They offer insight into the views of the responsible standing committees on what the Code provisions are intended to achieve.</p>
+<p  outputclass="BodyText">The intent statements serve explanatory purposes only and do not form an integral part of the Code provisions. As such, they are similar in function to the explanatory Notes at the end of each Part. Due to the sheer volume of intent statements&#x2014;thousands for the NBC alone&#x2014;they are made available as a separate electronic document entitled &#x201C;Supplement to the NBC 2020: Intent Statements,&#x201D; which is posted on the NRC&#x27;s website.</p>
+<table  frame="all">
+<title>
+</title>
+<tgroup  cols="1">
+<colspec  colname="C1" colnum="1" colwidth="169.066*"></colspec>
+<tbody><row>
+<entry  colname="C1" colsep="1" rowsep="1"><p  outputclass="BodyText">&#x201C;Supplement to the NBC 2020: Intent Statements&#x201D; is not available at the time of printing of this Code. Intent statements have not been attributed to any requirements specific to British Columbia.</p>
+</entry>
+</row></tbody></tgroup></table>
+<p  outputclass="BodyText">All this additional information&#x2014;objectives, functional statements and intent statements&#x2014;is intended to facilitate the implementation of the Code in two ways:</p>
+</li>
+<li>
+<p>Clarity of intent: The objectives, functional statements and intent statements linked to a Code requirement clarify the reasoning behind that requirement and facilitate understanding of what must be done to satisfy that requirement. This added information may also help avoid disputes between practitioners and officials over these types of issues.</p>
+</li>
+<li>
+<p>Flexibility: The additional information allows for flexibility in Code compliance. A person seeking to propose a new method or material not described or covered in the Code will be able to use the added information to understand the expected level of performance that their alternative solution must achieve to satisfy the Code.</p>
+</li></ol></li></ul></conbody>
+</concept>

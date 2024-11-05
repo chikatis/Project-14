@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="XC38B1CF8_ID1128" xml:lang="null"><title>Parts in Division B and Professional Disciplines</title><conbody>
+
+<ol>
+<li>
+<p  outputclass="BodyText">Division B is organized into Parts that are largely related to professional disciplines. However, this does not mean that a person belonging to a certain profession who is executing the design or construction of a particular building component can necessarily work with only one Part of the Code in isolation since provisions related to that building component may be found in more than one Part.</p>
+<p  outputclass="BodyText">For example:</p>
+<ul>
+<li>
+<p>Provisions pertaining to fire safety issues related to heating, ventilating and</p>
+<p  outputclass="BodyText">air-conditioning (HVAC) systems are located in Part 3, Fire Protection, Occupant Safety and Accessibility, and not in Part 6, Heating, Ventilating and Air-conditioning.</p>
+</li>
+<li>
+<p>Structural requirements related to loads on handrails and grab bars are located in Part 3, Fire Protection, Occupant Safety and Accessibility, while structural requirements related to loads on guards and handrails are located in Part 4, Structural Design.</p>
+<p  outputclass="BodyText">For this reason, the Part-based structure of Division B is not well suited for use as the basis for allocating responsibilities to different professions or as the basis for contractual arrangements.</p>
+</li></ul></li></ol></conbody>
+</concept>

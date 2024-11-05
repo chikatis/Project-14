@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="XC38B1CF8_ID753" xml:lang="null"><title>Functional Statements</title><conbody>
+
+<ul>
+<li>
+<ol>
+<li>
+<p  outputclass="BodyText">The NBC&#x27;s functional statements are listed in Section 3.2. of Division A.</p>
+<p  outputclass="BodyText">The functional statements are more detailed than the objectives. They describe conditions in the building that help satisfy the objectives. The functional statements and the objectives are interconnected. There may be several functional statements related to any one objective, and a given functional statement may describe a function of the building that serves to achieve more than one objective.</p>
+<p  outputclass="BodyText">Like objectives, functional statements are entirely qualitative and are not intended to be used on their own in the design and approval processes.</p>
+<p  outputclass="BodyText">The functional statements attributed to the requirements or portions of requirements in Division B are listed in a table following the provisions in each Part of Division B.</p>
+<table  frame="all">
+<title>
+</title>
+<tgroup  cols="1">
+<colspec  colname="C1" colnum="1" colwidth="167.147*"></colspec>
+<tbody><row>
+<entry  colname="C1" colsep="1" rowsep="1"><p  outputclass="BodyText">Functional Statements have also been attributed to any requirements specific to British Columbia.</p>
+</entry>
+</row></tbody></tgroup></table>
+</li></ol></li></ul></conbody>
+</concept>

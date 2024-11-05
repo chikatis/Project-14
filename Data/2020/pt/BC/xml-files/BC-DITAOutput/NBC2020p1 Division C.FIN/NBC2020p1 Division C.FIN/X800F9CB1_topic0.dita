@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="X800F9CB1_0" xml:lang="null"><title>unknown</title><conbody>
+<p  outputclass="01Part">Part 1</p>
+<p  outputclass="01Part">General</p>
+<p  outputclass="02Section"><b>Section&#x00A0;&#x00A0;1.1.&#x00A0;&#x00A0;&#x00A0;Application</b></p>
+<p  outputclass="03Subsection"><b>1.1.1.&#x00A0;Application</b></p>
+<p  outputclass="04Article"><b>1.1.1.1.&#x00A0;Application</b></p>
+<p  outputclass="05Sentence">1)&#x00A0;&#x00A0;&#x00A0;This Part applies to all&#x00A0;<xref  format="html" href="file:///E:_2005-201X_Codes_GuidesHTML_DOCX_WORD_sourceNBC2020p1bldng" scope="external"><ph  outputclass="origXrefData">buildings</ph></xref>&#x00A0;covered in this Code. (See&#x00A0;<ph  outputclass="Hyperlink">Article</ph><ph  outputclass="Hyperlink">&#x00A0;</ph><ph  outputclass="Hyperlink">1.1.1.1.</ph>&#x00A0;of Division&#x00A0;<ph  outputclass="Hyperlink">A</ph>.)</p>
+<p  outputclass="02Section"><b>Section&#x00A0;&#x00A0;1.<ph  outputclass="02SectionChar"><b>2</b></ph>.&#x00A0;&#x00A0;&#x00A0;Terms and Abbreviations</b></p>
+<p  outputclass="03Subsection"><b>1.2.1.&#x00A0;Definitions of Words and Phrases</b></p>
+<p  outputclass="04Article"><b>1.2.1.1.&#x00A0;Non-defined Terms</b></p>
+<p  outputclass="05Sentence">1)&#x00A0;&#x00A0;&#x00A0;Words and phrases used in Division C that are not included in the list of definitions in&#x00A0;<ph  outputclass="Hyperlink">Article</ph><ph  outputclass="Hyperlink">&#x00A0;</ph><ph  outputclass="Hyperlink">1.4.1.2.</ph>&#x00A0;of Division&#x00A0;<ph  outputclass="Hyperlink">A</ph>&#x00A0;shall have the meanings that are commonly assigned to them in the context in which they are used, taking into account the specialized use of terms by the various trades and professions to which the terminology applies.</p>
+<p  outputclass="05Sentence">2)&#x00A0;&#x00A0;&#x00A0;Where objectives and functional statements are referred to in Division C, they shall be the objectives and functional statements described in Parts 2 and 3 of Division A.</p>
+<p  outputclass="05Sentence">3)&#x00A0;&#x00A0;&#x00A0;Where acceptable solutions are referred to in Division C, they shall be the provisions stated in Parts 3 to 10 of Division B.</p>
+<p  outputclass="05Sentence">4)&#x00A0;&#x00A0;&#x00A0;Where alternative solutions are referred to in Division C, they shall be the alternative solutions mentioned in&#x00A0;<ph  outputclass="Hyperlink">Clause</ph><ph  outputclass="Hyperlink">&#x00A0;</ph><ph  outputclass="Hyperlink">1.2.1.1.(1)(b)</ph>&#x00A0;of Division&#x00A0;<ph  outputclass="Hyperlink">A</ph>.</p>
+<p  outputclass="04Article"><b>1.2.1.2.&#x00A0;Defined Terms</b></p>
+<p  outputclass="05Sentence">1)&#x00A0;&#x00A0;&#x00A0;The words and terms in italics in Division C shall have the meanings assigned to them in&#x00A0;<ph  outputclass="Hyperlink">Article</ph><ph  outputclass="Hyperlink">&#x00A0;</ph><ph  outputclass="Hyperlink">1.4.1.2.</ph>&#x00A0;of Division&#x00A0;<ph  outputclass="Hyperlink">A</ph>.</p>
+<p  outputclass="03Subsection"><b>1.2.2.&#x00A0;Symbols and Other Abbreviations</b></p>
+<p  outputclass="04Article"><b>1.2.2.1.&#x00A0;Symbols and Other Abbreviations</b></p>
+<p  outputclass="05Sentence">1)&#x00A0;&#x00A0;&#x00A0;The symbols and other abbreviations in Division C shall have the meanings assigned to them in&#x00A0;<ph  outputclass="Hyperlink">Article</ph><ph  outputclass="Hyperlink">&#x00A0;</ph><ph  outputclass="Hyperlink">1.4.2.1.</ph>&#x00A0;of Division&#x00A0;<ph  outputclass="Hyperlink">A</ph>.</p>
+<p  outputclass="01Part">Part 2</p>
+<p  outputclass="01Part">Administrative Provisions</p>
+<p  outputclass="02Section"><b>Section&#x00A0;&#x00A0;2.1.&#x00A0;&#x00A0;&#x00A0;Application</b></p>
+<p  outputclass="03Subsection"><b>2.1.1.&#x00A0;Application</b></p>
+<p  outputclass="04Article"><b>2.1.1.1.&#x00A0;Application</b></p>
+<p  outputclass="05Sentence">1)&#x00A0;&#x00A0;&#x00A0;This Part applies to all&#x00A0;<xref  format="html" href="file:///E:_2005-201X_Codes_GuidesHTML_DOCX_WORD_sourceNBC2020p1bldng" scope="external"><ph  outputclass="origXrefData">buildings</ph></xref>&#x00A0;covered in this Code. (See&#x00A0;<ph  outputclass="Hyperlink">Article</ph><ph  outputclass="Hyperlink">&#x00A0;</ph><ph  outputclass="Hyperlink">1.1.1.1.</ph>&#x00A0;of Division&#x00A0;<ph  outputclass="Hyperlink">A</ph>.)</p>
+<p  outputclass="02Section"><b>Section&#x00A0;&#x00A0;2.2.&#x00A0;&#x00A0;&#x00A0;Administration</b></p>
+<p  outputclass="03Subsection"><b>2.2.1.&#x00A0;Administration</b></p>
+<p  outputclass="04Article"><b>2.2.1.1.&#x00A0;Conformance with Administrative Requirements</b></p>
+<p  outputclass="05Sentence">1)&#x00A0;&#x00A0;&#x00A0;This Code is made pursuant to Section 3 of the Building Act.</p>
+<p  outputclass="04Article"><b>2.2.1.2.&#x00A0;Structural Design</b></p>
+<p  outputclass="05Sentence">1)&#x00A0;&#x00A0;&#x00A0;For design carried out in accordance with Part 4 of Division B, the&#x00A0;<xref  format="html" href="file:///E:_2005-201X_Codes_GuidesHTML_DOCX_WORD_sourceNBC2020p1dgnr" scope="external"><ph  outputclass="origXrefData">designer</ph></xref>&#x00A0;shall be a <i>registered professional</i> skilled in the work concerned. (See&#x00A0;<xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID537" scope="peer"><ph  outputclass="origXrefData">Note</ph></xref><xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID537" scope="peer"><ph  outputclass="origXrefData">&#x00A0;</ph></xref><xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID537" scope="peer"><ph  outputclass="origXrefData">A-2.2.1.2.(1)</ph></xref>.)</p>
+<p  outputclass="03Subsection"><b>2.2.2.&#x00A0;Information Required for Proposed Work</b></p>
+<p  outputclass="04Article"><b>2.2.2.1.&#x00A0;General Information Required</b></p>
+<p  outputclass="05Sentence">1)&#x00A0;&#x00A0;&#x00A0;Sufficient information shall be provided to show that the proposed work will conform to this Code and whether or not it may affect adjacent property.</p>
+<p  outputclass="05Sentence">2)&#x00A0;&#x00A0;&#x00A0;Plans shall be drawn to scale and shall indicate</p>
+<p  outputclass="05Sentence">a)&#x00A0;&#x00A0;&#x00A0;the nature and extent of the work or proposed <i>occupancy</i> in sufficient detail to establish that, when completed, the work and the proposed <i>occupancy</i> will conform to this Code,</p>
+<p  outputclass="05Sentence">b)&#x00A0;&#x00A0;&#x00A0;the applicable edition of the Code,</p>
+<p  outputclass="05Sentence">c)&#x00A0;&#x00A0;&#x00A0;whether the <i>building</i> is designed under Part 3 or Part 9,</p>
+<p  outputclass="05Sentence">d)&#x00A0;&#x00A0;&#x00A0;the <i>major occupancy</i> classifications of the <i>building</i>,</p>
+<p  outputclass="05Sentence">e)&#x00A0;&#x00A0;&#x00A0;the <i>building area</i> and <i>building height</i>,</p>
+<p  outputclass="05Sentence">f)&#x00A0;&#x00A0;&#x00A0;the number of<i> streets</i> the <i>building </i>faces,</p>
+<p  outputclass="05Sentence">g)&#x00A0;&#x00A0;&#x00A0;the <i>accessible</i> entrances, work areas and washrooms,</p>
+<p  outputclass="05Sentence">h)&#x00A0;&#x00A0;&#x00A0;the <i>accessible</i> facilities particular to the <i>occupancies</i>, and</p>
+<p  outputclass="05Sentence">i)&#x00A0;&#x00A0;&#x00A0;the energy compliance path to which the <i>building</i> conforms, and, where a<i> building</i> conforms to Subsection 9.36.6. or 10.2.3. of Division B, the Step to which it conforms.</p>
+<p  outputclass="05Sentence">3)&#x00A0;&#x00A0;&#x00A0;When proposed work is changed during construction, information on the changes shall comply with the requirements of this Section for proposed work.</p>
+<p  outputclass="04Article"><b>2.2.2.2.&#x00A0;Site Plans</b></p>
+<p  outputclass="05Sentence">1)&#x00A0;&#x00A0;&#x00A0;Site plans shall be referenced to an up-to-date survey and, when required to prove compliance with this Code, a copy of the survey shall be provided.</p>
+<p  outputclass="05Sentence">2)&#x00A0;&#x00A0;&#x00A0;Site plans shall show</p>
+<p  outputclass="05Sentence">a)&#x00A0;&#x00A0;&#x00A0;by dimensions from property lines, the location of the proposed&#x00A0;<xref  format="html" href="file:///E:_2005-201X_Codes_GuidesHTML_DOCX_WORD_sourceNBC2020p1bldng" scope="external"><ph  outputclass="origXrefData">building</ph></xref>,</p>
+<p  outputclass="05Sentence">b)&#x00A0;&#x00A0;&#x00A0;the similarly dimensioned location of every adjacent existing&#x00A0;<xref  format="html" href="file:///E:_2005-201X_Codes_GuidesHTML_DOCX_WORD_sourceNBC2020p1bldng" scope="external"><ph  outputclass="origXrefData">building</ph></xref>&#x00A0;on the property,</p>
+<p  outputclass="05Sentence">c)&#x00A0;&#x00A0;&#x00A0;existing and finished ground levels to an established datum at or adjacent to the site,</p>
+<p  outputclass="05Sentence">d)&#x00A0;&#x00A0;&#x00A0;the access routes for firefighting, and</p>
+<p  outputclass="05Sentence">e)&#x00A0;&#x00A0;&#x00A0;the <i>accessible</i> paths of travel to the <i>building</i> from</p>
+<p  outputclass="05Sentence">i)&#x00A0;&#x00A0;&#x00A0;the sidewalk, roadway or <i>street</i>, and</p>
+<p  outputclass="05Sentence">ii)&#x00A0;&#x00A0;&#x00A0;if provided, exterior parking stalls for <i>persons with disabilities</i> and exterior passenger-loading zones.</p>
+<p  outputclass="03Subsection"><b>2.2.3.&#x00A0;Fire Protection Components</b></p>
+<p  outputclass="04Article"><b>2.2.3.1.&#x00A0;Information Required for Fire Protection Components</b></p>
+<p  outputclass="05Sentence">1)&#x00A0;&#x00A0;&#x00A0;Information shall be submitted to show the major components of fire protection including</p>
+<p  outputclass="05Sentence">a)&#x00A0;&#x00A0;&#x00A0;the division of the&#x00A0;<xref  format="html" href="file:///E:_2005-201X_Codes_GuidesHTML_DOCX_WORD_sourceNBC2020p1bldng" scope="external"><ph  outputclass="origXrefData">building</ph></xref>&#x00A0;by&#x00A0;<xref  format="html" href="file:///E:_2005-201X_Codes_GuidesHTML_DOCX_WORD_sourceNBC2020p1frwll" scope="external"><ph  outputclass="origXrefData">firewalls</ph></xref>,</p>
+<p  outputclass="05Sentence">b)&#x00A0;&#x00A0;&#x00A0;the&#x00A0;<xref  format="html" href="file:///E:_2005-201X_Codes_GuidesHTML_DOCX_WORD_sourceNBC2020p1bldng-r" scope="external"><ph  outputclass="origXrefData">building area</ph></xref>,</p>
+<p  outputclass="05Sentence">c)&#x00A0;&#x00A0;&#x00A0;the degree of&#x00A0;<xref  format="html" href="file:///E:_2005-201X_Codes_GuidesHTML_DOCX_WORD_sourceNBC2020p1fr-prtn" scope="external"><ph  outputclass="origXrefData">fire separation</ph></xref>&#x00A0;of&#x00A0;<xref  format="html" href="file:///E:_2005-201X_Codes_GuidesHTML_DOCX_WORD_sourceNBC2020p1tr" scope="external"><ph  outputclass="origXrefData">storeys</ph></xref>, shafts and special rooms or areas, including the location and rating of&#x00A0;<xref  format="html" href="file:///E:_2005-201X_Codes_GuidesHTML_DOCX_WORD_sourceNBC2020p1clr" scope="external"><ph  outputclass="origXrefData">closures</ph></xref>&#x00A0;in&#x00A0;<xref  format="html" href="file:///E:_2005-201X_Codes_GuidesHTML_DOCX_WORD_sourceNBC2020p1fr-prtn" scope="external"><ph  outputclass="origXrefData">fire separations</ph></xref>,</p>
+<p  outputclass="05Sentence">d)&#x00A0;&#x00A0;&#x00A0;the source of information for&#x00A0;<xref  format="html" href="file:///E:_2005-201X_Codes_GuidesHTML_DOCX_WORD_sourceNBC2020p1fr-rtnc-" scope="external"><ph  outputclass="origXrefData">fire-resistance ratings</ph></xref>&#x00A0;of elements of construction (to be indicated on large-scale sections),</p>
+<p  outputclass="05Sentence">e)&#x00A0;&#x00A0;&#x00A0;the source of information for&#x00A0;<xref  format="html" href="file:///E:_2005-201X_Codes_GuidesHTML_DOCX_WORD_sourceNBC2020p1ncps-rtng" scope="external"><ph  outputclass="origXrefData">encapsulation ratings</ph></xref>&#x00A0;of mass timber elements of construction (to be indicated on large-scale sections),</p>
+<p  outputclass="05Sentence">f)&#x00A0;&#x00A0;&#x00A0;the location of&#x00A0;<xref  format="html" href="file:///E:_2005-201X_Codes_GuidesHTML_DOCX_WORD_sourceNBC2020p1xt" scope="external"><ph  outputclass="origXrefData">exits</ph></xref>, and</p>
+<p  outputclass="05Sentence">g)&#x00A0;&#x00A0;&#x00A0;fire detection, suppression and alarm systems.</p>
+<p  outputclass="04Article"><b>2.2.3.2.&#x00A0;Plans of Sprinkler Systems</b></p>
+<p  outputclass="05Sentence">1)&#x00A0;&#x00A0;&#x00A0;Before a sprinkler system is installed or altered, plans showing full details of the proposed sprinkler system and essential details of the&#x00A0;<xref  format="html" href="file:///E:_2005-201X_Codes_GuidesHTML_DOCX_WORD_sourceNBC2020p1bldng" scope="external"><ph  outputclass="origXrefData">building</ph></xref>&#x00A0;in which it is to be installed shall be drawn to an indicated scale.</p>
+<p  outputclass="03Subsection"><b>2.2.4.&#x00A0;Structural and Foundation Drawings and Calculations</b></p>
+<p  outputclass="04Article"><b>2.2.4.1.&#x00A0;Application</b></p>
+<p  outputclass="05Sentence">1)&#x00A0;&#x00A0;&#x00A0;This Subsection applies only to&#x00A0;<xref  format="html" href="file:///E:_2005-201X_Codes_GuidesHTML_DOCX_WORD_sourceNBC2020p1bldng" scope="external"><ph  outputclass="origXrefData">buildings</ph></xref>&#x00A0;covered in Part 4 of Division B. (See&#x00A0;<ph  outputclass="Hyperlink">Article</ph><ph  outputclass="Hyperlink">&#x00A0;</ph><ph  outputclass="Hyperlink">1.3.3.2.</ph>&#x00A0;of Division&#x00A0;<ph  outputclass="Hyperlink">A</ph>.)</p>
+<p  outputclass="04Article"><b>2.2.4.2.&#x00A0;Professional Seal and Signature of Designer</b></p>
+<p  outputclass="05Sentence">1)&#x00A0;&#x00A0;&#x00A0;Structural drawings and related documents submitted with the application to build shall be dated and shall bear the authorized professional seal and signature of the&#x00A0;<xref  format="html" href="file:///E:_2005-201X_Codes_GuidesHTML_DOCX_WORD_sourceNBC2020p1dgnr" scope="external"><ph  outputclass="origXrefData">designer</ph></xref>&#x00A0;as defined in&#x00A0;<xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID67" scope="peer"><ph  outputclass="origXrefData">Sentence</ph></xref><xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID67" scope="peer"><ph  outputclass="origXrefData">&#x00A0;</ph></xref><xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID67" scope="peer"><ph  outputclass="origXrefData">2.2.1.2.(1)</ph></xref>.</p>
+<p  outputclass="04Article"><b>2.2.4.3.&#x00A0;Information Required on Structural Drawings</b></p>
+<p  outputclass="05Sentence">1)&#x00A0;&#x00A0;&#x00A0;Structural drawings and related documents submitted with the application to build shall indicate, in addition to those items specified in&#x00A0;<xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID178" scope="peer"><ph  outputclass="origXrefData">Article</ph></xref><xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID178" scope="peer"><ph  outputclass="origXrefData">&#x00A0;</ph></xref><xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID178" scope="peer"><ph  outputclass="origXrefData">2.2.4.6.</ph></xref>&#x00A0;and in Part 4 of Division B applicable to the specific material,</p>
+<p  outputclass="05Sentence">a)&#x00A0;&#x00A0;&#x00A0;the name and address of the person responsible for the structural design,</p>
+<p  outputclass="05Sentence">b)&#x00A0;&#x00A0;&#x00A0;the date of issue of the Code and standards to which the design conforms,</p>
+<p  outputclass="05Sentence">c)&#x00A0;&#x00A0;&#x00A0;the dimensions, location and size of all structural members in sufficient detail to enable the design to be checked,</p>
+<p  outputclass="05Sentence">d)&#x00A0;&#x00A0;&#x00A0;sufficient detail to enable the&#x00A0;<xref  format="html" href="file:///E:_2005-201X_Codes_GuidesHTML_DOCX_WORD_sourceNBC2020p1dd-ld" scope="external"><ph  outputclass="origXrefData">dead loads</ph></xref>&#x00A0;to be determined,</p>
+<p  outputclass="05Sentence">e)&#x00A0;&#x00A0;&#x00A0;all effects and loads, other than&#x00A0;<xref  format="html" href="file:///E:_2005-201X_Codes_GuidesHTML_DOCX_WORD_sourceNBC2020p1dd-ld" scope="external"><ph  outputclass="origXrefData">dead loads</ph></xref>, used for the design of the structural members and exterior cladding, and</p>
+<p  outputclass="05Sentence">f)&#x00A0;&#x00A0;&#x00A0;the Importance Category of the&#x00A0;<xref  format="html" href="file:///E:_2005-201X_Codes_GuidesHTML_DOCX_WORD_sourceNBC2020p1bldng" scope="external"><ph  outputclass="origXrefData">building</ph></xref>.</p>
+<p  outputclass="04Article"><b>2.2.4.4.&#x00A0;Drawings of Parts or Components</b></p>
+<p  outputclass="05Sentence">1)&#x00A0;&#x00A0;&#x00A0;Structural drawings of parts or components including&#x00A0;<xref  format="html" href="file:///E:_2005-201X_Codes_GuidesHTML_DOCX_WORD_sourceNBC2020p1guard" scope="external"><ph  outputclass="origXrefData">guards</ph></xref>&#x00A0;designed by a person other than the&#x00A0;<xref  format="html" href="file:///E:_2005-201X_Codes_GuidesHTML_DOCX_WORD_sourceNBC2020p1dgnr" scope="external"><ph  outputclass="origXrefData">designer</ph></xref>&#x00A0;of the&#x00A0;<xref  format="html" href="file:///E:_2005-201X_Codes_GuidesHTML_DOCX_WORD_sourceNBC2020p1bldng" scope="external"><ph  outputclass="origXrefData">building</ph></xref>&#x00A0;shall be dated and shall bear the authorized professional seal and signature of the&#x00A0;<xref  format="html" href="file:///E:_2005-201X_Codes_GuidesHTML_DOCX_WORD_sourceNBC2020p1dgnr" scope="external"><ph  outputclass="origXrefData">designer</ph></xref>&#x00A0;of such parts or components.</p>
+<p  outputclass="04Article"><b>2.2.4.5.&#x00A0;Design Calculations and Analysis</b></p>
+<p  outputclass="05Sentence">1)&#x00A0;&#x00A0;&#x00A0;The calculations and analysis made in the design of the structural members, including parts and components, of a&#x00A0;<xref  format="html" href="file:///E:_2005-201X_Codes_GuidesHTML_DOCX_WORD_sourceNBC2020p1bldng" scope="external"><ph  outputclass="origXrefData">building</ph></xref>&#x00A0;shall be available for inspection upon request.</p>
+<p  id="X800F9CB1_ID178" outputclass="04Article"><b>2.2.4.6.&#x00A0;Information Required on Foundation Drawings</b></p>
+<p  outputclass="05Sentence">1)&#x00A0;&#x00A0;&#x00A0;<xref  format="html" href="file:///E:_2005-201X_Codes_GuidesHTML_DOCX_WORD_sourceNBC2020p1fndtn" scope="external"><ph  outputclass="origXrefData">Foundation&#x00A0;</ph></xref>drawings submitted with the application to build or excavate shall be provided to indicate</p>
+<p  outputclass="05Sentence">a)&#x00A0;&#x00A0;&#x00A0;the type and condition of the&#x00A0;<xref  format="html" href="file:///E:_2005-201X_Codes_GuidesHTML_DOCX_WORD_sourceNBC2020p1l" scope="external"><ph  outputclass="origXrefData">soil</ph></xref>&#x00A0;or&#x00A0;<xref  format="html" href="file:///E:_2005-201X_Codes_GuidesHTML_DOCX_WORD_sourceNBC2020p1rck" scope="external"><ph  outputclass="origXrefData">rock</ph></xref>, as well as the&#x00A0;<xref  format="html" href="file:///E:_2005-201X_Codes_GuidesHTML_DOCX_WORD_sourceNBC2020p1grndwtr" scope="external"><ph  outputclass="origXrefData">groundwater</ph></xref>&#x00A0;conditions, as determined by the&#x00A0;<xref  format="html" href="file:///E:_2005-201X_Codes_GuidesHTML_DOCX_WORD_sourceNBC2020p1brfc-nvt" scope="external"><ph  outputclass="origXrefData">subsurface investigation</ph></xref>,</p>
+<p  outputclass="05Sentence">b)&#x00A0;&#x00A0;&#x00A0;the factored bearing pressures on the&#x00A0;<xref  format="html" href="file:///E:_2005-201X_Codes_GuidesHTML_DOCX_WORD_sourceNBC2020p1l" scope="external"><ph  outputclass="origXrefData">soil</ph></xref>&#x00A0;or&#x00A0;<xref  format="html" href="file:///E:_2005-201X_Codes_GuidesHTML_DOCX_WORD_sourceNBC2020p1rck" scope="external"><ph  outputclass="origXrefData">rock</ph></xref>, the factored loads when applicable and the design loads applied to&#x00A0;<xref  format="html" href="file:///E:_2005-201X_Codes_GuidesHTML_DOCX_WORD_sourceNBC2020p1fndtn-nt" scope="external"><ph  outputclass="origXrefData">foundation units</ph></xref>, and</p>
+<p  outputclass="05Sentence">c)&#x00A0;&#x00A0;&#x00A0;the earth pressures and other loads applied to the supporting structures of supported&#x00A0;<xref  format="html" href="file:///E:_2005-201X_Codes_GuidesHTML_DOCX_WORD_sourceNBC2020p1xcvtn" scope="external"><ph  outputclass="origXrefData">excavations</ph></xref>.</p>
+<p  outputclass="05Sentence">2)&#x00A0;&#x00A0;&#x00A0;When required, evidence that justifies the information on the drawings shall be submitted with the application to excavate or build.</p>
+<p  outputclass="04Article"><b>2.2.4.7.&#x00A0;Altered Conditions</b></p>
+<p  outputclass="05Sentence">1)&#x00A0;&#x00A0;&#x00A0;Where conditions as described under Sentences&#x00A0;<ph  outputclass="Hyperlink">4.2.2.4.(1)</ph>&#x00A0;and&#x00A0;<ph  outputclass="Hyperlink">(2)</ph>&#x00A0;of Division&#x00A0;<ph  outputclass="Hyperlink">B</ph>&#x00A0;are encountered, or where&#x00A0;<xref  format="html" href="file:///E:_2005-201X_Codes_GuidesHTML_DOCX_WORD_sourceNBC2020p1fndtn-nt" scope="external"><ph  outputclass="origXrefData">foundation units</ph></xref>&#x00A0;or their locations are altered, this information shall be recorded on appropriate drawings or new &#x201C;as constructed&#x201D; drawings.</p>
+<p  outputclass="03Subsection"><b>2.2.5.&#x00A0;Drawings and Specifications for Environmental Separators and Other Assemblies Exposed to the Exterior</b></p>
+<p  outputclass="04Article"><b>2.2.5.1.&#x00A0;Application</b></p>
+<p  outputclass="05Sentence">1)&#x00A0;&#x00A0;&#x00A0;This Subsection applies to&#x00A0;<xref  format="html" href="file:///E:_2005-201X_Codes_GuidesHTML_DOCX_WORD_sourceNBC2020p1bldng" scope="external"><ph  outputclass="origXrefData">building</ph></xref>&#x00A0;materials, components and assemblies to which Part 5 of Division B applies. (See&#x00A0;<ph  outputclass="Hyperlink">Article</ph><ph  outputclass="Hyperlink">&#x00A0;</ph><ph  outputclass="Hyperlink">1.3.3.2.</ph>&#x00A0;of Division&#x00A0;<ph  outputclass="Hyperlink">A</ph>.)</p>
+<p  outputclass="04Article"><b>2.2.5.2.&#x00A0;Information Required on Drawings and Specifications</b></p>
+<p  outputclass="05Sentence">1)&#x00A0;&#x00A0;&#x00A0;Information shown on drawings and in specifications shall be clear and legible, and shall contain sufficient details to demonstrate conformance with this Code. (See&#x00A0;<xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID543" scope="peer"><ph  outputclass="origXrefData">Note</ph></xref><xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID543" scope="peer"><ph  outputclass="origXrefData">&#x00A0;</ph></xref><xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID543" scope="peer"><ph  outputclass="origXrefData">A-2.2.6.2.(1)</ph></xref>.)</p>
+<p  outputclass="03Subsection"><b>2.2.6.&#x00A0;Heating, Ventilating and Air-conditioning Drawings and Specifications</b></p>
+<p  outputclass="04Article"><b>2.2.6.1.&#x00A0;Application</b></p>
+<p  outputclass="05Sentence">1)&#x00A0;&#x00A0;&#x00A0;This Subsection applies only to&#x00A0;<xref  format="html" href="file:///E:_2005-201X_Codes_GuidesHTML_DOCX_WORD_sourceNBC2020p1bldng" scope="external"><ph  outputclass="origXrefData">buildings</ph></xref>&#x00A0;covered in&#x00A0;<ph  outputclass="Hyperlink">Part</ph><ph  outputclass="Hyperlink">&#x00A0;</ph><ph  outputclass="Hyperlink">6</ph>&#x00A0;of Division&#x00A0;<ph  outputclass="Hyperlink">B</ph>. (See&#x00A0;<ph  outputclass="Hyperlink">Article</ph><ph  outputclass="Hyperlink">&#x00A0;</ph><ph  outputclass="Hyperlink">1.3.3.2.</ph>&#x00A0;of Division&#x00A0;<ph  outputclass="Hyperlink">A</ph>.)</p>
+<p  outputclass="04Article"><b>2.2.6.2.&#x00A0;Information Required on Drawings</b></p>
+<p  outputclass="05Sentence">1)&#x00A0;&#x00A0;&#x00A0;The information shown on architectural drawings and on drawings for heating, ventilating and air-conditioning systems shall be clear and legible and shall contain all necessary details to demonstrate conformance with this Code. (See&#x00A0;<xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID543" scope="peer"><ph  outputclass="origXrefData">Note</ph></xref><xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID543" scope="peer"><ph  outputclass="origXrefData">&#x00A0;</ph></xref><xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID543" scope="peer"><ph  outputclass="origXrefData">A-2.2.6.2.(1)</ph></xref>.)</p>
+<p  outputclass="03Subsection"><b>2.2.7.&#x00A0;Professional Design and Review</b></p>
+<p  outputclass="05Sentence"><ph  outputclass="Hyperlink">(See Note A-2.2.7.)</ph></p>
+<p  outputclass="03Subsection"><b>2.2.7.1.&#x00A0;Application</b></p>
+<p  outputclass="05Sentence">1)&#x00A0;&#x00A0;&#x00A0;The requirements of this Subsection apply to</p>
+<p  outputclass="05Sentence">a)&#x00A0;&#x00A0;&#x00A0;<i>buildings</i> within the scope of Part 3 of Division B,</p>
+<p  outputclass="05Sentence">b)&#x00A0;&#x00A0;&#x00A0;<i>buildings</i> within the scope of Part 9 of Division B that are designed with common egress systems for the occupants and require the use of <i>firewalls</i> according to Article 1.3.3.4. of Division A, and</p>
+<p  outputclass="05Sentence">c)&#x00A0;&#x00A0;&#x00A0;the following, in respect of <i>buildings</i> within the scope of Part 9 of Division B other than <i>buildings </i>described in Clause (b),</p>
+<p  outputclass="05Sentence">i)&#x00A0;&#x00A0;&#x00A0;structural components that are not within the scope of Part 9 of Division B</p>
+<p  outputclass="05Sentence">(See Note A-2.2.7.1.(1)(c)(i).),</p>
+<p  outputclass="05Sentence">ii)&#x00A0;&#x00A0;&#x00A0;geotechnical conditions at <i>building </i>sites that are not within the scope of Part 9 of Division B,</p>
+<p  outputclass="05Sentence">iii)&#x00A0;&#x00A0;&#x00A0;sprinkler systems designed to NFPA 13, &#x201C;Installation of Sprinkler Systems&#x201D;, and</p>
+<p  outputclass="05Sentence">iv)&#x00A0;&#x00A0;&#x00A0;standpipe and hose systems designed to NFPA 14, &#x201C;Installation of Standpipe and Hose Systems&#x201D;.<b>2.2.7.2.&#x00A0;Owner Responsibilities</b></p>
+<p  outputclass="05Sentence">1)&#x00A0;&#x00A0;&#x00A0;Before the construction of or the <i>alteration</i> to a <i>building</i>, the <i>owner </i>shall</p>
+<p  outputclass="05Sentence">a)&#x00A0;&#x00A0;&#x00A0;retain a <i>coordinating registered professional</i> to coordinate all design work and <i>field reviews</i> of the <i>registered professionals of record</i> required for the project in order to ascertain that (see Note A-2.2.7.2.(1)(a))</p>
+<p  outputclass="05Sentence">i)&#x00A0;&#x00A0;&#x00A0;the design will substantially comply with the British Columbia Building Code and other applicable enactments respecting safety, and</p>
+<p  outputclass="05Sentence">ii)&#x00A0;&#x00A0;&#x00A0;the construction of the project will substantially comply with the British Columbia Building Code and other applicable enactments respecting safety, not including the construction safety aspects, and</p>
+<p  outputclass="05Sentence">b)&#x00A0;&#x00A0;&#x00A0;if a <i>building</i> permit is required, deliver to the <i>authority having jurisdiction</i> letters in the forms set out in Schedules A and B. (See the end of Division C and Note A-2.2.7.2.(1)(b).)</p>
+<p  outputclass="05Sentence">2)&#x00A0;&#x00A0;&#x00A0;If an occupancy permit or final inspection from an <i>authority having jurisdiction</i> is required and before an <i>owner</i> occupies or receives permission to occupy the <i>building</i>, the <i>owner</i> or <i>coordinating registered professional</i> shall deliver to that authority letters in the forms set out in Schedules C-A and C-B (See the end of Division C and Note A-2.2.7.2.(2).)</p>
+<p  outputclass="04Article"><b>2.2.7.3.&#x00A0;Registered Professional Responsibilities</b></p>
+<p  outputclass="05Sentence">(See Note A-2.2.7.3.)</p>
+<p  outputclass="05Sentence">1)&#x00A0;&#x00A0;&#x00A0;A <i>registered professional of record</i> who signs a letter, the form of which is set out in a Schedule to this Subsection, and an <i>owner</i> who signs or has an agent sign a letter the form of which is set out in a Schedule to this Subsection, shall comply with this Subsection and the provisions of the letter that apply to the person signing.</p>
+<p  outputclass="05Sentence">2)&#x00A0;&#x00A0;&#x00A0;A <i>registered professional of record</i> or <i>coordinating registered professional</i> who is responsible for a <i>field review</i> shall keep a record of the <i>field review</i> and of any corrective action taken as a result of the <i>field review</i> and shall make the record available to the <i>authority having jurisdiction</i> on the request of that authority.</p>
+<p  outputclass="05Sentence">3)&#x00A0;&#x00A0;&#x00A0;A <i>registered professional of record</i> who is retained to undertake design work and <i>field reviews</i> and who is required to provide letters pursuant to Clause 2.2.7.2.(1)(b) shall</p>
+<p  outputclass="05Sentence">a)&#x00A0;&#x00A0;&#x00A0;place their professional seal or stamp on the plans submitted by them in support of the application for a <i>building</i> permit, after ascertaining that they substantially comply with the British Columbia Building Code and other applicable enactments respecting safety,</p>
+<p  outputclass="05Sentence">b)&#x00A0;&#x00A0;&#x00A0;provide to the <i>authority having jurisdiction</i> a letter in the form of Schedule C-B (see the end of Division C) after ascertaining that the components of the project for which the <i>registered professional of record</i> is responsible are constructed so as to substantially comply, in all material respects, with</p>
+<p  outputclass="05Sentence">i)&#x00A0;&#x00A0;&#x00A0;the plans and supporting documents prepared by the <i>registered professional of record</i>, and</p>
+<p  outputclass="05Sentence">ii)&#x00A0;&#x00A0;&#x00A0;the requirements of the British Columbia Building Code and other applicable enactments respecting safety, not including construction safety aspects.</p>
+<p  outputclass="04Article"><b>2.2.7.4.&#x00A0;Termination</b></p>
+<p  outputclass="05Sentence">1)&#x00A0;&#x00A0;&#x00A0;An <i>owner</i> must not terminate the appointment of a <i>coordinating registered professional</i> or <i>registered professional of record</i> unless</p>
+<p  outputclass="05Sentence">a)&#x00A0;&#x00A0;&#x00A0;the <i>owner</i> immediately replaces the <i>coordinating registered professional</i> or <i>registered professional of record</i>, or</p>
+<p  outputclass="05Sentence">b)&#x00A0;&#x00A0;&#x00A0;the <i>owner</i> has complied with Clause (1)(b) and Sentence (2) of Article 2.2.7.2. by delivering letters in the forms set out in Schedule A, B, C-A and C-B, as applicable, to the <i>authority having jurisdiction</i>.</p>
+<p  outputclass="05Sentence">2)&#x00A0;&#x00A0;&#x00A0;In respect of a project to which this Subsection applies,</p>
+<p  outputclass="05Sentence">a)&#x00A0;&#x00A0;&#x00A0;if the <i>coordinating registered professional</i> ceases to be retained at any time before the completion of the project, both the <i>owner</i> and the <i>coordinating registered professional</i> shall notify the <i>authority having jurisdiction</i>, and</p>
+<p  outputclass="05Sentence">b)&#x00A0;&#x00A0;&#x00A0;if a <i>registered professional of record</i> ceases to be retained at any time before the completion of the project, both the <i>coordinating registered professional</i> and the <i>registered professional of record</i> shall notify the <i>authority having</i> <i>jurisdiction</i>.</p>
+<p  outputclass="05Sentence">3)&#x00A0;&#x00A0;&#x00A0;Notification under Sentences (1) and (2) shall be made,</p>
+<p  outputclass="05Sentence">a)&#x00A0;&#x00A0;&#x00A0;if possible, before the <i>coordinating registered professional</i> or <i>registered professional of record</i>, as the case may be, ceases to be retained, or</p>
+<p  outputclass="05Sentence">b)&#x00A0;&#x00A0;&#x00A0;if advance notice is not possible, as soon as possible..</p>
+<p  outputclass="03Subsection"><b>2.2.8.&#x00A0;Drawings, Specifications and Calculations for Energy Performance and Greenhouse Gas Emissions Compliance</b></p>
+<p  outputclass="04Article"><b>2.2.8.1.&#x00A0;Application</b></p>
+<p  outputclass="05Sentence">1)&#x00A0;&#x00A0;&#x00A0;This Subsection applies only to houses with or without a&#x00A0;<xref  format="html" href="file:///E:_2005-201X_Codes_GuidesHTML_DOCX_WORD_sourceNBC2020p1scnd-t" scope="external"><ph  outputclass="origXrefData">secondary suite</ph></xref>&#x00A0;including their common spaces and to&#x00A0;<xref  format="html" href="file:///E:_2005-201X_Codes_GuidesHTML_DOCX_WORD_sourceNBC2020p1bldng" scope="external"><ph  outputclass="origXrefData">buildings</ph></xref>&#x00A0;containing only&#x00A0;<xref  format="html" href="file:///E:_2005-201X_Codes_GuidesHTML_DOCX_WORD_sourceNBC2020p1dwllng-n" scope="external"><ph  outputclass="origXrefData">dwelling units</ph></xref>&#x00A0;and common spaces whose total&#x00A0;<xref  format="html" href="file:///E:_2005-201X_Codes_GuidesHTML_DOCX_WORD_sourceNBC2020p1flr-r" scope="external"><ph  outputclass="origXrefData">floor area</ph></xref>&#x00A0;does not exceed 20% of the total&#x00A0;<xref  format="html" href="file:///E:_2005-201X_Codes_GuidesHTML_DOCX_WORD_sourceNBC2020p1flr-r" scope="external"><ph  outputclass="origXrefData">floor area</ph></xref>&#x00A0;of the&#x00A0;<xref  format="html" href="file:///E:_2005-201X_Codes_GuidesHTML_DOCX_WORD_sourceNBC2020p1bldng" scope="external"><ph  outputclass="origXrefData">building</ph></xref>&#x00A0;that are modeled in accordance with&#x00A0;<ph  outputclass="Hyperlink">Subsection</ph><ph  outputclass="Hyperlink">&#x00A0;</ph><ph  outputclass="Hyperlink">9.36.5.</ph>&#x00A0;and 9.37.1 of Division&#x00A0;<ph  outputclass="Hyperlink">B</ph>&#x00A0;as applicable .(See&#x00A0;<xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID979" scope="peer"><ph  outputclass="origXrefData">Note</ph></xref><xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID979" scope="peer"><ph  outputclass="origXrefData">&#x00A0;</ph></xref><xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID979" scope="peer"><ph  outputclass="origXrefData">A-2.2.8.1.(1)</ph></xref>.) (See also&#x00A0;<ph  outputclass="Hyperlink">Sentence</ph><ph  outputclass="Hyperlink">&#x00A0;</ph><ph  outputclass="Hyperlink">9.36.1.2.(1)</ph>&#x00A0;and&#x00A0;<ph  outputclass="Hyperlink">Note</ph><ph  outputclass="Hyperlink">&#x00A0;</ph><ph  outputclass="Hyperlink">A-9.36.1.3.(3)</ph>&#x00A0;of Division&#x00A0;<ph  outputclass="Hyperlink">B</ph>.)</p>
+<p  outputclass="04Article"><b>2.2.8.2.&#x00A0;Information Required on Drawings and Specifications</b></p>
+<p  outputclass="05Sentence">1)&#x00A0;&#x00A0;&#x00A0;Except as provided in Sentences&#x00A0;<xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID360" scope="peer"><ph  outputclass="origXrefData">(2)</ph></xref>&#x00A0;to&#x00A0;<xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID369" scope="peer"><ph  outputclass="origXrefData">(4)</ph></xref>, the drawings and specifications for the proposed house shall include</p>
+<p  outputclass="05Sentence">a)&#x00A0;&#x00A0;&#x00A0;the effective thermal resistance values and respective areas of all opaque&#x00A0;<xref  format="html" href="file:///E:_2005-201X_Codes_GuidesHTML_DOCX_WORD_sourceNBC2020p1bldng" scope="external"><ph  outputclass="origXrefData">building</ph></xref>&#x00A0;envelope assemblies, including all above-ground and below-ground roof/ceiling, wall, and floor assemblies,</p>
+<p  outputclass="05Sentence">b)&#x00A0;&#x00A0;&#x00A0;the overall thermal transmittance (U-value), solar heat gain coefficient and respective areas of all fenestration and door components,</p>
+<p  outputclass="05Sentence">c)&#x00A0;&#x00A0;&#x00A0;the ratio of total vertical fenestration and door area to gross wall area,</p>
+<p  outputclass="05Sentence">d)&#x00A0;&#x00A0;&#x00A0;the performance rating, energy source, and types of all equipment required for space-heating and -cooling and service water heating,</p>
+<p  outputclass="05Sentence">e)&#x00A0;&#x00A0;&#x00A0;the design basis for the ventilation rates,</p>
+<p  outputclass="05Sentence">f)&#x00A0;&#x00A0;&#x00A0;where a test is used to determine the airtightness of a house, the measured airtightness of the&#x00A0;<xref  format="html" href="file:///E:_2005-201X_Codes_GuidesHTML_DOCX_WORD_sourceNBC2020p1bldng" scope="external"><ph  outputclass="origXrefData">building</ph></xref>&#x00A0;envelope in air changes per hour, and</p>
+<p  outputclass="05Sentence">g)&#x00A0;&#x00A0;&#x00A0;any additional features used in the energy model calculations that account for a significant difference in house energy performance.</p>
+<p  id="X800F9CB1_ID360" outputclass="05Sentence">2)&#x00A0;&#x00A0;&#x00A0;The effective thermal resistance values and respective areas of opaque&#x00A0;<xref  format="html" href="file:///E:_2005-201X_Codes_GuidesHTML_DOCX_WORD_sourceNBC2020p1bldng" scope="external"><ph  outputclass="origXrefData">building</ph></xref>&#x00A0;envelope assemblies that cover less than 2% of the total area of their respective assembly type need not be provided in the drawings and specifications required in&#x00A0;<xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID348" scope="peer"><ph  outputclass="origXrefData">Sentence</ph></xref><xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID348" scope="peer"><ph  outputclass="origXrefData">&#x00A0;</ph></xref><xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID348" scope="peer"><ph  outputclass="origXrefData">(1)</ph></xref>.</p>
+<p  outputclass="05Sentence">3)&#x00A0;&#x00A0;&#x00A0;Where part-load characteristics are used in the modeling of the HVAC equipment, they need not be provided in the drawings and specifications required in&#x00A0;<xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID348" scope="peer"><ph  outputclass="origXrefData">Sentence</ph></xref><xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID348" scope="peer"><ph  outputclass="origXrefData">&#x00A0;</ph></xref><xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID348" scope="peer"><ph  outputclass="origXrefData">(1)</ph></xref>.</p>
+<p  id="X800F9CB1_ID369" outputclass="05Sentence">4)&#x00A0;&#x00A0;&#x00A0;The features of the proposed house that differ from those of the reference house shall be detailed in the specifications required in&#x00A0;<xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID348" scope="peer"><ph  outputclass="origXrefData">Sentence</ph></xref><xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID348" scope="peer"><ph  outputclass="origXrefData">&#x00A0;</ph></xref><xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID348" scope="peer"><ph  outputclass="origXrefData">(1)</ph></xref>.</p>
+<p  outputclass="05Sentence">5)&#x00A0;&#x00A0;&#x00A0;The drawings and specifications for the proposed house shall include the GHG Emission Level achieved, as applicable. (See Sentence 9.37.1.2.(5) of Division B).</p>
+<p  outputclass="04Article"><b>2.2.8.3.&#x00A0;House Performance Compliance Calculation Report</b></p>
+<p  outputclass="05Sentence">1)&#x00A0;&#x00A0;&#x00A0;A house performance compliance calculation report shall be provided in accordance with&#x00A0;<xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID379" scope="peer"><ph  outputclass="origXrefData">Sentence</ph></xref><xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID379" scope="peer"><ph  outputclass="origXrefData">&#x00A0;</ph></xref><xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID379" scope="peer"><ph  outputclass="origXrefData">(2)</ph></xref>&#x00A0;for each proposed house design.</p>
+<p  id="X800F9CB1_ID379" outputclass="05Sentence">2)&#x00A0;&#x00A0;&#x00A0;In addition to the drawings and specifications required in&#x00A0;<xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID347" scope="peer"><ph  outputclass="origXrefData">Article</ph></xref><xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID347" scope="peer"><ph  outputclass="origXrefData">&#x00A0;</ph></xref><xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID347" scope="peer"><ph  outputclass="origXrefData">2.2.8.2.</ph></xref>, the house performance compliance calculation report shall include</p>
+<p  outputclass="05Sentence">a)&#x00A0;&#x00A0;&#x00A0;a project information section containing</p>
+<p  outputclass="05Sentence">i)&#x00A0;&#x00A0;&#x00A0;the name or identifier of the project,</p>
+<p  outputclass="05Sentence">ii)&#x00A0;&#x00A0;&#x00A0;a description of the project,</p>
+<p  outputclass="05Sentence">iii)&#x00A0;&#x00A0;&#x00A0;the address of the project,</p>
+<p  outputclass="05Sentence">iv)&#x00A0;&#x00A0;&#x00A0;the name and version of the calculation tool,</p>
+<p  outputclass="05Sentence">v)&#x00A0;&#x00A0;&#x00A0;the geographic region in which the proposed house is to be built, and</p>
+<p  outputclass="05Sentence">vi)&#x00A0;&#x00A0;&#x00A0;the identifier for the climatic data set used for analysis,</p>
+<p  outputclass="05Sentence">b)&#x00A0;&#x00A0;&#x00A0;a summary of the characteristics of the&#x00A0;<xref  format="html" href="file:///E:_2005-201X_Codes_GuidesHTML_DOCX_WORD_sourceNBC2020p1bldng" scope="external"><ph  outputclass="origXrefData">building</ph></xref>&#x00A0;envelope, HVAC system and service water heating system reflecting the information provided in&#x00A0;<xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID347" scope="peer"><ph  outputclass="origXrefData">Article</ph></xref><xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID347" scope="peer"><ph  outputclass="origXrefData">&#x00A0;</ph></xref><xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID347" scope="peer"><ph  outputclass="origXrefData">2.2.8.2.</ph></xref>, including energy sources for the <i>building&#x2019;s</i> systems, as applicable,</p>
+<p  outputclass="05Sentence">c)&#x00A0;&#x00A0;&#x00A0;an energy performance data summary containing</p>
+<p  outputclass="05Sentence">i)&#x00A0;&#x00A0;&#x00A0;the annual energy consumption of all energy sources calculated for the proposed house (see&#x00A0;<xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID988" scope="peer"><ph  outputclass="origXrefData">Note</ph></xref><xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID988" scope="peer"><ph  outputclass="origXrefData">&#x00A0;</ph></xref><xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID988" scope="peer"><ph  outputclass="origXrefData">A-2.2.8.3.(2)(c)(i)</ph></xref>), and</p>
+<p  outputclass="05Sentence">ii)&#x00A0;&#x00A0;&#x00A0;the house energy target of all energy sources calculated for the reference house,</p>
+<p  outputclass="05Sentence">d)&#x00A0;&#x00A0;&#x00A0;where a software program is used to determine compliance,</p>
+<p  outputclass="05Sentence">i)&#x00A0;&#x00A0;&#x00A0;the name of the software program(s), and</p>
+<p  outputclass="05Sentence">ii)&#x00A0;&#x00A0;&#x00A0;a list of any adaptations made by the user to the software relating to input or output values, and</p>
+<p  outputclass="05Sentence">e)&#x00A0;&#x00A0;&#x00A0;a statement that the calculation was performed in compliance with</p>
+<p  outputclass="05Sentence">&#x00A0;i)&#x00A0;&#x00A0;&#x00A0;<ph  outputclass="Hyperlink">Subsection</ph><ph  outputclass="Hyperlink">&#x00A0;</ph><ph  outputclass="Hyperlink">9.36.5.</ph>&#x00A0;of Division&#x00A0;<ph  outputclass="Hyperlink">B</ph><ph  outputclass="Hyperlink">,</ph></p>
+<p  outputclass="05Sentence">ii)&#x00A0;&#x00A0;&#x00A0;Sentence 9.36.6.3.(3) of Division B, or</p>
+<p  outputclass="05Sentence">iii)&#x00A0;&#x00A0;&#x00A0;Sentence 9.36.6.4.(2) of Division B, and</p>
+<p  outputclass="05Sentence">f)&#x00A0;&#x00A0;&#x00A0;where applicable, the emissions factor or factors used to calculate GHG emission compliance in accordance with Subsection 9.37.1. of Division B, and</p>
+<p  outputclass="05Sentence">i)&#x00A0;&#x00A0;&#x00A0;the maximum GHG emissions by house, expressed in kgCO<sub>2e</sub>/year, and</p>
+<p  outputclass="05Sentence">ii)&#x00A0;&#x00A0;&#x00A0;where applicable, the maximum GHGI of the house, expressed in kgCO<sub>2e</sub>/m<sup>2</sup>/year.</p>
+<p  outputclass="05Sentence">3)&#x00A0;&#x00A0;&#x00A0;Where a <i>building</i> complies with Subsection 9.36.6. of Division B, the energy performance data summary in Clause (2)(c) shall also contain:</p>
+<p  outputclass="05Sentence">a)&#x00A0;&#x00A0;&#x00A0;the <i>floor area</i> of <i>conditioned space</i> used for the energy modelling calculations (see Note A-9.36.6.2. of Division B),</p>
+<p  outputclass="05Sentence">b)&#x00A0;&#x00A0;&#x00A0;the mechanical energy use intensity,</p>
+<p  outputclass="05Sentence">c)&#x00A0;&#x00A0;&#x00A0; the thermal energy demand intensity,</p>
+<p  outputclass="05Sentence">d)&#x00A0;&#x00A0;&#x00A0;where applicable, the percent heat loss reduction and percent improvement,</p>
+<p  outputclass="05Sentence">e)&#x00A0;&#x00A0;&#x00A0;for <i>buildings</i> conforming to Steps 3 to 5, the airtightness of the <i>building</i> as tested that is accounted for in accordance with Sentence 9.36.6.4.(3) of Division B, and derived in accordance with Subsection 9.36.7., recorded in</p>
+<p  outputclass="05Sentence">i)&#x00A0;&#x00A0;&#x00A0;air changes per hour at 50 Pa,</p>
+<p  outputclass="05Sentence">ii)&#x00A0;&#x00A0;&#x00A0;normalized leakage area at 10 Pa, or</p>
+<p  outputclass="05Sentence">iii)&#x00A0;&#x00A0;&#x00A0;normalized leakage rate at 50 Pa, and</p>
+<p  outputclass="05Sentence">f)&#x00A0;&#x00A0;&#x00A0;percent of the <i>building&#x2019;s conditioned space </i>served by space-cooling equipment.</p>
+<p  outputclass="05Sentence">4)&#x00A0;&#x00A0;&#x00A0;The mechanical energy use intensity in Clause (3)(b), the thermal energy demand intensity in Clause (3)(c), and the percent heat loss reduction and percent improvement in Clause (3)(d) shall account for the airtightness referenced in Clause (3)(e) or (f), as applicable.</p>
+<p  outputclass="04Article"><b>2.2.9. Drawings, Specifications and Calculations for Subsection 10.2.3. and Section 10.3.</b></p>
+<p  outputclass="04Article"><b>2.2.9.1. Application</b></p>
+<p  outputclass="05Sentence">1)&#x00A0;&#x00A0;&#x00A0;This Subsection applies to <i>buildings</i> and <i>major occupancies</i> in <i>buildings</i> to which Subsection 10.2.3. and Section 10.3. of Division B are applicable.</p>
+<p  outputclass="04Article"><b>2.2.9.2. Information Required</b></p>
+<p  outputclass="05Sentence">1)&#x00A0;&#x00A0;&#x00A0;For <i>buildings</i> and <i>major occupancies</i> that are designed and constructed in compliance with Subsection 10.2.3. and Section 10.3. of Division B, design drawings, specifications, or an energy design report shall indicate:</p>
+<p  outputclass="05Sentence">a)&#x00A0;&#x00A0;&#x00A0;the total energy use intensity as defined by Sentence 10.2.3.2.(1) of Division B,</p>
+<p  outputclass="05Sentence">b)&#x00A0;&#x00A0;&#x00A0;the energy use intensity of major energy services separately, including</p>
+<p  outputclass="05Sentence">i)&#x00A0;&#x00A0;&#x00A0;space heating,</p>
+<p  outputclass="05Sentence">ii)&#x00A0;&#x00A0;&#x00A0;space cooling,</p>
+<p  outputclass="05Sentence">iii)&#x00A0;&#x00A0;&#x00A0;service water heating,</p>
+<p  outputclass="05Sentence">iv)&#x00A0;&#x00A0;&#x00A0;lighting, and</p>
+<p  outputclass="05Sentence">v)&#x00A0;&#x00A0;&#x00A0;other plug loads,</p>
+<p  outputclass="05Sentence">c)&#x00A0;&#x00A0;&#x00A0;the thermal energy demand intensity as defined by Sentence 10.2.3.2.(2) of Division B, and</p>
+<p  outputclass="05Sentence">d)&#x00A0;&#x00A0;&#x00A0;the air leakage rate as derived in accordance with Sentence 10.2.3.4.(3). of Division B, and recorded in L/(s&#x2022;m<sup>2</sup>) at 75 Pa.</p>
+<p  outputclass="05Sentence">e)&#x00A0;&#x00A0;&#x00A0;the GHG Emission Level achieved, as applicable, and</p>
+<p  outputclass="05Sentence">f)&#x00A0;&#x00A0;&#x00A0;the maximum GHGI of the <i>building</i>, expressed in kgCO<sub>2e</sub>/m<sup>2</sup>/year, as applicable.</p>
+<p  outputclass="05Sentence">2)&#x00A0;&#x00A0;&#x00A0;For <i>buildings</i> and <i>major occupancies</i> that are designed and constructed in compliance with Subsection 10.2.3. and Section 10.3. of Division B, as applicable,  before an <i>owner</i> occupies or receives permission to occupy the <i>building</i>, an energy report shall indicate:</p>
+<p  outputclass="05Sentence">a)&#x00A0;&#x00A0;&#x00A0;the total energy use intensity as defined by Sentence 10.2.3.2.(1) of Division B,</p>
+<p  outputclass="05Sentence">b)&#x00A0;&#x00A0;&#x00A0;the energy use intensity of major energy services separately, including</p>
+<p  outputclass="05Sentence">i)&#x00A0;&#x00A0;&#x00A0;space heating,</p>
+<p  outputclass="05Sentence">ii)&#x00A0;&#x00A0;&#x00A0;space cooling,</p>
+<p  outputclass="05Sentence">iii)&#x00A0;&#x00A0;&#x00A0;service water heating,</p>
+<p  outputclass="05Sentence">iv)&#x00A0;&#x00A0;&#x00A0;lighting, and</p>
+<p  outputclass="05Sentence">v)&#x00A0;&#x00A0;&#x00A0;other plug loads,</p>
+<p  outputclass="05Sentence">c)&#x00A0;&#x00A0;&#x00A0;the thermal energy demand intensity as defined by Sentence 10.2.3.2.(2) of Division B,</p>
+<p  outputclass="05Sentence">d)&#x00A0;&#x00A0;&#x00A0;for <i>buildings</i> conforming to Step 2, the air leakage rate as tested, derived in accordance with Article 10.2.3.5. of Division B, and recorded in L/(s&#x2022;m<sup>2</sup>) at 75 Pa, and</p>
+<p  outputclass="05Sentence">e)&#x00A0;&#x00A0;&#x00A0;for <i>buildings</i> conforming to any of Steps 2 to 4, the air leakage rate as tested that is accounted for in accordance with Sentence 10.2.3.4.(2) of Division B and derived in accordance with Article 10.2.3.5. of Division B, recorded in L/(s&#x2022;m<sup>2</sup>) at 75 Pa,</p>
+<p  outputclass="05Sentence">f)&#x00A0;&#x00A0;&#x00A0;the GHG Emission Level achieved, as applicable, and</p>
+<p  outputclass="05Sentence">g)&#x00A0;&#x00A0;&#x00A0;the maximum GHGI of the <i>building</i>, expressed in kgCO<sub>2e</sub>/m<sup>2</sup>/year, as applicable.</p>
+<p  outputclass="05Sentence">3)&#x00A0;&#x00A0;&#x00A0;The total energy use intensity in Clause (2)(a) and the thermal energy demand intensity in Clause (2)(c) shall account for the airtightness referenced in Clause (2)(d) or (e), as applicable.</p>
+<p  outputclass="02Section"><b>Section&#x00A0;&#x00A0;2.3.&#x00A0;&#x00A0;&#x00A0;Alternative Solutions</b></p>
+<p  outputclass="03Subsection"><b>2.3.1.&#x00A0; Alternative Solutions</b></p>
+<p  outputclass="05Sentence">(See&#x00A0;<xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID993" scope="peer"><ph  outputclass="origXrefData">Note</ph></xref><xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID993" scope="peer"><ph  outputclass="origXrefData">&#x00A0;</ph></xref><xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID993" scope="peer"><ph  outputclass="origXrefData">A-2.3.1.</ph></xref>)</p>
+<p  outputclass="04Article"><b>2.3.1.1. Application</b></p>
+<p  outputclass="05Sentence">1) For the purposes of Clause 1.2.1.1.(1)(b) of Division A, on written request by the <i>owner </i>of a <i>building</i> or an authorized agent of that owner, the <i>authority having jurisdiction</i> shall accept a measure as an alternate solution to an acceptable solution for the <i>building</i> if satisfied that</p>
+<p  outputclass="05Sentence">a) the measure will achieve at least the level of performance required by Clause 1.2.1.1.(1)(b) of Division A, and</p>
+<p  outputclass="05Sentence">b) the acceptable solution does not expressly require conformance to a provincial enactment other than the British Columbia Building Code.</p>
+<p  outputclass="04Article"><b>2.3.1.2.&#x00A0;Documentation</b></p>
+<p  outputclass="05Sentence">1)&#x00A0;&#x00A0;&#x00A0;The <i>authority having jurisdiction</i> may require a person requesting the use of an alternative solution to provide documentation to demonstrate that the proposed alternative solution will achieve at least the level of performance required by Clause 1.2.1.1.(1)(b) of Division A.</p>
+<p  outputclass="05Sentence">2)&#x00A0;&#x00A0;&#x00A0;The documentation referred to in&#x00A0;<xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID504" scope="peer"><ph  outputclass="origXrefData">Sentence</ph></xref><xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID504" scope="peer"><ph  outputclass="origXrefData">&#x00A0;</ph></xref><xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID504" scope="peer"><ph  outputclass="origXrefData">(1)</ph></xref>&#x00A0;shall include</p>
+<p  outputclass="05Sentence">a)&#x00A0;&#x00A0;&#x00A0;a Code analysis outlining the analytical methods and rationales used to determine that a proposed alternative solution will achieve at least the level of performance required by&#x00A0;<ph  outputclass="Hyperlink">Clause</ph><ph  outputclass="Hyperlink">&#x00A0;</ph><ph  outputclass="Hyperlink">1.2.1.1.(1)(b)</ph>&#x00A0;of Division&#x00A0;<ph  outputclass="Hyperlink">A</ph>, and</p>
+<p  outputclass="05Sentence">b)&#x00A0;&#x00A0;&#x00A0;information concerning any special maintenance or operational requirements, including any&#x00A0;<xref  format="html" href="file:///E:_2005-201X_Codes_GuidesHTML_DOCX_WORD_sourceNBC2020p1bldng" scope="external"><ph  outputclass="origXrefData">building</ph></xref>&#x00A0;component commissioning requirements, that are necessary for the alternative solution to achieve compliance with the Code after the&#x00A0;<xref  format="html" href="file:///E:_2005-201X_Codes_GuidesHTML_DOCX_WORD_sourceNBC2020p1bldng" scope="external"><ph  outputclass="origXrefData">building</ph></xref>&#x00A0;is constructed.</p>
+<p  outputclass="05Sentence">3)&#x00A0;&#x00A0;&#x00A0;The Code analysis referred to in&#x00A0;<xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID510" scope="peer"><ph  outputclass="origXrefData">Clause</ph></xref><xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID510" scope="peer"><ph  outputclass="origXrefData">&#x00A0;</ph></xref><xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID510" scope="peer"><ph  outputclass="origXrefData">(2)(a)</ph></xref>&#x00A0;shall identify the applicable objectives, functional statements and acceptable solutions, and any assumptions, limiting or restricting factors, testing procedures, engineering studies or&#x00A0;<xref  format="html" href="file:///E:_2005-201X_Codes_GuidesHTML_DOCX_WORD_sourceNBC2020p1bldng" scope="external"><ph  outputclass="origXrefData">building</ph></xref>&#x00A0;performance parameters that will support a Code compliance assessment.</p>
+<p  outputclass="05Sentence">4)&#x00A0;&#x00A0;&#x00A0;The Code analysis referred to in&#x00A0;<xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID510" scope="peer"><ph  outputclass="origXrefData">Clause</ph></xref><xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID510" scope="peer"><ph  outputclass="origXrefData">&#x00A0;</ph></xref><xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID510" scope="peer"><ph  outputclass="origXrefData">(2)(a)</ph></xref>&#x00A0;shall include information about the qualifications, experience and background of the person or persons taking responsibility for the design.</p>
+<p  outputclass="05Sentence">5)&#x00A0;&#x00A0;&#x00A0;The information provided under&#x00A0;<xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID518" scope="peer"><ph  outputclass="origXrefData">Sentence</ph></xref><xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID518" scope="peer"><ph  outputclass="origXrefData">&#x00A0;</ph></xref><xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID518" scope="peer"><ph  outputclass="origXrefData">(3)</ph></xref>&#x00A0;shall be in sufficient detail to convey the design intent and to support the validity, accuracy, relevance and precision of the Code analysis.</p>
+<p  outputclass="05Sentence">6)&#x00A0;&#x00A0;&#x00A0;Where more than one person is responsible for the design of a <i>building</i> or facility that includes a proposed alternative solution, the person requesting the use of the alternative solution shall identify a single person to co-ordinate the preparation of the design, Code analysis and documentation referred to in this Article.</p>
+<?note ?>
+<p  id="X800F9CB1_ID537" outputclass="01Part">Administrative Provisions</p>
+<p  outputclass="13Appnotes">A-2.2.1.2.(1)&#x00A0;&#x00A0;&#x00A0;Structural Design.&#x00A0;Part 4 of Division B is written on the assumption that structural design will be carried out by a professional who is qualified to perform such design.&#x00A0;<xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID67" scope="peer"><ph  outputclass="origXrefData">Sentence</ph></xref><xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID67" scope="peer"><ph  outputclass="origXrefData">&#x00A0;</ph></xref><xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID67" scope="peer"><ph  outputclass="origXrefData">2.2.1.2.(1)</ph></xref>&#x00A0;is not intended to imply that a professional may not also be required in the application of requirements in other Parts of the British Columbia Building Code.</p>
+<p  id="X800F9CB1_ID543" outputclass="13Appnotes">A-2.2.6.2.(1)&#x00A0;&#x00A0;&#x00A0;Information Required on Drawings and Specifications.&#x00A0;&#x00A0;Examples of information that should be shown on architectural drawings and drawings for heating, ventilating and air-conditioning systems are:</p>
+<p  outputclass="13Appnotes">(a)&#x00A0;&#x00A0;&#x00A0;the name, type and location of the building,</p>
+<p  outputclass="13Appnotes">(b)&#x00A0;&#x00A0;&#x00A0;the name of the owner,</p>
+<p  outputclass="13Appnotes">(c)&#x00A0;&#x00A0;&#x00A0;the name of the architect,</p>
+<p  outputclass="13Appnotes">(d)&#x00A0;&#x00A0;&#x00A0;the name of the engineer or designer,</p>
+<p  outputclass="13Appnotes">(e)&#x00A0;&#x00A0;&#x00A0;the north point,</p>
+<p  outputclass="13Appnotes">(f)&#x00A0;&#x00A0;&#x00A0;the dimensions and height of all rooms,</p>
+<p  outputclass="13Appnotes">(g)&#x00A0;&#x00A0;&#x00A0;the intended use of all rooms,</p>
+<p  outputclass="13Appnotes">(h)&#x00A0;&#x00A0;&#x00A0;the details or description of the wall, roof, ceiling and floor construction, including insulation,</p>
+<p  outputclass="13Appnotes">(i)&#x00A0;&#x00A0;&#x00A0;the details or description of the windows and outside doors, including the size, weatherstripping, storm sashes, sills and storm doors,</p>
+<p  outputclass="13Appnotes">(j)&#x00A0;&#x00A0;&#x00A0;the size and continuity of all pipes, ducts, shafts, flues and fire dampers,</p>
+<p  outputclass="13Appnotes">(k)&#x00A0;&#x00A0;&#x00A0;the location, size, capacity and type of all principal units of equipment,</p>
+<p  outputclass="13Appnotes">(l)&#x00A0;&#x00A0;&#x00A0;the size, shape and height of all chimneys and gas vents,</p>
+<p  outputclass="13Appnotes">(m)&#x00A0;&#x00A0;&#x00A0;the size and location of all combustion air and ventilation openings, and</p>
+<p  outputclass="13Appnotes">(n)&#x00A0;&#x00A0;&#x00A0;the location and fire-resistance rating of required fire separations.</p>
+<p  outputclass="13Appnotes">A-2.2.7.&#x00A0;&#x00A0;&#x00A0;Professional Design and Review.  This Subsection provides for the use of what are generally called Letters of Assurance. The letters themselves, known as Schedules A, B, C-A and C-B and located at the end of Division C, are intended to put on paper the responsibilities of the owner and the various registered professionals in a construction project. The Letters of Assurance do not impose any additional responsibilities on the registered professionals nor are they intended to alter the roles and responsibilities of the authorities having jurisdiction.</p>
+<p  outputclass="13Appnotes">The Schedules have been very carefully scrutinized by the Province of British Columbia, Union of BC Municipalities, Building Officials&#x2019; Association of British Columbia, Architectural Institute of British Columbia, Association of Professional Engineers and Geoscientists of British Columbia and their respective legal counsel. The precise wording in the letters is extremely critical and must not be modified. Any notations on these Schedules which are absolutely necessary to suit a particular project must be clearly and legibly marked in ink on the copies.</p>
+<p  outputclass="13Appnotes">It is typical that the registered professional responsible for the design is also responsible for the field review. There are instances where this is not the case and having a different registered professional doing the field reviews is unavoidable. Schedule C-B requires that the registered professional who provides the field review provide assurance that the building as finally constructed is in substantial conformance with the Code. In the event that another registered professional is to provide field review, the field reviewer takes on the responsibility to confirm that the construction substantially complies with the plans and supporting documents that were submitted for the building permit. The responsibility for code compliance of the design remains with the original registered professional who undertook the design. In this event, the Schedule C-B must be modified by the field reviewer by crossing out and initialing Clause (b)(i) and providing the effective transition date.</p>
+<?note ?>
+<p  outputclass="13Appnotes">A-2.2.7.1.(1)(c)(i)&#x00A0;&#x00A0;&#x00A0;Structural Components.  The reference to &#x201C;structural components of buildings that fall within the scope of Part 4&#x201D; includes the situation where a building is classified under Part 9 due to its size and occupancy but also contains some structural components (such as beams supporting concentrated loads) which must be designed under Part 4. In this situation only Schedules B and C-B for the structural components are required. Schedule A and Schedules B, C-A and C-B relating to non-structural components are not required.</p>
+<p  outputclass="13Appnotes">A-2.2.7.2.(1)(a)&#x00A0;&#x00A0;&#x00A0;Coordinating Registered Professional.  The coordinating registered professional is responsible to ascertain that all Code related aspects which are relevant to the project are clearly identified by each of the registered professionals in the collection of Schedules B. If a registered professional of record has crossed out any item on their Schedule B, the coordinating registered professional must confirm this item is not applicable to the project or resolve the issue with the registered professional of record.</p>
+<p  outputclass="13Appnotes">A-2.2.7.2.(1)(b)&#x00A0;&#x00A0;&#x00A0;Schedule B.  The purpose of Schedule B is to clearly identify the appropriate registered professional of record who has the overall responsibility in each discipline for compliance with the various Code related aspects of the project. Detailed design of certain building components may be undertaken by other registered professionals. The registered professional of record is responsible for monitoring the design work and field review of the other registered professionals within their discipline for components listed in Schedule B. In the event that the other registered professionals provide design and field review, the registered professional of record must be satisfied that such design and field reviews have been performed and is responsible for Schedule C-B.</p>
+<p  outputclass="13Appnotes">A-2.2.7.2.(2)&#x00A0;&#x00A0;&#x00A0;Schedule C-A.   Schedule C-A provides confirmation that the coordinating registered professional has completed the obligation to coordinate the various registered professionals engaged in the project. It also confirms that the testing of the interrelated fire and life safety systems, such as fire alarms and sprinklers, has been completed and the systems function as intended.</p>
+<p  outputclass="13Appnotes">A-2.2.7.3.&#x00A0;&#x00A0;&#x00A0;Demonstration of the Coordinated Fire and Life Safety Systems.  The design drawings and supporting documents must clearly indicate all essential details of the Coordinated Fire and Life Safety Systems prior to the construction of or the alteration to a building. Demonstration of the proper, integrated operation of the Fire and Life Safety Systems must be conducted prior to occupancy.</p>
+<?note ?>
+<p  outputclass="13Appnotes">The following is an example of the steps required to coordinate the installation and testing of fire and life safety systems in buildings.</p>
+<p  outputclass="13Appnotes"><b>1.0.</b>&#x00A0;&#x00A0;&#x00A0;<b>General </b></p>
+<p  outputclass="13Appnotes">Referencing Schedule B:</p>
+<p  outputclass="13Appnotes">&#x2022; Item No. 1.14 &#x22;Functional Testing of Architecturally Related Fire Emergency Systems and Devices,&#x22;</p>
+<p  outputclass="13Appnotes">&#x2022; Item No. 3.4 &#x22;Functional Testing of Mechanically Related Fire Emergency Systems and Devices,&#x22;</p>
+<p  outputclass="13Appnotes">&#x2022; Item No. 4.5 &#x22;Functional Testing of Plumbing Related Fire Emergency Systems and Devices,&#x22;</p>
+<p  outputclass="13Appnotes">&#x2022; Item No. 5.14 &#x22;Functional Testing of Fire Suppression Systems and Devices,&#x22; and</p>
+<p  outputclass="13Appnotes">&#x2022; Item No. 6.3 &#x22;Functional Testing of Electrical Related Fire Emergency Systems and Devices.&#x22;</p>
+<p  outputclass="13Appnotes">The Coordinating Registered Professional (CRP) and Registered Professionals of Record (RPRs) must demonstrate that the Fire and Life Safety Systems&#x27; design has been coordinated prior to the issuance of the Building Permit. That is, the CRP/RPRs must accumulate and submit the necessary documentation, such as:</p>
+<p  outputclass="13Appnotes">&#x2022; complete drawings,</p>
+<p  outputclass="13Appnotes">&#x2022; schedules,</p>
+<p  outputclass="13Appnotes">&#x2022; schematic diagrams,</p>
+<p  outputclass="13Appnotes">&#x2022; a fire alarm system sequencing description showing coordination between mechanical and electrical fire protection and life safety systems,</p>
+<p  outputclass="13Appnotes">&#x2022; mechanical fire protection and life safety schematic riser diagrams,</p>
+<p  outputclass="13Appnotes">&#x2022; an electrical fire alarm riser diagram,</p>
+<p  outputclass="13Appnotes">&#x2022; a motor data list coordinated with fire alarm system sequencing, and</p>
+<p  outputclass="13Appnotes">&#x2022; other documentation, as appropriate,</p>
+<p  outputclass="13Appnotes">to demonstrate that the interface of the Fire and Life Safety Systems has been designed and coordinated so that when built correctly they will function as an integrated system. Further, it is intended that when the construction of the Fire &amp; Life Safety Systems is indicated by the Contractor to be complete, the RPRs/CRP witness the demonstration of the testing of the Fire and Life Safety Systems to confirm compliance that the as-built systems function as intended by the design.</p>
+<p  outputclass="13Appnotes">The required list of items will depend on the simplicity or complexity of the Project. The following is a comprehensive list of items for Fire and Life Safety Systems for a complex project, which must be coordinated in order to demonstrate compliance:</p>
+<?note s: <i>It is the responsibility of the Coordinating Registered Professional (CRP) and Registered Professionals of Record (RPRs) to determine the best method of &amp;#x22;How To&amp;#x22; demonstrate to the Authority Having Jurisdiction (AHJ) that the Fire and Life Safety Systems have been coordinated for each project</i>. <i>That is, the method(s) used (i.e., charts, drawings, matrices, tables, etc.) for demonstration purposes should be project-specific and relate only to that project.</i>?>
+<p  outputclass="13Appnotes">It is not the intent of this Appendix material to dictate or produce &#x22;checklists&#x22; or other prescriptive methods for demonstrating compliance since this is best left to the professional discretion of the appropriate CRP/RPRs.</p>
+<p  outputclass="13Appnotes"><b>2.0.</b>&#x00A0;&#x00A0;&#x00A0;<b>Design Phase &#x2014; Building Permit Application Stage &amp; Final Construction Phase &#x2014; Occupancy Permit Application Stage </b></p>
+<p  outputclass="13Appnotes"><b>2.1.</b>&#x00A0;&#x00A0;&#x00A0;<b>Fire Protection and Life Safety Systems</b></p>
+<p  outputclass="13Appnotes"><b>2.1.1.</b>&#x00A0;&#x00A0;&#x00A0;<b>Automatic Sprinkler Systems</b></p>
+<p  outputclass="13Appnotes">&#x2022; design requirements to appropriate Standard</p>
+<p  outputclass="13Appnotes"><b>2.1.2.</b>&#x00A0;&#x00A0;&#x00A0;<b>Standpipe Systems</b></p>
+<p  outputclass="13Appnotes">&#x2022; design requirements to appropriate Standard</p>
+<p  outputclass="13Appnotes">&#x2022; Class I/Class II</p>
+<p  outputclass="13Appnotes">&#x2022; locations</p>
+<p  outputclass="13Appnotes">&#x2022; coverage</p>
+<p  outputclass="13Appnotes">&#x2022; F.D. connections</p>
+<p  outputclass="13Appnotes"><b>2.1.3.</b>&#x00A0;&#x00A0;&#x00A0;<b>Fire Pump Systems</b></p>
+<p  outputclass="13Appnotes">&#x2022; design requirements to appropriate Standard</p>
+<p  outputclass="13Appnotes"><b>2.1.4.</b>&#x00A0;&#x00A0;&#x00A0;<b>Fire Alarm Systems</b></p>
+<p  outputclass="13Appnotes">&#x2022; one/two stage system(s)</p>
+<p  outputclass="13Appnotes">&#x2022; no. of systems</p>
+<p  outputclass="13Appnotes">&#x2022; design requirements to appropriate Standard</p>
+<p  outputclass="13Appnotes">&#x2022; sequence of operation</p>
+<p  outputclass="13Appnotes">&#x2022; fire alarm system zoning</p>
+<p  outputclass="13Appnotes">&#x2022; location of fire alarm system devices</p>
+<p  outputclass="13Appnotes">&#x2022; annunciator panel (location and design criteria)</p>
+<p  outputclass="13Appnotes">&#x2022; annunciator panel shop drawings (detail design)</p>
+<p  outputclass="13Appnotes">&#x2022; sprinkler zone/waterflow device</p>
+<p  outputclass="13Appnotes">&#x2022; smoke detectors</p>
+<p  outputclass="13Appnotes">&#x2022; smoke alarms</p>
+<p  outputclass="13Appnotes">&#x2022; manual pull stations</p>
+<p  outputclass="13Appnotes">&#x2022; signals to Fire Department via an acceptable central monitoring station</p>
+<p  outputclass="13Appnotes">&#x2022; activation of ancillary devices</p>
+<p  outputclass="13Appnotes"><b>2.1.6.</b>&#x00A0;&#x00A0;&#x00A0;<b>Emergency Telephone System</b></p>
+<p  outputclass="13Appnotes">&#x2022; each exit stair</p>
+<p  outputclass="13Appnotes"><b>2.1.7.</b>&#x00A0;&#x00A0;&#x00A0;<b>Emergency Power</b></p>
+<p  outputclass="13Appnotes">&#x2022; design requirements to appropriate Standard</p>
+<p  outputclass="13Appnotes">&#x2022; supervisory provisions for fire alarm</p>
+<p  outputclass="13Appnotes">&#x2022; emergency electrical load</p>
+<p  outputclass="13Appnotes">&#x2022; emergency generator</p>
+<p  outputclass="13Appnotes"><b>2.1.8.</b>&#x00A0;&#x00A0;&#x00A0;<b>Emergency Lighting</b></p>
+<p  outputclass="13Appnotes">&#x2022; exits</p>
+<p  outputclass="13Appnotes">&#x2022; access to exits</p>
+<p  outputclass="13Appnotes">&#x2022; public corridors</p>
+<p  outputclass="13Appnotes">&#x2022; other floor areas</p>
+<p  outputclass="13Appnotes"><b>2.1.9.</b>&#x00A0;&#x00A0;&#x00A0;<b>Exit Signs</b></p>
+<p  outputclass="13Appnotes"><b>2.2.</b>&#x00A0;&#x00A0;&#x00A0;<b>Additional Requirements for High Buildings</b></p>
+<p  outputclass="13Appnotes"><b>2.2.1.</b>&#x00A0;&#x00A0;&#x00A0;<b>Interface Condition between Highrise and Lowrise Components (Measure &#x27;N&#x27; Vestibules)</b></p>
+<p  outputclass="13Appnotes"><b>2.2.2.</b>&#x00A0;&#x00A0;&#x00A0;<b>Smoke Control &#x2014; Measure A</b></p>
+<p  outputclass="13Appnotes">&#x2022; design requirements to appropriate Standard</p>
+<p  outputclass="13Appnotes">&#x2022; venting above-grade stairs</p>
+<p  outputclass="13Appnotes">&#x2022; separation of above-grade and below-grade stairs</p>
+<p  outputclass="13Appnotes">&#x2022; venting below-grade stairs</p>
+<p  outputclass="13Appnotes">&#x2022; pressurization of below-grade stairs at bottom</p>
+<p  outputclass="13Appnotes">&#x2022; above-grade elevator shaft serving below-grade protected with a &#x22;protected&#x22; vestibule</p>
+<p  outputclass="13Appnotes">&#x2022; additional controls at CACF (annunciator panel shop drawings)</p>
+<p  outputclass="13Appnotes"><b>2.2.3.</b>&#x00A0;&#x00A0;&#x00A0;<b>Smoke Venting</b></p>
+<p  outputclass="13Appnotes"><b>2.2.4.</b>&#x00A0;&#x00A0;&#x00A0;<b>Fire Fighters&#x27; Elevators</b></p>
+<p  outputclass="13Appnotes">&#x2022; fire fighting controls</p>
+<p  outputclass="13Appnotes">&#x2022; emergency recall</p>
+<p  outputclass="13Appnotes"><b>2.2.5.</b>&#x00A0;&#x00A0;&#x00A0;<b>Protection of Emergency Electrical Conductors</b></p>
+<p  outputclass="13Appnotes">&#x2022; highrise elevator</p>
+<p  outputclass="13Appnotes">&#x2022; emergency generator(s)</p>
+<p  outputclass="13Appnotes">&#x2022; fire pump(s)</p>
+<p  outputclass="13Appnotes">&#x2022; smoke control systems</p>
+<p  outputclass="13Appnotes">&#x2022; smoke venting systems</p>
+<p  outputclass="13Appnotes">&#x2022; fire alarm and emergency voice communication systems</p>
+<p  outputclass="13Appnotes"><b>2.2.6.</b>&#x00A0;&#x00A0;&#x00A0;<b>Emergency Voice Communications</b></p>
+<p  outputclass="13Appnotes">&#x2022; integrated with fire alarm system</p>
+<p  outputclass="13Appnotes">&#x2022; audible to appropriate Standard</p>
+<p  outputclass="13Appnotes">&#x2022; zoning of speakers</p>
+<p  outputclass="13Appnotes"><b>3.0.</b>&#x00A0;&#x00A0;&#x00A0;<b>Roles and Responsibilities for the Demonstration of the Coordinated Fire and Life Safety Systems</b></p>
+<p  outputclass="13Appnotes"><b>3.1.</b>&#x00A0;&#x00A0;&#x00A0;<b>Roles and Responsibilities for the Design, Commissioning and Functional Testing of Fire and Life Safety Systems</b></p>
+<p  outputclass="13Appnotes"><b>3.1.1.</b>&#x00A0;&#x00A0;&#x00A0;<b>Design Phase</b></p>
+<p  outputclass="13Appnotes">RPRs will clearly indicate on their drawings and supporting documents the details of the fire and life safety systems for each applicable item of Section 2 for their particular discipline. RPRs will also coordinate the design of the components in their system with the designs of other RPRs on the project. RPRs are to indicate what functional testing, system verification, etc., must be performed by the Contractor or subtrades and establish the documentation to be provided.</p>
+<p  outputclass="13Appnotes">The CRP will develop the project-specific test protocol and procedures in consultation with the RPRs. The CRP will act as the facilitator for the coordination of the design of the fire and life safety systems among the various RPRs.</p>
+<p  outputclass="13Appnotes"><b>3.1.2.</b>&#x00A0;&#x00A0;&#x00A0;<b>Construction Phase</b></p>
+<p  outputclass="13Appnotes">The Contractor will coordinate the activities of the subtrade contractors for the installation of the fire and life safety systems in accordance with the contract documents.</p>
+<p  outputclass="13Appnotes">RPRs will provide field reviews to ascertain that the construction of the fire and life safety systems substantially complies with their design.</p>
+<p  outputclass="13Appnotes">RPRs will review shop drawings of the fire and life safety systems to determine that they accurately reflect their design intent. They will also coordinate their reviews with those of the other RPRs on the project.</p>
+<p  outputclass="13Appnotes">The CRP will coordinate the shop drawing reviews and field reviews by the RPs with the objective that the entire fire and life safety system will correctly operate as an integrated system.</p>
+<p  outputclass="13Appnotes"><b>3.1.3.</b>&#x00A0;&#x00A0;&#x00A0;<b>Occupancy Phase</b></p>
+<p  outputclass="13Appnotes">The Contractor will coordinate the subtrade contractors for the commissioning and functional testing of the fire and life safety systems. The Contractor will also collect all of the required Occupancy Permit submission documents from the various subtrade contractors and forward them to the CRP.</p>
+<p  outputclass="13Appnotes">The CRP will take the lead role in coordinating the activities of the RPRs required for the commissioning and functional testing of the fire and life safety systems. The CRP will distribute the test protocol and test procedures, as developed in the Design Stage, to the various parties involved in the process.</p>
+<p  outputclass="13Appnotes">RPRs will ascertain that the appropriate commissioning and functional testing of the fire and life safety systems of the components in their disciplines have been satisfactorily completed by the subtrade contractors. They will also determine that the appropriate Occupancy Permit submission documents have been submitted and filled in correctly.</p>
+<p  outputclass="13Appnotes">The CRP will be responsible for collecting all of the required Occupancy Permit submission documents, reviewing them for completeness and accuracy, and forwarding them to the AHJ in a complete package at least 24 hours prior to the Coordinated Final AHJ Review.</p>
+<p  outputclass="13Appnotes"><b>3.2.</b>&#x00A0;&#x00A0;&#x00A0;<b>Sample Summary of Roles and Responsibilities for Demonstration of the Coordinated Fire and Life Safety Systems</b></p>
+<p  outputclass="13Appnotes">The following is a sample summary (only) of the roles and responsibilities for a typical highrise building with underground parking. The precise roles and responsibilities for each project will vary depending on the complexity. The CRP will ascertain that the appropriate roles and responsibilities for each project are fulfilled by the RPRs.</p>
+<p  outputclass="13Appnotes"><b>3.2.1.</b>&#x00A0;&#x00A0;&#x00A0;<b>Coordinating Registered Professional</b></p>
+<p  outputclass="13Appnotes"><b>Design Phase</b></p>
+<p  outputclass="13Appnotes">&#x2022; Determine the appropriate RPRs required for the project and make arrangements with the owner for their services.</p>
+<p  outputclass="13Appnotes">&#x2022; Clarify the roles and responsibilities of the various RPRs.</p>
+<p  outputclass="13Appnotes">&#x2022; Coordinate the design of the fire and life safety systems by the RPRs.</p>
+<p  outputclass="13Appnotes">&#x2022; Coordinate and develop the test protocol and procedures for functional testing of the fire and life safety systems.</p>
+<p  outputclass="13Appnotes">&#x2022; Coordinate the submission of the design drawings and supporting documents for the Building Permit application.</p>
+<p  outputclass="13Appnotes"><b>Construction Phase</b></p>
+<p  outputclass="13Appnotes">&#x2022; Coordinate and monitor the field reviews of the RPRs.</p>
+<p  outputclass="13Appnotes">&#x2022; Coordinate and monitor the review of shop drawings by the RPRs.</p>
+<p  outputclass="13Appnotes">&#x2022; Facilitate the information flow among the RPRs and Contractor.</p>
+<p  outputclass="13Appnotes"><b>Occupancy Phase</b></p>
+<p  outputclass="13Appnotes">&#x2022; In conjunction with the RPRs, finalize the project-specific test protocol and procedures for the fire and life safety systems, and review the requirements with the Contractor, subtrades and RPRs.</p>
+<p  outputclass="13Appnotes">&#x2022; Finalize the list of project-specific occupancy permit submission documents and the schedule for submissions and confirm completeness with AHJ.</p>
+<p  outputclass="13Appnotes">&#x2022; Organize the &#x22;Coordinated Final Consultant Review&#x22; at least one week prior to &#x22;Coordinated AHJ Final Review.&#x22;</p>
+<p  outputclass="13Appnotes">&#x2022; Take a lead role in coordinating the functional testing of the fire and life safety systems during the &#x22;Coordinated Final Consultant Review.&#x22;</p>
+<p  outputclass="13Appnotes">&#x2022; Coordinate the RPRs&#x27; review of Occupancy Permit submission documents for completeness and accuracy. &#x2022; Coordinate Certification of Equivalencies, if applicable.</p>
+<p  outputclass="13Appnotes">&#x2022; Collect all of the required Occupancy Permit submission documents and submit them in a complete package to the AHJ.</p>
+<p  outputclass="13Appnotes">&#x2022; Organize the &#x22;Coordinated AHJ Final Review.&#x22;</p>
+<p  outputclass="13Appnotes">&#x2022; Record any deficiencies identified at the &#x22;Coordinated AHJ Final Review&#x22; and monitor RPRs&#x27; field review of the corrective actions by the subtrades.</p>
+<p  outputclass="13Appnotes">&#x2022; Assist in finalizing the list of outstanding requirements which need to be met for the issuance of the Occupancy Permit.</p>
+<p  outputclass="13Appnotes">&#x2022; Follow-up on minor deficiencies post-Occupancy.</p>
+<p  outputclass="13Appnotes"><b>3.2.2.</b>&#x00A0;&#x00A0;&#x00A0;<b>Architectural Design Phase</b></p>
+<p  outputclass="13Appnotes">&#x2022; Establish the conceptual design for the fire and life safety systems in consultation with RPRs.</p>
+<p  outputclass="13Appnotes">&#x2022; Determine equivalency reports required and coordinate the implementation on the drawings and supporting documents.</p>
+<p  outputclass="13Appnotes">&#x2022; Clearly indicate on drawings and supporting documents:</p>
+<p  outputclass="13Appnotes">&#x2022; Major occupancies and code classifications.</p>
+<p  outputclass="13Appnotes">&#x2022; Fire separations and fire-resistance ratings.</p>
+<p  outputclass="13Appnotes">&#x2022; Closures:</p>
+<p  outputclass="13Appnotes">&#x2022; Fire-protection rating</p>
+<p  outputclass="13Appnotes">&#x2022; Temperature rise requirements</p>
+<p  outputclass="13Appnotes">&#x2022; Amount of glazing</p>
+<p  outputclass="13Appnotes">&#x2022; Hardware for closures</p>
+<p  outputclass="13Appnotes">&#x2022; Panic hardware</p>
+<p  outputclass="13Appnotes">&#x2022; Hold-open devices</p>
+<p  outputclass="13Appnotes">&#x2022; Electromagnetic locks</p>
+<p  outputclass="13Appnotes">&#x2022; Egress systems.</p>
+<p  outputclass="13Appnotes">&#x2022; Provisions for fire fighting access.</p>
+<p  outputclass="13Appnotes">&#x2022; Interior and exterior finishes.</p>
+<p  outputclass="13Appnotes">&#x2022; Elevating devices c/w integrated controls to the fire alarm panel.</p>
+<p  outputclass="13Appnotes">&#x2022; Signage coordinated with fire alarm system and annunciation.</p>
+<p  outputclass="13Appnotes"><b>Construction Phase</b></p>
+<p  outputclass="13Appnotes">&#x2022; Provide field reviews of architectural components.</p>
+<p  outputclass="13Appnotes">&#x2022; Review shop drawings for architectural components and coordinate requirements with other RPRs.</p>
+<p  outputclass="13Appnotes">&#x2022; Review shop drawings for other disciplines which may influence architectural components.</p>
+<p  outputclass="13Appnotes"><b>Occupancy Phase</b></p>
+<p  outputclass="13Appnotes">&#x2022; Ascertain that the architectural components substantially conform to the architectural drawings and supporting documents.</p>
+<p  outputclass="13Appnotes">&#x2022; Perform an active role in witnessing the functional testing of the architectural components of the fire and life safety systems.</p>
+<p  outputclass="13Appnotes">&#x2022; Coordinate the signage with the fire alarm annunciator and the fire safety plans.</p>
+<p  outputclass="13Appnotes">&#x2022; Review the architecturally-related Occupancy Permit submission documents provided by the Contractor and subtrades for completeness and accuracy.</p>
+<p  outputclass="13Appnotes">&#x2022; Prepare and forward to the CRP the architectural Schedule C-B and other assurance letters required for the Occupancy Permit.</p>
+<p  outputclass="13Appnotes"><b>3.2.3.</b>&#x00A0;&#x00A0;&#x00A0;<b>Mechanical/Plumbing Design Phase</b></p>
+<p  outputclass="13Appnotes">&#x2022; Coordinate mechanical/plumbing clearances and functional requirements with other RPRs.</p>
+<p  outputclass="13Appnotes">&#x2022; Clearly indicate on drawings and supporting documents:</p>
+<p  outputclass="13Appnotes">&#x2022; Details of the mechanical/plumbing components of the fire and life safety systems.</p>
+<p  outputclass="13Appnotes">&#x2022; Schematic diagram of the smoke venting system showing all fans, ducts, motorized dampers, fusible link dampers and backdraft dampers.</p>
+<p  outputclass="13Appnotes">&#x2022; Location and fire-protection ratings of fusible link fire dampers and fire stop flaps.</p>
+<p  outputclass="13Appnotes">&#x2022; Location and fire-protection ratings of motorized fire dampers.</p>
+<p  outputclass="13Appnotes">&#x2022; Location and fire-resistance ratings of fire-rated duct enclosures.</p>
+<p  outputclass="13Appnotes">&#x2022; Fire stop systems for mechanical/plumbing penetrations of fire separations.</p>
+<p  outputclass="13Appnotes">&#x2022; Kitchen exhaust system/suppression system.</p>
+<p  outputclass="13Appnotes">&#x2022; Mechanical fans/motorized dampers sequence of operations:</p>
+<p  outputclass="13Appnotes">&#x2022; Describe operation under normal mode</p>
+<p  outputclass="13Appnotes">&#x2022; Describe operation under fire alarm mode</p>
+<p  outputclass="13Appnotes">&#x2022; Indicate fire alarm initiation devices that activate change of operation</p>
+<p  outputclass="13Appnotes"><b>Construction Phase</b></p>
+<p  outputclass="13Appnotes">&#x2022; Provide field reviews of mechanical/plumbing components.</p>
+<p  outputclass="13Appnotes">&#x2022; Review shop drawings for mechanical/plumbing components and coordinate requirements with other RPRs.</p>
+<p  outputclass="13Appnotes">&#x2022; Review shop drawings for other disciplines which may influence mechanical/plumbing components.</p>
+<p  outputclass="13Appnotes"><b>Occupancy Phase</b></p>
+<p  outputclass="13Appnotes">&#x2022; Ascertain that the mechanical/plumbing components substantially conform to the mechanical/plumbing drawings and supporting documents.</p>
+<p  outputclass="13Appnotes">&#x2022; Perform an active role in witnessing the functional testing of the mechanical/ plumbing components of the fire and life safety systems.</p>
+<p  outputclass="13Appnotes">&#x2022; Review the mechanical/plumbing related occupancy permit submission documents provided by the Contractor and subtrades for completeness and accuracy.</p>
+<p  outputclass="13Appnotes">&#x2022; Prepare and forward to the CRP the mechanical/plumbing Schedule C-B and other assurance letters and documentation required for the Occupancy Permit.</p>
+<p  outputclass="13Appnotes"><b>3.2.4.</b>&#x00A0;&#x00A0;&#x00A0;<b>Fire Suppression</b></p>
+<p  outputclass="13Appnotes">The design of sprinkler systems can be accomplished by at least two possible scenarios:</p>
+<p  outputclass="13Appnotes"><b>Scenario 1</b></p>
+<p  outputclass="13Appnotes">&#x2022; The engineer of record undertakes the complete detailed design prior to the building permit application.</p>
+<p  outputclass="13Appnotes">&#x2022; The engineer of record submits Schedule B with the BP application.</p>
+<p  outputclass="13Appnotes">&#x2022; The engineer of record provides field reviews during construction and submits a Schedule C-B prior to Occupancy Permit.</p>
+<p  outputclass="13Appnotes"><b>Scenario 2</b></p>
+<p  outputclass="13Appnotes">&#x2022; The engineer of record provides a detailed performance specification for the sprinkler design, as well as sufficient drawings to demonstrate/assure layout feasibility and interface with other components.</p>
+<p  outputclass="13Appnotes">&#x2022; The engineer of record submits Schedule B with the BP application for overall coordination of the sprinkler design. Schedule B can be annotated &#x22;For Performance Specification Only.&#x22;</p>
+<p  outputclass="13Appnotes">&#x2022; The performance specifications may include a requirement that a separate sprinkler design engineer be responsible for detailed sprinkler design, preparation of sprinkler shop drawings and hydraulic calculations, letter of assurance Schedule B, (for field review during construction), and Schedule C-B (for Detailed Design) prior to Occupancy Permit.</p>
+<p  outputclass="13Appnotes">&#x2022; The engineer of record reviews the detailed sprinkler design and shop drawings to ascertain that they substantially comply with the performance specifications.</p>
+<p  outputclass="13Appnotes">&#x2022; The engineer of record provides a Schedule C-B prior to Occupancy Permit to confirm overall coordination of the sprinkler design and installation. Schedule C-B can be annotated &#x22;For Performance Specification Only.&#x22; The engineer of record is entitled to rely upon the professional seal of the sprinkler design engineer for the detailed design and field review of the sprinkler system.</p>
+<p  outputclass="13Appnotes">For purposes of this example, Scenario 2 Roles and Responsibilities are outlined below:</p>
+<p  outputclass="13Appnotes"><b>Design Phase by Engineer of Record</b></p>
+<p  outputclass="13Appnotes">&#x2022; Coordinate fire suppression spatial and functional requirements with other RPRs/CRP.</p>
+<p  outputclass="13Appnotes">&#x2022; Clearly indicate on the drawings and performance specification:</p>
+<p  outputclass="13Appnotes">&#x2022; Fundamental design parameters for the fire suppression system to appropriate Standard.</p>
+<p  outputclass="13Appnotes">&#x2022; Location of fire department siamese hose connections.</p>
+<p  outputclass="13Appnotes">&#x2022; Location and size of standpipes and hose connections.</p>
+<p  outputclass="13Appnotes">&#x2022; Details of special sprinkler protection as per equivalent reports.</p>
+<p  outputclass="13Appnotes">&#x2022; Fire stop systems for pipe penetrations of fire separations.</p>
+<p  outputclass="13Appnotes">&#x2022; Zoning of the sprinkler system to be coordinated with the electrical engineer for the fire alarm annunciation and clearly identified in the performance specifications.</p>
+<p  outputclass="13Appnotes"><b>Construction Phase by Sprinkler Design Engineer</b></p>
+<p  outputclass="13Appnotes">&#x2022; Prepare, sign and seal shop drawings and hydraulic calculations, clearly indicating:</p>
+<p  outputclass="13Appnotes">&#x2022; Details of the fire suppression components of the fire and life safety systems.</p>
+<p  outputclass="13Appnotes">&#x2022; Schematic riser diagram of sprinkler and standpipe systems c/w all devices that will be connected to the fire alarm system (flow switches, tamper switches, pressure switches, freeze monitoring, heat trace monitoring).</p>
+<p  outputclass="13Appnotes">&#x2022; Location of fire department siamese hose connections.</p>
+<p  outputclass="13Appnotes">&#x2022; Location and size of standpipes and hose connections.</p>
+<p  outputclass="13Appnotes">&#x2022; Details of special sprinkler protection as per equivalent reports.</p>
+<p  outputclass="13Appnotes">&#x2022; Zoning of the sprinkler system to be coordinated with the electrical engineer for the fire alarm annunciation and clearly identified on the sprinkler shop drawings.</p>
+<p  outputclass="13Appnotes">&#x2022; Coordinate fire suppression location and functional requirements with engineer of record/CRP.</p>
+<p  outputclass="13Appnotes">&#x2022; Provide field reviews of fire suppression components.</p>
+<p  outputclass="13Appnotes"><b>Construction Phase by Engineer of Record</b></p>
+<p  outputclass="13Appnotes">&#x2022; Review shop drawings and hydraulic calculations for fire suppression components to determine substantial conformance to the performance specifications.</p>
+<p  outputclass="13Appnotes">&#x2022; Provide field reviews of fire suppression components to determine substantial conformance to the performance specifications.</p>
+<p  outputclass="13Appnotes">&#x2022; Monitor the field reviews by the Sprinkler Design Engineer to determine substantial conformance with the performance specifications.</p>
+<p  outputclass="13Appnotes">&#x2022; Review shop drawings for other disciplines which may influence fire suppression components.</p>
+<p  outputclass="13Appnotes"><b>Occupancy Phase by the Engineer of Record</b></p>
+<p  outputclass="13Appnotes">&#x2022; Ascertain that the fire suppression components substantially conform to the performance specifications.</p>
+<p  outputclass="13Appnotes">&#x2022; Perform an active role in witnessing the functional testing of the fire suppression components of the fire and life safety systems.</p>
+<p  outputclass="13Appnotes">&#x2022; Review the fire suppression-related Occupancy Permit submission documents by the Contractor and subtrades for completeness and accuracy.</p>
+<p  outputclass="13Appnotes">&#x2022; Collect the Schedule C-B from the Sprinkler Design Engineer, review for accuracy and completeness and forward to the CRP.</p>
+<p  outputclass="13Appnotes">&#x2022; Collect other Occupancy Permit documents from the subtrade contractor (e.g., Contractor&#x27;s Material and Test Certificates), review for completeness and forward to the CRP.</p>
+<p  outputclass="13Appnotes">&#x2022; Prepare and forward to the CRP the fire suppression Schedule C-B for overall coordination of the fire suppression system.</p>
+<p  outputclass="13Appnotes"><b>Occupancy Phase by the Sprinkler Design Engineer</b></p>
+<p  outputclass="13Appnotes">&#x2022; Ascertain that the fire suppression components substantially conform to the sprinkler shop drawings and supporting documents.</p>
+<p  outputclass="13Appnotes">&#x2022; Perform an active role in witnessing the functional testing of the fire suppression components of the fire and life safety systems.</p>
+<p  outputclass="13Appnotes">&#x2022; Review the fire suppression-related Occupancy Permit submission documents by the Contractor and subtrades for completeness and accuracy.</p>
+<p  outputclass="13Appnotes">&#x2022; Prepare and forward to the Engineer of Record the fire suppression Schedule C-B and other assurance letters and documentation required for the Occupancy Permit.</p>
+<p  outputclass="13Appnotes"><b>3.2.5.</b>&#x00A0;&#x00A0;&#x00A0;<b>Electrical</b></p>
+<p  outputclass="13Appnotes"><b>Design Phase</b></p>
+<p  outputclass="13Appnotes">&#x2022; Coordinate with the CRP and RPRs the test protocol and procedures for functional testing of the fire and life safety systems.</p>
+<p  outputclass="13Appnotes">&#x2022; Details of the electrical components of the fire and life safety systems.</p>
+<p  outputclass="13Appnotes">&#x2022; Clearly indicate on drawings and supporting documents:</p>
+<p  outputclass="13Appnotes">&#x2022; Fire Alarm System</p>
+<p  outputclass="13Appnotes">&#x2022; Location of fire alarm annunciator panel and central alarm control facility</p>
+<p  outputclass="13Appnotes">&#x2022; Location of fire alarm initiating devices (smoke detectors, heat detectors, manual pull stations) &#x2022; Fire alarm riser diagram c/w ancillary device connections</p>
+<p  outputclass="13Appnotes">&#x2022; Audibility of fire alarm signal throughout floor area</p>
+<p  outputclass="13Appnotes">&#x2022; Zoning of fire alarm initiation devices and audible signal appliances</p>
+<p  outputclass="13Appnotes">&#x2022; Monitoring of fire alarm</p>
+<p  outputclass="13Appnotes">&#x2022; Routing and method of protection of emergency conductors</p>
+<p  outputclass="13Appnotes">&#x2022; Wiring methods for equipment</p>
+<p  outputclass="13Appnotes">&#x2022; Testing/verification requirements and the documentation to be submitted to the RPR</p>
+<p  outputclass="13Appnotes">&#x2022; Sprinkler System</p>
+<p  outputclass="13Appnotes">&#x2022; Coordinate design with sprinkler design engineer</p>
+<p  outputclass="13Appnotes">&#x2022; Sprinkler system alarm initiation and monitoring to be indicated on the fire alarm riser diagram (flow, tamper, pressure, etc.)</p>
+<p  outputclass="13Appnotes">&#x2022; Detailed diagrams for freeze protection systems (heat trace monitoring, low temperature monitoring, etc.)</p>
+<p  outputclass="13Appnotes">&#x2022; Fire Pump Systems</p>
+<p  outputclass="13Appnotes">&#x2022; Riser diagram to indicate monitoring of the fire pump (pump running, power failure, phase reversal, wiring details for device connections)</p>
+<p  outputclass="13Appnotes">&#x2022; Routing and method for protection of fire pump feeders from fire and power source, so that a fire from one source will not interrupt power from the other source</p>
+<p  outputclass="13Appnotes">&#x2022; Electrical requirements to appropriate Standard and documents to be submitted to RPR (overcurrent protection details, location of controller and transfer switches, voltage drop, etc.)</p>
+<p  outputclass="13Appnotes">&#x2022; Kitchen Exhaust/Fire Suppression System</p>
+<p  outputclass="13Appnotes">&#x2022; Emergency Generator</p>
+<p  outputclass="13Appnotes">&#x2022; Generator load calculations</p>
+<p  outputclass="13Appnotes">&#x2022; Details and wiring diagram for monitoring through the fire alarm system</p>
+<p  outputclass="13Appnotes">&#x2022; Details for testing to appropriate Standard and documents to be submitted to RPR</p>
+<p  outputclass="13Appnotes">&#x2022; Smoke Venting Systems</p>
+<p  outputclass="13Appnotes">&#x2022; Coordinate design with the mechanical engineer</p>
+<p  outputclass="13Appnotes">&#x2022; Fire alarm riser diagram to indicate smoke venting fans and motorized dampers and HVAC/exhaust fan shutdown</p>
+<p  outputclass="13Appnotes">&#x2022; Detailed wiring diagrams for fan shut-offs, exhaust fan operation, pressurization fan operation, damper operation (opening, closing, throttling)</p>
+<p  outputclass="13Appnotes">&#x2022; Sequence of operation of smoke venting system in a narrative form</p>
+<p  outputclass="13Appnotes">&#x2022; Describe operation under normal mode</p>
+<p  outputclass="13Appnotes">&#x2022; Describe operation under fire alarm mode</p>
+<p  outputclass="13Appnotes">&#x2022; Indicate fire alarm initiating devices that activate changes of operation/sequence</p>
+<p  outputclass="13Appnotes">&#x2022; Routing methods for protection of emergency conductors</p>
+<p  outputclass="13Appnotes">&#x2022; Electromagnetic Locks and Hold-Open Devices</p>
+<p  outputclass="13Appnotes">&#x2022; Coordinate design with the architect</p>
+<p  outputclass="13Appnotes">&#x2022; Sequence of operation in both normal and fire alarm mode</p>
+<p  outputclass="13Appnotes">&#x2022; Wiring diagrams for connection of devices</p>
+<p  outputclass="13Appnotes">&#x2022; Locations of devices on the floor plans</p>
+<p  outputclass="13Appnotes">&#x2022; Elevators</p>
+<p  outputclass="13Appnotes">&#x2022; Sequence of operation in a narrative form</p>
+<p  outputclass="13Appnotes">&#x2022; Wiring diagram details</p>
+<p  outputclass="13Appnotes">&#x2022; Routing and method of protection of emergency conductors</p>
+<p  outputclass="13Appnotes">&#x2022; Fire stop systems for electrical penetrations of fire separations</p>
+<p  outputclass="13Appnotes">&#x2022; Coordinate electrical equipment location and functional requirements with other RPRs/CRP.</p>
+<p  outputclass="13Appnotes"><b>Construction Phase</b></p>
+<p  outputclass="13Appnotes">&#x2022; Provide field reviews of electrical components.</p>
+<p  outputclass="13Appnotes">&#x2022; Review shop drawings for electrical components and coordinate requirements with other RPRs.</p>
+<p  outputclass="13Appnotes">&#x2022; Review shop drawings for other disciplines which may influence electrical components.</p>
+<p  outputclass="13Appnotes"><b>Occupancy Phase</b></p>
+<p  outputclass="13Appnotes">&#x2022; Ascertain that the electrical components substantially conform to the electrical drawings and supporting documents.</p>
+<p  outputclass="13Appnotes">&#x2022; Perform an active role in witnessing the functional testing of the electrical components of the fire and life safety systems.</p>
+<p  outputclass="13Appnotes">&#x2022; Review the electrical-related Occupancy Permit submission documents provided by the Contractor and subtrades for completeness and accuracy.</p>
+<p  outputclass="13Appnotes">&#x2022; Prepare and forward to the CRP the electrical Schedule C-B and other assurance letters and documents required for the Occupancy Permit.</p>
+<p  outputclass="13Appnotes"><b>4.0.</b>&#x00A0;&#x00A0;&#x00A0;<b>Sample Occupancy Demonstration/Witnessing Flowchart</b></p>
+<p  outputclass="13Appnotes">DEVELOP TESTING PROTOCOL/PROCEDURE (Design Stage)</p>
+<p  outputclass="13Appnotes">CRP/RPRs develop Testing Demonstration/Witness Protocol</p>
+<p  outputclass="13Appnotes">&#x2014; Issue to Authorities Having Jurisdiction &amp; Contractor</p>
+<p  outputclass="13Appnotes">||</p>
+<p  outputclass="13Appnotes">&#x005C;/</p>
+<p  outputclass="13Appnotes">DOCUMENTATION SUBMISSION</p>
+<p  outputclass="13Appnotes">Contractor/Subtrades submit/deliver all appropriate documentation to CRP/RPRs, including:</p>
+<p  outputclass="13Appnotes">&#x2014; The original Contractor&#x2019;s Materials and Test Certificate for the sprinkler system</p>
+<p  outputclass="13Appnotes">&#x2014; Fire Pump Flow Test Certificate(s)</p>
+<p  outputclass="13Appnotes">&#x2014; Back Flow Prevention Certificate(s)</p>
+<p  outputclass="13Appnotes">&#x2014; Emergency generator commissioning and verification reports</p>
+<p  outputclass="13Appnotes">&#x2014; The original Certificate of Verification for the fire alarm system</p>
+<p  outputclass="13Appnotes">&#x2014; Appendix &#x201C;A&#x201D; to the fire alarm verification report</p>
+<p  outputclass="13Appnotes">&#x2014; ULC Certificate for Protective Signaling Service</p>
+<p  outputclass="13Appnotes">&#x2014; Other documentation, as appropriate</p>
+<p  outputclass="13Appnotes">||</p>
+<p  outputclass="13Appnotes">&#x005C;/</p>
+<p  outputclass="13Appnotes">CONTRACTOR DEMONSTRATION &#x2014; CONSTRUCTION COMPLETE</p>
+<p  outputclass="13Appnotes">Contractor &amp; Subtrades</p>
+<p  outputclass="13Appnotes">(Mechanical, Electrical, Elevator, Sprinkler, Fire Alarm, etc.) as appropriate</p>
+<p  outputclass="13Appnotes">||</p>
+<p  outputclass="13Appnotes">&#x005C;/</p>
+<p  outputclass="13Appnotes">COORDINATED FINAL CONSULTANT REVIEW DEMONSTRATION/WITNESSING CRP/RPRs</p>
+<p  outputclass="13Appnotes">(Architect, Mechanical Engineer, Electrical Engineer, Sprinkler Engineer, Equivalency Consultant, etc.) as appropriate</p>
+<p  outputclass="13Appnotes">||</p>
+<p  outputclass="13Appnotes">&#x005C;/</p>
+<p  outputclass="13Appnotes">OCCUPANCY SUBMISSION DOCUMENTS</p>
+<p  outputclass="13Appnotes">CRP to collect all submission documents, including Schedule Cs from RPRs, and submit to AHJ in a complete package</p>
+<p  outputclass="13Appnotes">||</p>
+<p  outputclass="13Appnotes">&#x005C;/</p>
+<p  outputclass="13Appnotes">COORDINATED FINAL AHJ REVIEW DEMONSTRATION/WITNESSING</p>
+<p  outputclass="13Appnotes">Contractor, Subtrades, CRP/RPRs demonstrate to AHJ</p>
+<p  outputclass="13Appnotes">(Building, Fire, Mechanical, Electrical and Sprinkler)</p>
+<p  outputclass="13Appnotes">||</p>
+<p  outputclass="13Appnotes">&#x005C;/</p>
+<p  outputclass="13Appnotes">OP ISSUED</p>
+<p  id="X800F9CB1_ID979" outputclass="13Appnotes">A-2.2.8.1.(1)&#x00A0;&#x00A0;&#x00A0;Use of Terms &#x201C;Building&#x201D; and &#x201C;House&#x201D;.&#x00A0;Although the word &#x201C;house&#x201D; is used in the terms &#x201C;proposed house,&#x201D; &#x201C;reference house&#x201D; and &#x201C;house performance compliance calculation report&#x201D; in&#x00A0;<xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID324" scope="peer"><ph  outputclass="origXrefData">Subsection</ph></xref><xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID324" scope="peer"><ph  outputclass="origXrefData">&#x00A0;</ph></xref><xref  format="txt" href="X800F9CB1_topic0.dita#null/X800F9CB1_ID324" scope="peer"><ph  outputclass="origXrefData">2.2.8.</ph></xref>, it is intended to include other types of residential buildings also addressed by&#x00A0;<ph  outputclass="Hyperlink">Subsection</ph><ph  outputclass="Hyperlink">&#x00A0;</ph><ph  outputclass="Hyperlink">9.36.5.</ph>&#x00A0;of Division&#x00A0;<ph  outputclass="Hyperlink">B</ph>. The terms &#x201C;proposed building,&#x201D; &#x201C;reference building&#x201D; and &#x201C;building performance compliance calculation report&#x201D; used in the&#x00A0;<ph  outputclass="Hyperlink">NECB</ph>&#x00A0;apply to other types of buildings.</p>
+<p  id="X800F9CB1_ID988" outputclass="13Appnotes">A-2.2.8.3.(2)(c)(i)&#x00A0;&#x00A0;&#x00A0;Annual Energy Consumption.&#x00A0;The performance compliance calculation method detailed in&#x00A0;<ph  outputclass="Hyperlink">Subsection</ph><ph  outputclass="Hyperlink">&#x00A0;</ph><ph  outputclass="Hyperlink">9.36.5.</ph>&#x00A0;of Division&#x00A0;<ph  outputclass="Hyperlink">B</ph>&#x00A0;uses a number of assumptions regarding environmental values and operating conditions in order to standardize the calculations and neutralize the impact of occupant behaviour or to exclude issues that are not addressed in the requirements. Note that the result of the energy model calculations is not a prediction of the actual energy consumption of the proposed house.</p>
+<p  id="X800F9CB1_ID993" outputclass="13Appnotes">A-2.3.1.&#x00A0;&#x00A0;&#x00A0; Alternative Solutions.&#x00A0;Beyond the purposes of demonstrating compliance and acquiring a building permit, there are other important reasons for requiring that the proponent of an alternative solution submit project documentation (i.e. a compliance report) to the authority having jurisdiction and for the authority having jurisdiction to retain that documentation for a substantial period following the construction of a building:</p>
+<p  outputclass="13Appnotes">&#x2022;&#x00A0;&#x00A0;&#x00A0;Alternative solutions made possible by objective-based codes may have special maintenance requirements, which would be described in the documentation.</p>
+<p  outputclass="13Appnotes">&#x2022;&#x00A0;&#x00A0;&#x00A0;Documentation helps consultants perform code compliance assessments of existing buildings before they are sold and informs current owners or prospective buyers of existing buildings of any limitations pertaining to their future use or development.</p>
+<p  outputclass="13Appnotes">&#x2022;&#x00A0;&#x00A0;&#x00A0;Documentation provides design professionals with the basic information necessary to design changes to an existing building.</p>
+<p  outputclass="13Appnotes">&#x2022;&#x00A0;&#x00A0;&#x00A0;An alternative solution could be invalidated by a proposed alteration to a building. Designers and regulators must therefore know the details of the particular alternative solutions that were integral to the original design. Complete documentation should provide insight as to why one alternative solution was chosen over another.</p>
+<p  outputclass="13Appnotes">&#x2022;&#x00A0;&#x00A0;&#x00A0;Documentation is the &#x201C;paper trail&#x201D; of the alternative solution negotiated between the designer and the regulator and should demonstrate that a rational process led to the acceptance of the alternative solution as an equivalency.</p>
+<p  outputclass="13Appnotes">&#x2022;&#x00A0;&#x00A0;&#x00A0;It is possible that over time a particular alternative solution may be shown to be inadequate. It would be advantageous for a jurisdiction to know which buildings included that alternative solution as part of their design: documentation will facilitate this type of analysis.</p>
+<p  outputclass="13Appnotes">&#x2022;&#x00A0;&#x00A0;&#x00A0;Project documentation provides important information to a forensic team that is called to investigate an accident or why a design failed to provide the level of performance expected.</p>
+<p  outputclass="13Appnotes">This subject is discussed in further detail in &#x201C;Recommended Documentation Requirements for Projects Using Alternative Solutions in the Context of Objective-Based Codes,&#x201D; which was prepared for the CCBFC Task Group on Implementation of Objective-Based Codes and is available on the NRC&#x27;s website.</p>
+</conbody>
+</concept>
