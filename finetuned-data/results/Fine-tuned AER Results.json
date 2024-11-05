@@ -1,0 +1,79 @@
+{
+    "ON Combined": {
+        "Train AER": 0.136986301369863,
+        "Threshold": 0.91,
+        "Test AER": 0.15189873417721522
+    },
+    "AB Building": {
+        "Train AER": 0.03208556149732622,
+        "Threshold": 0.9400000000000001,
+        "Test AER": 0.08532423208191131
+    },
+    "BC Building": {
+        "Train AER": 0.23041825095057034,
+        "Threshold": 0.89,
+        "Test AER": 0.2576687116564417
+    },
+    "NS Building": {
+        "Train AER": Infinity,
+        "Threshold": 1.0,
+        "Test AER": Infinity
+    },
+    "NU Building": {
+        "Train AER": Infinity,
+        "Threshold": 1.0,
+        "Test AER": Infinity
+    },
+    "PE Building": {
+        "Train AER": 0.0,
+        "Threshold": 1.0,
+        "Test AER": 0.0
+    },
+    "SK Building": {
+        "Train AER": 0.40625,
+        "Threshold": 0.9500000000000001,
+        "Test AER": 0.23076923076923073
+    },
+    "AB Fire": {
+        "Train AER": 0.038724373576309756,
+        "Threshold": 0.8,
+        "Test AER": 0.0
+    },
+    "BC Fire": {
+        "Train AER": 0.024630541871921152,
+        "Threshold": 0.79,
+        "Test AER": 0.0
+    },
+    "NS Fire": {
+        "Train AER": 0.03448275862068961,
+        "Threshold": 0.88,
+        "Test AER": 0.0
+    },
+    "ON Fire": {
+        "Train AER": 0.15270670616751958,
+        "Threshold": 0.9,
+        "Test AER": 0.1716101694915254
+    },
+    "SK Fire": {
+        "Train AER": 0.16666666666666663,
+        "Threshold": 0.98,
+        "Test AER": 0.0
+    },
+    "BC Plumbing": {
+        "Train AER": 0.16129032258064513,
+        "Threshold": 0.9500000000000001,
+        "Test AER": 0.0
+    },
+    "NU Plumbing": {
+        "Train AER": 0.23076923076923073,
+        "Threshold": 1.0,
+        "Test AER": 0.0
+    },
+    "PE Plumbing": {
+        "Train AER": 0.6666666666666667,
+        "Threshold": 1.0,
+        "Test AER": Infinity
+    },
+    "Total Test AER": 0.1521843494959193,
+    "Total Train AER": 0.13699951760733242
+}
