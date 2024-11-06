@@ -81,7 +81,7 @@
 | parallel text alignment baseline| vecalign                       | 0.4564   | 0.4568 |
 | feature vector-based            | 1-Hot                          | 0.1296   | 0.1426 |
 |                                 | Bag-of-Words                   | 0.1402   | 0.1554 |
-|                                 | tf-idf Weighted BoW            | 0.1233   | 0.1372 |
+|                                 | TF-IDF Weighted BoW            | 0.1233   | 0.1372 |
 | sentence embeddings             | LASER2                         | 0.1635   | 0.1783 |
 |                                 | LaBSE                          | 0.1352   | 0.1471 |
 | task specific fine-tuned        | bilingual-embedding-large      | 0.1183   | **0.1306** |
