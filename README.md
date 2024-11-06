@@ -73,3 +73,21 @@
 - **transformers.py** - Old script to run the transformer-based models without the `GIST-Embedding-v0` model, and get the AERs.
 
 - **vecalign.py** - Vecalign decides the alignments between the National and the P/T sentences. So, we would not use maximum weight matching and then get the threshold in this case. We would directly compute the train and test AERs on the training and test datasets, repectively. The data for this model can also be found on Teams channel in the `experiments` folder.
+
+
+## Results
+| Category                        | Model                          | Training | Test   |
+|---------------------------------|--------------------------------|----------|--------|
+| parallel text alignment baseline| vecalign                       | 0.4564   | 0.4568 |
+| feature vector-based            | 1-Hot                          | 0.1296   | 0.1426 |
+|                                 | Bag-of-Words                   | 0.1402   | 0.1554 |
+|                                 | $tf$-$idf$ Weighted BoW        | 0.1233   | 0.1372 |
+| sentence embeddings             | LASER2                         | 0.1635   | 0.1783 |
+|                                 | LaBSE                          | 0.1352   | 0.1471 |
+| task specific fine-tuned        | bilingual-embedding-large      | 0.1183   | **0.1306** |
+|                                 | multilingual-e5-large-instruct | 0.1210   | 0.1403 |
+|                                 | mxbai-embed-large-v1           | 0.1194   | 0.1366 |
+|                                 | GIST-embedding-v0              | **0.1165** | 0.1339 |
+| construction codes fine-tuned   | GIST-embedding-v0              | 0.1370   | 0.1522 |
+| MT evaluation metric            | BERTScore                      | 0.1427   | 0.1475 |
+|                                 | COMET                          | 0.1604   | 0.1622 |
